@@ -1,0 +1,48 @@
+**UE5 Blueprint Skills for Claude Code**
+*The first AI plugin that actually reads your Blueprints.*
+
+━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Stop describing your node graph in chat. Stop screenshotting spaghetti and hoping the AI can parse it.
+
+This plugin connects Claude Code directly to your running Unreal Editor. It exports the actual Blueprint data, reads every node and wire, and tells you exactly what's wrong and how to fix it.
+
+**How it works:**
+```
+UE5 Editor → Python Remote Export → T3D Data → Wiring Maps → Analysis + Fix Instructions
+```
+One command to export. One command to audit. One command to fix.
+
+**What it catches (25 anti-patterns):**
+- BreakStruct copy bugs — you're writing to a photocopy, not the original
+- Delay inside ForEachLoop — the loop doesn't wait, only the last iteration fires
+- GetAllActorsOfClass on Tick — iterating every actor 60 times a second
+- Widget leaks — Create Widget without existence check, memory climbs until crash
+- Missing IsValid after Cast — silent null crash
+- ForEachLoop modifying its own source array — undefined behavior
+- ...and 19 more, from critical data-loss to subtle performance killers
+
+**Built for visual learners, not programmers:**
+Every fix instruction specifies pin colors, pin sides, and exact search terms:
+> *"Drag from the **dark teal output pin** on the **right side** of Array Length to the **cyan input pin** on the **left side** of Greater Than"*
+
+You don't need to be a programmer. You need to be able to right-click and search.
+
+**What's included:**
+- 5 skills (setup, export, check, audit, fix)
+- 1,864 node cards from Epic's official UE5 Blueprint API docs
+- 25 anti-pattern detectors + 15 heuristic graph health checks
+- T3D parser + wiring map generator
+- Full pin reference and language system
+
+**Setup takes 2 minutes:**
+1. Enable Python plugin in UE5 (Edit > Plugins)
+2. Turn on Remote Execution (Project Settings > Python)
+3. `pip install upyrc`
+4. Load: `claude --plugin-dir ue5-blueprint-skills`
+
+**Requirements:** Claude Code, Python 3, Node.js, UE5 with Python plugin enabled
+
+MIT Licensed | GitHub: [link]
+
+*Built by someone who discovered every one of these patterns the hard way.*
