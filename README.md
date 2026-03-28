@@ -1,6 +1,6 @@
 # UE5 Blueprint Skills for Claude Code
 
-The first AI-powered Blueprint analysis toolkit for Unreal Engine 5. Export Blueprints from a running editor, detect 25+ anti-patterns, and get beginner-friendly fix instructions — all from your terminal.
+The AI-powered Blueprint analysis toolkit for Unreal Engine 5. Export Blueprints from a running editor, detect 25+ anti-patterns, and get beginner-friendly fix instructions — all from your terminal.
 
 ## What It Does
 
