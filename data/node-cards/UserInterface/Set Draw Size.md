@@ -1,4 +1,3 @@
----
 ## Set Draw Size
 **Category:** UserInterface
 **Search:** "Set Draw Size"

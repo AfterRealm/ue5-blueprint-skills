@@ -1,4 +1,3 @@
----
 ## Open Level (by Object Reference)
 **Category:** Game
 **Search:** "Open Level (by Object Reference)"

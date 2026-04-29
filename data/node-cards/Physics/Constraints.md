@@ -1,4 +1,3 @@
----
 ## Constraints
 **Category:** Physics
 **Search:** "Constraints"

@@ -1,4 +1,3 @@
----
 ## State Machine
 **Category:** Utilities > Animation
 **Search:** "State Machine"

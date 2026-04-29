@@ -1,4 +1,3 @@
----
 ## On Level Hidden
 **Category:** EventDispatchers
 **Search:** "On Level Hidden"

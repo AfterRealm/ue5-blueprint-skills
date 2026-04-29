@@ -1,4 +1,3 @@
----
 ## Application Will Terminate Delegate
 **Category:** EventDispatchers
 **Search:** "Application Will Terminate Delegate"

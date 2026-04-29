@@ -1,4 +1,3 @@
----
 ## Sphere Trace Component
 **Category:** Collision
 **Search:** "Sphere Trace Component"

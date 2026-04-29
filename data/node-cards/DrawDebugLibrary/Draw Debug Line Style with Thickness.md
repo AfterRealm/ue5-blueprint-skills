@@ -1,4 +1,3 @@
----
 ## Draw Debug Line Style with Thickness
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Line Style with Thickness"

@@ -1,4 +1,3 @@
----
 ## Toggle Visibility
 **Category:** Rendering
 **Search:** "Toggle Visibility"

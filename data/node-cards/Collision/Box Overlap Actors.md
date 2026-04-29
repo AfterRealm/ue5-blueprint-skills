@@ -1,4 +1,3 @@
----
 ## Box Overlap Actors
 **Category:** Collision
 **Search:** "Box Overlap Actors"

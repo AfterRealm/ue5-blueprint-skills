@@ -1,4 +1,3 @@
----
 ## Get World Asset (Message)
 **Category:** Default
 **Search:** "Get World Asset (Message)"

@@ -1,4 +1,3 @@
----
 ## Valid Data
 **Category:** EventDispatchers
 **Search:** "Valid Data"

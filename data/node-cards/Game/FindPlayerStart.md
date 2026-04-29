@@ -1,4 +1,3 @@
----
 ## FindPlayerStart
 **Category:** Game
 **Search:** "FindPlayerStart"

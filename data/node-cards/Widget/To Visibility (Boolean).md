@@ -1,4 +1,3 @@
----
 ## To Visibility (Boolean)
 **Category:** Widget
 **Search:** "To Visibility (Boolean)"

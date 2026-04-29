@@ -1,4 +1,3 @@
----
 ## Get Controller
 **Category:** Pawn
 **Search:** "Get Controller"

@@ -1,4 +1,3 @@
----
 ## Inject Input for Action
 **Category:** Input
 **Search:** "Inject Input for Action"

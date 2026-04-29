@@ -1,4 +1,3 @@
----
 ## GetText (Multi-Line Editable Text)
 **Category:** Widget
 **Search:** "GetText (Multi-Line Editable Text)"

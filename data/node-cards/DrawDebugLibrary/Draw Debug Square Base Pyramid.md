@@ -1,4 +1,3 @@
----
 ## Draw Debug Square Base Pyramid
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Square Base Pyramid"

@@ -1,4 +1,3 @@
----
 ## HMDTracking Initializing and Needs HMDTo be Tracked Delegate
 **Category:** EventDispatchers
 **Search:** "HMDTracking Initializing and Needs HMDTo be Tracked Delegate"

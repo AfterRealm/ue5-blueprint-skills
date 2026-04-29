@@ -1,4 +1,3 @@
----
 ## Set Collision Response to All Channels
 **Category:** Collision
 **Search:** "Set Collision Response to All Channels"

@@ -1,4 +1,3 @@
----
 ## Set Use Per Sample Atmospheric Light Transmittance
 **Category:** Rendering
 **Search:** "Set Use Per Sample Atmospheric Light Transmittance"

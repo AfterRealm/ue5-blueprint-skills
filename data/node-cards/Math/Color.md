@@ -1,4 +1,3 @@
----
 ## Color
 **Category:** Math
 **Search:** "Color"

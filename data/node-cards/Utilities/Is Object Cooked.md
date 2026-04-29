@@ -1,4 +1,3 @@
----
 ## Is Object Cooked
 **Category:** Utilities
 **Search:** "Is Object Cooked"

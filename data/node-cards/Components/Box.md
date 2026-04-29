@@ -1,4 +1,3 @@
----
 ## Box
 **Category:** Components
 **Search:** "Box"

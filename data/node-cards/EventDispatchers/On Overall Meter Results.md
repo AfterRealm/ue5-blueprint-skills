@@ -1,4 +1,3 @@
----
 ## On Overall Meter Results
 **Category:** EventDispatchers
 **Search:** "On Overall Meter Results"

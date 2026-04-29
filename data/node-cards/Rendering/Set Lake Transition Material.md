@@ -1,4 +1,3 @@
----
 ## Set Lake Transition Material
 **Category:** Rendering
 **Search:** "Set Lake Transition Material"

@@ -1,4 +1,3 @@
----
 ## Set Text Style Set
 **Category:** Widget
 **Search:** "Set Text Style Set"

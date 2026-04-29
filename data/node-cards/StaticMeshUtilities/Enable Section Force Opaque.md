@@ -1,4 +1,3 @@
----
 ## Enable Section Force Opaque
 **Category:** StaticMeshUtilities
 **Search:** "Enable Section Force Opaque"

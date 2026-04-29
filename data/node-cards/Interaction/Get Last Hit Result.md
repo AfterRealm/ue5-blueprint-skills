@@ -1,4 +1,3 @@
----
 ## Get Last Hit Result
 **Category:** Interaction
 **Search:** "Get Last Hit Result"

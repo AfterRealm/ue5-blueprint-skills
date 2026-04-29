@@ -1,4 +1,3 @@
----
 ## Add Force at Location Local
 **Category:** Physics
 **Search:** "Add Force at Location Local"

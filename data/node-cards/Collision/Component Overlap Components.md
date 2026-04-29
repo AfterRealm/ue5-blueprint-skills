@@ -1,4 +1,3 @@
----
 ## Component Overlap Components
 **Category:** Collision
 **Search:** "Component Overlap Components"

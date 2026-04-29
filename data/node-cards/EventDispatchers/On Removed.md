@@ -1,4 +1,3 @@
----
 ## On Removed
 **Category:** EventDispatchers
 **Search:** "On Removed"

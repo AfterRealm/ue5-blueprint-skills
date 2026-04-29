@@ -1,4 +1,3 @@
----
 ## Application Received Remote Notification Delegate
 **Category:** EventDispatchers
 **Search:** "Application Received Remote Notification Delegate"

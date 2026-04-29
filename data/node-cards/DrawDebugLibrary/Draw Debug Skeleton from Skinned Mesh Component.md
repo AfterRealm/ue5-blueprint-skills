@@ -1,4 +1,3 @@
----
 ## Draw Debug Skeleton from Skinned Mesh Component
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Skeleton from Skinned Mesh Component"

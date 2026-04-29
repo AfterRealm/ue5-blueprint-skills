@@ -1,4 +1,3 @@
----
 ## Get Actor Up Vector
 **Category:** Transformation
 **Search:** "Get Actor Up Vector"

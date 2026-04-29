@@ -1,4 +1,3 @@
----
 ## Get Game State
 **Category:** Game
 **Search:** "Get Game State"

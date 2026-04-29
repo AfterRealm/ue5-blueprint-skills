@@ -1,4 +1,3 @@
----
 ## Get Window Visiblility
 **Category:** UserInterface
 **Search:** "Get Window Visiblility"

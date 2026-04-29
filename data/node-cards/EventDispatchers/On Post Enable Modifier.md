@@ -1,4 +1,3 @@
----
 ## On Post Enable Modifier
 **Category:** EventDispatchers
 **Search:** "On Post Enable Modifier"

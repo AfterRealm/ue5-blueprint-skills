@@ -1,4 +1,3 @@
----
 ## Suggest Projectile Velocity Custom Arc
 **Category:** Game
 **Search:** "Suggest Projectile Velocity Custom Arc"

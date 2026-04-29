@@ -1,4 +1,3 @@
----
 ## Draw Debug Hexagon
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Hexagon"

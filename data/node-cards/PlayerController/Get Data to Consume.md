@@ -1,4 +1,3 @@
----
 ## Get Data to Consume
 **Category:** PlayerController
 **Search:** "Get Data to Consume"

@@ -1,4 +1,3 @@
----
 ## Instanced Struct
 **Category:** Utilities
 **Search:** "Instanced Struct"

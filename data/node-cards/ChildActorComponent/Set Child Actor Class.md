@@ -1,4 +1,3 @@
----
 ## Set Child Actor Class
 **Category:** ChildActorComponent
 **Search:** "Set Child Actor Class"

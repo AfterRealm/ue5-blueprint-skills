@@ -1,4 +1,3 @@
----
 ## Get Local Bounds
 **Category:** Components > Static Mesh
 **Search:** "Get Local Bounds"

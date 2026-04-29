@@ -1,4 +1,3 @@
----
 ## Override Atmosphere Light Direction
 **Category:** Rendering
 **Search:** "Override Atmosphere Light Direction"

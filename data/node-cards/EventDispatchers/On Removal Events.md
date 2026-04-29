@@ -1,4 +1,3 @@
----
 ## On Removal Events
 **Category:** EventDispatchers
 **Search:** "On Removal Events"

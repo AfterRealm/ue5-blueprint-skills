@@ -1,4 +1,3 @@
----
 ## Set MIC IsThinSurface Editor Only
 **Category:** Rendering
 **Search:** "Set MIC IsThinSurface Editor Only"

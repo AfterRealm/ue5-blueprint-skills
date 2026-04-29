@@ -1,4 +1,3 @@
----
 ## Class Is Child Of
 **Category:** Utilities
 **Search:** "Class Is Child Of"

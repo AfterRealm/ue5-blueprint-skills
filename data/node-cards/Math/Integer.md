@@ -1,4 +1,3 @@
----
 ## Integer
 **Category:** Math
 **Search:** "Integer"

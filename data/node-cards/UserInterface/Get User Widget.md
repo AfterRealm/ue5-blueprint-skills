@@ -1,4 +1,3 @@
----
 ## Get User Widget
 **Category:** UserInterface
 **Search:** "Get User Widget"

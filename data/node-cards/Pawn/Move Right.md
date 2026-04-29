@@ -1,4 +1,3 @@
----
 ## Move Right
 **Category:** Pawn
 **Search:** "Move Right"

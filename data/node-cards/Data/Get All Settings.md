@@ -1,4 +1,3 @@
----
 ## Get All Settings
 **Category:** Data
 **Search:** "Get All Settings"

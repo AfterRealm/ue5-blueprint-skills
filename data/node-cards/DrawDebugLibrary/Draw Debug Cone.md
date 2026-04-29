@@ -1,4 +1,3 @@
----
 ## Draw Debug Cone
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Cone"

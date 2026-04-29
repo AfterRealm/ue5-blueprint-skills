@@ -1,4 +1,3 @@
----
 ## Set Size
 **Category:** Widget
 **Search:** "Set Size"

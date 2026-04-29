@@ -1,4 +1,3 @@
----
 ## Is Child Actor
 **Category:** Actor
 **Search:** "Is Child Actor"

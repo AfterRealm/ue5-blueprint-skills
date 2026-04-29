@@ -1,4 +1,3 @@
----
 ## Draw Debug Heptagon
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Heptagon"

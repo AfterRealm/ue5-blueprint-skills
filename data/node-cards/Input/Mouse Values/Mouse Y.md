@@ -1,4 +1,3 @@
----
 ## Mouse Y
 **Category:** Input > Mouse Values
 **Search:** "Mouse Y"

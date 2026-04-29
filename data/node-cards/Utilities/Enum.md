@@ -1,4 +1,3 @@
----
 ## Enum
 **Category:** Utilities
 **Search:** "Enum"

@@ -1,4 +1,3 @@
----
 ## Setup Default Materials
 **Category:** Debug
 **Search:** "Setup Default Materials"

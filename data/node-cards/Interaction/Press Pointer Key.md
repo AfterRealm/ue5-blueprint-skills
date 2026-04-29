@@ -1,4 +1,3 @@
----
 ## Press Pointer Key
 **Category:** Interaction
 **Search:** "Press Pointer Key"

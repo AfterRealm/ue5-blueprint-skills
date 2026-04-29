@@ -1,4 +1,3 @@
----
 ## Vector 4
 **Category:** Math
 **Search:** "Vector 4"

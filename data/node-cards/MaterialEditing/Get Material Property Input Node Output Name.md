@@ -1,4 +1,3 @@
----
 ## Get Material Property Input Node Output Name
 **Category:** MaterialEditing
 **Search:** "Get Material Property Input Node Output Name"

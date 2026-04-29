@@ -1,4 +1,3 @@
----
 ## Download Image
 **Category:** Class > Async Task Download Image
 **Search:** "Download Image"

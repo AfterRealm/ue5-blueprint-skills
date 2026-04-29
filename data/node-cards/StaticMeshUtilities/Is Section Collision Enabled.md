@@ -1,4 +1,3 @@
----
 ## Is Section Collision Enabled
 **Category:** StaticMeshUtilities
 **Search:** "Is Section Collision Enabled"

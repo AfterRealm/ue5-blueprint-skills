@@ -1,4 +1,3 @@
----
 ## Set Visibility
 **Category:** Rendering
 **Search:** "Set Visibility"

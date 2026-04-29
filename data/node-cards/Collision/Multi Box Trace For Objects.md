@@ -1,4 +1,3 @@
----
 ## Multi Box Trace For Objects
 **Category:** Collision
 **Search:** "Multi Box Trace For Objects"

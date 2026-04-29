@@ -1,4 +1,3 @@
----
 ## On Update Tracked Point
 **Category:** Event
 **Search:** "On Update Tracked Point"

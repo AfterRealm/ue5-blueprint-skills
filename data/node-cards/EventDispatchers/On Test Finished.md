@@ -1,4 +1,3 @@
----
 ## On Test Finished
 **Category:** EventDispatchers
 **Search:** "On Test Finished"

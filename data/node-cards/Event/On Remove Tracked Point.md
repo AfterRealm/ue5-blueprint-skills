@@ -1,4 +1,3 @@
----
 ## On Remove Tracked Point
 **Category:** Event
 **Search:** "On Remove Tracked Point"

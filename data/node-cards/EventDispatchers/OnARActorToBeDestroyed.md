@@ -1,4 +1,3 @@
----
 ## OnARActorToBeDestroyed
 **Category:** EventDispatchers
 **Search:** "OnARActorToBeDestroyed"

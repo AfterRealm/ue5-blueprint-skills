@@ -1,4 +1,3 @@
----
 ## Get Collision Response to Channel
 **Category:** Collision
 **Search:** "Get Collision Response to Channel"

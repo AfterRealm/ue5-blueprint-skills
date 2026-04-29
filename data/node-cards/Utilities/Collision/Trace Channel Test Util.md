@@ -1,4 +1,3 @@
----
 ## Trace Channel Test Util
 **Category:** Utilities > Collision
 **Search:** "Trace Channel Test Util"

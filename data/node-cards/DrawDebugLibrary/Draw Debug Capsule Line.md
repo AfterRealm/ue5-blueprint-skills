@@ -1,4 +1,3 @@
----
 ## Draw Debug Capsule Line
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Capsule Line"

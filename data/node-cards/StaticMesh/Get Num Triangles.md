@@ -1,4 +1,3 @@
----
 ## Get Num Triangles
 **Category:** StaticMesh
 **Search:** "Get Num Triangles"

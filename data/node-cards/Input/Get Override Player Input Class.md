@@ -1,4 +1,3 @@
----
 ## Get Override Player Input Class
 **Category:** Input
 **Search:** "Get Override Player Input Class"

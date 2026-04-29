@@ -1,4 +1,3 @@
----
 ## Set Hidden in Scene Capture
 **Category:** Rendering
 **Search:** "Set Hidden in Scene Capture"

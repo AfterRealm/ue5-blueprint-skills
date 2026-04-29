@@ -1,4 +1,3 @@
----
 ## Get Resimulation Threshold
 **Category:** Physics
 **Search:** "Get Resimulation Threshold"

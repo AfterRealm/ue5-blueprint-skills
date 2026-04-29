@@ -1,4 +1,3 @@
----
 ## Try Get Input by Name
 **Category:** Input
 **Search:** "Try Get Input by Name"

@@ -1,4 +1,3 @@
----
 ## Set MIC Vector Parameter Editor Only
 **Category:** Rendering
 **Search:** "Set MIC Vector Parameter Editor Only"

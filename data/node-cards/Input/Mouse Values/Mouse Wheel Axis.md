@@ -1,4 +1,3 @@
----
 ## Mouse Wheel Axis
 **Category:** Input > Mouse Values
 **Search:** "Mouse Wheel Axis"

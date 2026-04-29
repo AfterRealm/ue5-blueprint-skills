@@ -1,4 +1,3 @@
----
 ## Set Mie Absorption
 **Category:** Rendering
 **Search:** "Set Mie Absorption"

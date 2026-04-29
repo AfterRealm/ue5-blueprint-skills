@@ -1,4 +1,3 @@
----
 ## To Soft Object Path
 **Category:** Utilities
 **Search:** "To Soft Object Path"

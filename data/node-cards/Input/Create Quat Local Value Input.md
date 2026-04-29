@@ -1,4 +1,3 @@
----
 ## Create Quat Local Value Input
 **Category:** Input
 **Search:** "Create Quat Local Value Input"

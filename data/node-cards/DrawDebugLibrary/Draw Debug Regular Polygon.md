@@ -1,4 +1,3 @@
----
 ## Draw Debug Regular Polygon
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Regular Polygon"

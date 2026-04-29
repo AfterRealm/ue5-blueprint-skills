@@ -1,4 +1,3 @@
----
 ## Draw Debug Ground Target Arrow
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Ground Target Arrow"

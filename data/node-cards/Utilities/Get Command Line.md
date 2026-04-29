@@ -1,4 +1,3 @@
----
 ## Get Command Line
 **Category:** Utilities
 **Search:** "Get Command Line"

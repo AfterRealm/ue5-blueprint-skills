@@ -1,4 +1,3 @@
----
 ## Draw Debug Sphere
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Sphere"

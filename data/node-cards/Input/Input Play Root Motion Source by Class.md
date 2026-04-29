@@ -1,4 +1,3 @@
----
 ## Input Play Root Motion Source by Class
 **Category:** Input
 **Search:** "Input Play Root Motion Source by Class"

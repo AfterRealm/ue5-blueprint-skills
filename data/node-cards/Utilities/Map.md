@@ -1,4 +1,3 @@
----
 ## Map
 **Category:** Utilities
 **Search:** "Map"

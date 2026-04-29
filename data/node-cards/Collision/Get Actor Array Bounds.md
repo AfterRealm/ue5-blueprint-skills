@@ -1,4 +1,3 @@
----
 ## Get Actor Array Bounds
 **Category:** Collision
 **Search:** "Get Actor Array Bounds"

@@ -1,4 +1,3 @@
----
 ## Set Mie Absorption Scale
 **Category:** Rendering
 **Search:** "Set Mie Absorption Scale"

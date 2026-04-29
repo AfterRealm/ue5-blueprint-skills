@@ -1,4 +1,3 @@
----
 ## Set Custom Depth Stencil Value
 **Category:** Rendering
 **Search:** "Set Custom Depth Stencil Value"

@@ -1,4 +1,3 @@
----
 ## Disable Input
 **Category:** Input
 **Search:** "Disable Input"

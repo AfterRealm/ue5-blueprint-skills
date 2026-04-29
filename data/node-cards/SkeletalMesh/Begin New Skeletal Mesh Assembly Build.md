@@ -1,4 +1,3 @@
----
 ## Begin New Skeletal Mesh Assembly Build
 **Category:** SkeletalMesh
 **Search:** "Begin New Skeletal Mesh Assembly Build"

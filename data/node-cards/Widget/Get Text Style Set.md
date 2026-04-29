@@ -1,4 +1,3 @@
----
 ## Get Text Style Set
 **Category:** Widget
 **Search:** "Get Text Style Set"

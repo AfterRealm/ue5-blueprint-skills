@@ -1,4 +1,3 @@
----
 ## Skinned Mesh
 **Category:** Components
 **Search:** "Skinned Mesh"

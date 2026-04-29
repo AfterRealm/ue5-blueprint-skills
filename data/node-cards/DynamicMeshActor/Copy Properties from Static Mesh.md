@@ -1,4 +1,3 @@
----
 ## Copy Properties from Static Mesh
 **Category:** DynamicMeshActor
 **Search:** "Copy Properties from Static Mesh"

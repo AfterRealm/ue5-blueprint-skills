@@ -1,4 +1,3 @@
----
 ## Landscape Import Weightmap from RenderTarget
 **Category:** Rendering
 **Search:** "Landscape Import Weightmap from RenderTarget"

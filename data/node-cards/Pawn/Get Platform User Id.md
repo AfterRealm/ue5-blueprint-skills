@@ -1,4 +1,3 @@
----
 ## Get Platform User Id
 **Category:** Pawn
 **Search:** "Get Platform User Id"

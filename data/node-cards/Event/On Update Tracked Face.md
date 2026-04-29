@@ -1,4 +1,3 @@
----
 ## On Update Tracked Face
 **Category:** Event
 **Search:** "On Update Tracked Face"

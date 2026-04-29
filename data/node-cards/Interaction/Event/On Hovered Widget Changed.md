@@ -1,4 +1,3 @@
----
 ## On Hovered Widget Changed
 **Category:** Interaction > Event
 **Search:** "On Hovered Widget Changed"

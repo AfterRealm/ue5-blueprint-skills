@@ -1,4 +1,3 @@
----
 ## Render Target Sample Rectangle Editor Only
 **Category:** Rendering
 **Search:** "Render Target Sample Rectangle Editor Only"

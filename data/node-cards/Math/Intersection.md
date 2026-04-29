@@ -1,4 +1,3 @@
----
 ## Intersection
 **Category:** Math
 **Search:** "Intersection"

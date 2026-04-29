@@ -1,4 +1,3 @@
----
 ## Keyboard Events
 **Category:** Input
 **Search:** "Keyboard Events"

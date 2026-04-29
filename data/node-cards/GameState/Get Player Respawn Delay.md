@@ -1,4 +1,3 @@
----
 ## Get Player Respawn Delay
 **Category:** GameState
 **Search:** "Get Player Respawn Delay"

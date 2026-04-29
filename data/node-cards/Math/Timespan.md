@@ -1,4 +1,3 @@
----
 ## Timespan
 **Category:** Math
 **Search:** "Timespan"

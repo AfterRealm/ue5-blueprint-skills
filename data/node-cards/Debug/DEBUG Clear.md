@@ -1,4 +1,3 @@
----
 ## DEBUG Clear
 **Category:** Debug
 **Search:** "DEBUG Clear"

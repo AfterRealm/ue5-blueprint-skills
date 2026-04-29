@@ -1,4 +1,3 @@
----
 ## Get Move Ignore Components
 **Category:** Collision
 **Search:** "Get Move Ignore Components"

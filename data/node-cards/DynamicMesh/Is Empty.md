@@ -1,4 +1,3 @@
----
 ## Is Empty
 **Category:** DynamicMesh
 **Search:** "Is Empty"

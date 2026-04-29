@@ -1,4 +1,3 @@
----
 ## Get Owning Local Player
 **Category:** Widget
 **Search:** "Get Owning Local Player"

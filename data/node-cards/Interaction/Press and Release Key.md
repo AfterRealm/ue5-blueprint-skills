@@ -1,4 +1,3 @@
----
 ## Press and Release Key
 **Category:** Interaction
 **Search:** "Press and Release Key"

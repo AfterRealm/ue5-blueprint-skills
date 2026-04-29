@@ -1,4 +1,3 @@
----
 ## Is Rendered
 **Category:** Widget
 **Search:** "Is Rendered"

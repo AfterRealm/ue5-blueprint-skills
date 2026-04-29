@@ -1,4 +1,3 @@
----
 ## On Available Interaction Targets Changed
 **Category:** EventDispatchers
 **Search:** "On Available Interaction Targets Changed"

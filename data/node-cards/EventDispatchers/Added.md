@@ -1,4 +1,3 @@
----
 ## Added
 **Category:** EventDispatchers
 **Search:** "Added"

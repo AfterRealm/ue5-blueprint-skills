@@ -1,4 +1,3 @@
----
 ## Set Local Player Controller Platform User Id
 **Category:** Game
 **Search:** "Set Local Player Controller Platform User Id"

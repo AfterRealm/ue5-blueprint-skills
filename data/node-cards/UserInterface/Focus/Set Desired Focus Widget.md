@@ -1,4 +1,3 @@
----
 ## Set Desired Focus Widget
 **Category:** UserInterface > Focus
 **Search:** "Set Desired Focus Widget"

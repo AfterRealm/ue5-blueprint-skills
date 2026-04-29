@@ -1,4 +1,3 @@
----
 ## Accessibility
 **Category:** Widget
 **Search:** "Accessibility"

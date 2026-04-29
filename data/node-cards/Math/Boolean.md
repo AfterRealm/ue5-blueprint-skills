@@ -1,4 +1,3 @@
----
 ## Boolean
 **Category:** Math
 **Search:** "Boolean"

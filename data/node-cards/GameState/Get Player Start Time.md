@@ -1,4 +1,3 @@
----
 ## Get Player Start Time
 **Category:** GameState
 **Search:** "Get Player Start Time"

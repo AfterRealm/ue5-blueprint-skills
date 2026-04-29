@@ -1,4 +1,3 @@
----
 ## Get River to Lake Transition Material Instance
 **Category:** Rendering
 **Search:** "Get River to Lake Transition Material Instance"

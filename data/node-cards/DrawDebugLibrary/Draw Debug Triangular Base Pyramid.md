@@ -1,4 +1,3 @@
----
 ## Draw Debug Triangular Base Pyramid
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Triangular Base Pyramid"

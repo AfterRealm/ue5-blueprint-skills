@@ -1,4 +1,3 @@
----
 ## Get All Widgets with Interface
 **Category:** Widget
 **Search:** "Get All Widgets with Interface"

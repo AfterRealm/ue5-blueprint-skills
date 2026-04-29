@@ -1,4 +1,3 @@
----
 ## Has Vertex Colors
 **Category:** StaticMeshUtilities
 **Search:** "Has Vertex Colors"

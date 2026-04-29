@@ -1,4 +1,3 @@
----
 ## Break Hit Result
 **Category:** Collision
 **Search:** "Break Hit Result"

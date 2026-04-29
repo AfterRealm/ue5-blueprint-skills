@@ -1,4 +1,3 @@
----
 ## Mouse Input
 **Category:** Input
 **Search:** "Mouse Input"

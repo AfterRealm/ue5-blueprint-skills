@@ -1,4 +1,3 @@
----
 ## On Add Tracked Image
 **Category:** Event
 **Search:** "On Add Tracked Image"

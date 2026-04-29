@@ -1,4 +1,3 @@
----
 ## IsA ( soft )
 **Category:** Utilities
 **Search:** "IsA ( soft )"

@@ -1,4 +1,3 @@
----
 ## Get View Target
 **Category:** Pawn
 **Search:** "Get View Target"

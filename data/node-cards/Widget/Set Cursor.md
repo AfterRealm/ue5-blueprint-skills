@@ -1,4 +1,3 @@
----
 ## Set Cursor
 **Category:** Widget
 **Search:** "Set Cursor"

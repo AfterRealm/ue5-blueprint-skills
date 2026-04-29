@@ -1,4 +1,3 @@
----
 ## On Source Changed
 **Category:** EventDispatchers
 **Search:** "On Source Changed"

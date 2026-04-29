@@ -1,4 +1,3 @@
----
 ## Make Draw Debug Point Style from Color
 **Category:** DrawDebugLibrary
 **Search:** "Make Draw Debug Point Style from Color"

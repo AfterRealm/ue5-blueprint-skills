@@ -1,4 +1,3 @@
----
 ## Set Image Plate
 **Category:** Game > Image Plate
 **Search:** "Set Image Plate"

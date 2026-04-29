@@ -1,4 +1,3 @@
----
 ## Multi Capsule Trace For Objects
 **Category:** Collision
 **Search:** "Multi Capsule Trace For Objects"

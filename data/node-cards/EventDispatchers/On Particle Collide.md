@@ -1,4 +1,3 @@
----
 ## On Particle Collide
 **Category:** EventDispatchers
 **Search:** "On Particle Collide"

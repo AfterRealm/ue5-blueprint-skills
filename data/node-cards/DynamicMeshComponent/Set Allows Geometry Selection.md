@@ -1,4 +1,3 @@
----
 ## Set Allows Geometry Selection
 **Category:** DynamicMeshComponent
 **Search:** "Set Allows Geometry Selection"

@@ -1,4 +1,3 @@
----
 ## Recompile Material
 **Category:** MaterialEditing
 **Search:** "Recompile Material"

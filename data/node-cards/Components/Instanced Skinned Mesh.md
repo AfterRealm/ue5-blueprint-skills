@@ -1,4 +1,3 @@
----
 ## Instanced Skinned Mesh
 **Category:** Components
 **Search:** "Instanced Skinned Mesh"

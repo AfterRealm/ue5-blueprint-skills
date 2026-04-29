@@ -1,4 +1,3 @@
----
 ## Rename Material Parameter Group
 **Category:** MaterialEditing
 **Search:** "Rename Material Parameter Group"

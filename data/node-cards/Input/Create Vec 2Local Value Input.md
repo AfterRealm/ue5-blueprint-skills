@@ -1,4 +1,3 @@
----
 ## Create Vec 2Local Value Input
 **Category:** Input
 **Search:** "Create Vec 2Local Value Input"

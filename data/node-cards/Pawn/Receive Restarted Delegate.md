@@ -1,4 +1,3 @@
----
 ## Receive Restarted Delegate
 **Category:** Pawn
 **Search:** "Receive Restarted Delegate"

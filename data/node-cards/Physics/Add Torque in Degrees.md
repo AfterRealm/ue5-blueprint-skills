@@ -1,4 +1,3 @@
----
 ## Add Torque in Degrees
 **Category:** Physics
 **Search:** "Add Torque in Degrees"

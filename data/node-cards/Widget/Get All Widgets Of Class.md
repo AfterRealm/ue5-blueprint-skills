@@ -1,4 +1,3 @@
----
 ## Get All Widgets Of Class
 **Category:** Widget
 **Search:** "Get All Widgets Of Class"

@@ -1,4 +1,3 @@
----
 ## Async Action Learning Agents Query Replays
 **Category:** Class
 **Search:** "Async Action Learning Agents Query Replays"

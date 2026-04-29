@@ -1,4 +1,3 @@
----
 ## Get Forward Vector
 **Category:** Transformation
 **Search:** "Get Forward Vector"

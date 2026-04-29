@@ -1,4 +1,3 @@
----
 ## On Graph Cancelled
 **Category:** EventDispatchers
 **Search:** "On Graph Cancelled"

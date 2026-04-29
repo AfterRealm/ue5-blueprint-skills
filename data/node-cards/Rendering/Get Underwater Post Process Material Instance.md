@@ -1,4 +1,3 @@
----
 ## Get Underwater Post Process Material Instance
 **Category:** Rendering
 **Search:** "Get Underwater Post Process Material Instance"

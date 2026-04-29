@@ -1,4 +1,3 @@
----
 ## Draw Debug Simple Sphere
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Simple Sphere"

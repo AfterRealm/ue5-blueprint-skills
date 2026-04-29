@@ -1,4 +1,3 @@
----
 ## Set Convert Vertex Colors to SRGB
 **Category:** Rendering
 **Search:** "Set Convert Vertex Colors to SRGB"

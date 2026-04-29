@@ -1,4 +1,3 @@
----
 ## Query Complete
 **Category:** EventDispatchers
 **Search:** "Query Complete"

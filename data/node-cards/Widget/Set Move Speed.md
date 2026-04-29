@@ -1,4 +1,3 @@
----
 ## Set Move Speed
 **Category:** Widget
 **Search:** "Set Move Speed"

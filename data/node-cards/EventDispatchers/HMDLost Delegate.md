@@ -1,4 +1,3 @@
----
 ## HMDLost Delegate
 **Category:** EventDispatchers
 **Search:** "HMDLost Delegate"

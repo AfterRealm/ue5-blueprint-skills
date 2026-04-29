@@ -1,4 +1,3 @@
----
 ## Get Outer APlayer Controller
 **Category:** Input
 **Search:** "Get Outer APlayer Controller"

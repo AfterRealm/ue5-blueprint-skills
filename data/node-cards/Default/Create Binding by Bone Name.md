@@ -1,4 +1,3 @@
----
 ## Create Binding by Bone Name
 **Category:** Default
 **Search:** "Create Binding by Bone Name"

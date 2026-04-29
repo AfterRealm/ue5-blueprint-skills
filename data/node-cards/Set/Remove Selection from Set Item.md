@@ -1,4 +1,3 @@
----
 ## Remove Selection from Set Item
 **Category:** Set
 **Search:** "Remove Selection from Set Item"

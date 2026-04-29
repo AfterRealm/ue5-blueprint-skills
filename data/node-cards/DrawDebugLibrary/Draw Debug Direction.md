@@ -1,4 +1,3 @@
----
 ## Draw Debug Direction
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Direction"

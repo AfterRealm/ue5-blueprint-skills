@@ -1,4 +1,3 @@
----
 ## Set Actor Scale 3D
 **Category:** Transformation
 **Search:** "Set Actor Scale 3D"

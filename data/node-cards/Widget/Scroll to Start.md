@@ -1,4 +1,3 @@
----
 ## Scroll to Start
 **Category:** Widget
 **Search:** "Scroll to Start"

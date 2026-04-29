@@ -1,4 +1,3 @@
----
 ## Get Child Instances
 **Category:** MaterialEditing
 **Search:** "Get Child Instances"

@@ -1,4 +1,3 @@
----
 ## Set MIC Scalar Parameter Editor Only
 **Category:** Rendering
 **Search:** "Set MIC Scalar Parameter Editor Only"

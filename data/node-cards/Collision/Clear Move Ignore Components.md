@@ -1,4 +1,3 @@
----
 ## Clear Move Ignore Components
 **Category:** Collision
 **Search:** "Clear Move Ignore Components"

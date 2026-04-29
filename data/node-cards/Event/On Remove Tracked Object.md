@@ -1,4 +1,3 @@
----
 ## On Remove Tracked Object
 **Category:** Event
 **Search:** "On Remove Tracked Object"

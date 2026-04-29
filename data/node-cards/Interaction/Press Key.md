@@ -1,4 +1,3 @@
----
 ## Press Key
 **Category:** Interaction
 **Search:** "Press Key"

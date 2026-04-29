@@ -1,4 +1,3 @@
----
 ## Begin Draw Canvas to Render Target
 **Category:** Rendering
 **Search:** "Begin Draw Canvas to Render Target"

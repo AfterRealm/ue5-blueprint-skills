@@ -1,4 +1,3 @@
----
 ## Get Num Player States
 **Category:** Game
 **Search:** "Get Num Player States"

@@ -1,4 +1,3 @@
----
 ## Is Editor Property Overridden
 **Category:** Utilities
 **Search:** "Is Editor Property Overridden"

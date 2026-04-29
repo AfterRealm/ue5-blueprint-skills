@@ -1,4 +1,3 @@
----
 ## Create Set Item from Selection
 **Category:** Sets
 **Search:** "Create Set Item from Selection"

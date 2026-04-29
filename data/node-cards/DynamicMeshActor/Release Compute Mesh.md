@@ -1,4 +1,3 @@
----
 ## Release Compute Mesh
 **Category:** DynamicMeshActor
 **Search:** "Release Compute Mesh"

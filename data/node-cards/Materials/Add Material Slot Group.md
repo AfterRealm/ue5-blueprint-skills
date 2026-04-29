@@ -1,4 +1,3 @@
----
 ## Add Material Slot Group
 **Category:** Materials
 **Search:** "Add Material Slot Group"

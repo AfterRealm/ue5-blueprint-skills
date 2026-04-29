@@ -1,4 +1,3 @@
----
 ## Set Exclude from Light Attachment Group
 **Category:** Rendering
 **Search:** "Set Exclude from Light Attachment Group"

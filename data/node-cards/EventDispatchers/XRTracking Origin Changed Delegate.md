@@ -1,4 +1,3 @@
----
 ## XRTracking Origin Changed Delegate
 **Category:** EventDispatchers
 **Search:** "XRTracking Origin Changed Delegate"

@@ -1,4 +1,3 @@
----
 ## Draw Debug Trajectory
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Trajectory"

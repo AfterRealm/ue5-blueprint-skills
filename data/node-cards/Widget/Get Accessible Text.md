@@ -1,4 +1,3 @@
----
 ## Get Accessible Text
 **Category:** Widget
 **Search:** "Get Accessible Text"

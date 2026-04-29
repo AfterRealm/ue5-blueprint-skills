@@ -1,4 +1,3 @@
----
 ## Destructible
 **Category:** Components
 **Search:** "Destructible"

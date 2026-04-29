@@ -1,4 +1,3 @@
----
 ## Set Water Info Material
 **Category:** Rendering
 **Search:** "Set Water Info Material"

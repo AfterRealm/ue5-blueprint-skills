@@ -1,4 +1,3 @@
----
 ## Get Current Level Name
 **Category:** Game
 **Search:** "Get Current Level Name"

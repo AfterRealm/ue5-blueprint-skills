@@ -1,4 +1,3 @@
----
 ## Invalidate Layout and Volatility
 **Category:** Widget
 **Search:** "Invalidate Layout and Volatility"

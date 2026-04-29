@@ -1,4 +1,3 @@
----
 ## Add Simple Collisions
 **Category:** StaticMeshUtilities
 **Search:** "Add Simple Collisions"

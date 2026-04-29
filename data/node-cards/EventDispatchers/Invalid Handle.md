@@ -1,4 +1,3 @@
----
 ## Invalid Handle
 **Category:** EventDispatchers
 **Search:** "Invalid Handle"

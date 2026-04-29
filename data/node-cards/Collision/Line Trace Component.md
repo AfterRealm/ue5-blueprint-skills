@@ -1,4 +1,3 @@
----
 ## Line Trace Component
 **Category:** Collision
 **Search:** "Line Trace Component"

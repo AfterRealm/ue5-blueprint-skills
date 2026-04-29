@@ -1,4 +1,3 @@
----
 ## On Trailing Events
 **Category:** EventDispatchers
 **Search:** "On Trailing Events"

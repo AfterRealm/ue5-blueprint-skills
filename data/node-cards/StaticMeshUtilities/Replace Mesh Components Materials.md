@@ -1,4 +1,3 @@
----
 ## Replace Mesh Components Materials
 **Category:** StaticMeshUtilities
 **Search:** "Replace Mesh Components Materials"

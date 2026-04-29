@@ -1,4 +1,3 @@
----
 ## Reset Ignore Look Input
 **Category:** Input
 **Search:** "Reset Ignore Look Input"

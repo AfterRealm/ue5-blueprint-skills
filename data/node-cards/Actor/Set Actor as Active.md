@@ -1,4 +1,3 @@
----
 ## Set Actor as Active
 **Category:** Actor
 **Search:** "Set Actor as Active"

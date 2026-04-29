@@ -1,4 +1,3 @@
----
 ## Set Force Mip Levels to be Resident
 **Category:** Rendering
 **Search:** "Set Force Mip Levels to be Resident"

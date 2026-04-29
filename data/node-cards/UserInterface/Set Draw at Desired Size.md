@@ -1,4 +1,3 @@
----
 ## Set Draw at Desired Size
 **Category:** UserInterface
 **Search:** "Set Draw at Desired Size"

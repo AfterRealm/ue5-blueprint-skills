@@ -1,4 +1,3 @@
----
 ## Set Sky Light Cloud Bottom Occlusion
 **Category:** Rendering
 **Search:** "Set Sky Light Cloud Bottom Occlusion"

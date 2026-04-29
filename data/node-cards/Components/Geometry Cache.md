@@ -1,4 +1,3 @@
----
 ## Geometry Cache
 **Category:** Components
 **Search:** "Geometry Cache"

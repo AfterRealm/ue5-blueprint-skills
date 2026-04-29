@@ -1,4 +1,3 @@
----
 ## Get Mass
 **Category:** Physics
 **Search:** "Get Mass"

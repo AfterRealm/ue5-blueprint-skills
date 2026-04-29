@@ -1,4 +1,3 @@
----
 ## SetTextStyle (Multi-Line Text Box)
 **Category:** Widget
 **Search:** "SetTextStyle (Multi-Line Text Box)"

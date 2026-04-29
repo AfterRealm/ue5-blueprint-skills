@@ -1,4 +1,3 @@
----
 ## Set Skeletal Mesh
 **Category:** Mesh
 **Search:** "Set Skeletal Mesh"

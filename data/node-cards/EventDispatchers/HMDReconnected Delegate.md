@@ -1,4 +1,3 @@
----
 ## HMDReconnected Delegate
 **Category:** EventDispatchers
 **Search:** "HMDReconnected Delegate"

@@ -1,4 +1,3 @@
----
 ## Is Body Gravity Enabled
 **Category:** Physics
 **Search:** "Is Body Gravity Enabled"

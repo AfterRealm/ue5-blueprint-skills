@@ -1,4 +1,3 @@
----
 ## Debug Events
 **Category:** Input
 **Search:** "Debug Events"

@@ -1,4 +1,3 @@
----
 ## HMDPut on Head Delegate
 **Category:** EventDispatchers
 **Search:** "HMDPut on Head Delegate"

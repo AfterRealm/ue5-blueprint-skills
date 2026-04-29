@@ -1,4 +1,3 @@
----
 ## Gamepad Events
 **Category:** Input
 **Search:** "Gamepad Events"

@@ -1,4 +1,3 @@
----
 ## Construct Object from Class
 **Category:** Game
 **Search:** "Construct Object from Class"

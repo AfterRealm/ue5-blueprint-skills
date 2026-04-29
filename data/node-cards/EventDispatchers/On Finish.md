@@ -1,4 +1,3 @@
----
 ## On Finish
 **Category:** EventDispatchers
 **Search:** "On Finish"

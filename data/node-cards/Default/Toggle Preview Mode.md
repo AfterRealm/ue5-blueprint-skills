@@ -1,4 +1,3 @@
----
 ## Toggle Preview Mode
 **Category:** Default
 **Search:** "Toggle Preview Mode"

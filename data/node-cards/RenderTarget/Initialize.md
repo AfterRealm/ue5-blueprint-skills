@@ -1,4 +1,3 @@
----
 ## Initialize
 **Category:** RenderTarget
 **Search:** "Initialize"

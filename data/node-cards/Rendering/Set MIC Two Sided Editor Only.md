@@ -1,4 +1,3 @@
----
 ## Set MIC Two Sided Editor Only
 **Category:** Rendering
 **Search:** "Set MIC Two Sided Editor Only"

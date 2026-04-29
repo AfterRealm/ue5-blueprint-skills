@@ -1,4 +1,3 @@
----
 ## Set Use MACD
 **Category:** Physics
 **Search:** "Set Use MACD"

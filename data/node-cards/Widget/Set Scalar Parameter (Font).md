@@ -1,4 +1,3 @@
----
 ## Set Scalar Parameter (Font)
 **Category:** Widget
 **Search:** "Set Scalar Parameter (Font)"

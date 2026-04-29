@@ -1,4 +1,3 @@
----
 ## Is Simulating Physics
 **Category:** Physics
 **Search:** "Is Simulating Physics"

@@ -1,4 +1,3 @@
----
 ## Get Right Vector
 **Category:** Transformation
 **Search:** "Get Right Vector"

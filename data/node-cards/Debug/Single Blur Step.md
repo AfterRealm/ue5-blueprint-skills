@@ -1,4 +1,3 @@
----
 ## Single Blur Step
 **Category:** Debug
 **Search:** "Single Blur Step"

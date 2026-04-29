@@ -1,4 +1,3 @@
----
 ## On Latest Per Channel Meter Results
 **Category:** EventDispatchers
 **Search:** "On Latest Per Channel Meter Results"

@@ -1,4 +1,3 @@
----
 ## Get Imported Bounds
 **Category:** Mesh
 **Search:** "Get Imported Bounds"

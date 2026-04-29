@@ -1,4 +1,3 @@
----
 ## Get Override Render Material
 **Category:** DynamicMeshComponent
 **Search:** "Get Override Render Material"

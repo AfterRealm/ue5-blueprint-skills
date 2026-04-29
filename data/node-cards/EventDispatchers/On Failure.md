@@ -1,4 +1,3 @@
----
 ## On Failure
 **Category:** EventDispatchers
 **Search:** "On Failure"

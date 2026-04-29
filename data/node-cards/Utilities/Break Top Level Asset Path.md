@@ -1,4 +1,3 @@
----
 ## Break Top Level Asset Path
 **Category:** Utilities
 **Search:** "Break Top Level Asset Path"

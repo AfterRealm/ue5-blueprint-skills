@@ -1,4 +1,3 @@
----
 ## Set Scalar Parameter (Brush)
 **Category:** Widget
 **Search:** "Set Scalar Parameter (Brush)"

@@ -1,4 +1,3 @@
----
 ## Build from Static Mesh Descriptions
 **Category:** StaticMesh
 **Search:** "Build from Static Mesh Descriptions"

@@ -1,4 +1,3 @@
----
 ## Draw Debug Circle Outline
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Circle Outline"

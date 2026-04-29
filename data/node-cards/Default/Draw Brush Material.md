@@ -1,4 +1,3 @@
----
 ## Draw Brush Material
 **Category:** Default
 **Search:** "Draw Brush Material"

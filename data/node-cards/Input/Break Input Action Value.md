@@ -1,4 +1,3 @@
----
 ## Break Input Action Value
 **Category:** Input
 **Search:** "Break Input Action Value"

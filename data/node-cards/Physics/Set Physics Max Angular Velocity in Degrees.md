@@ -1,4 +1,3 @@
----
 ## Set Physics Max Angular Velocity in Degrees
 **Category:** Physics
 **Search:** "Set Physics Max Angular Velocity in Degrees"

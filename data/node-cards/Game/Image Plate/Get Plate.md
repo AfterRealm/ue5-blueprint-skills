@@ -1,4 +1,3 @@
----
 ## Get Plate
 **Category:** Game > Image Plate
 **Search:** "Get Plate"

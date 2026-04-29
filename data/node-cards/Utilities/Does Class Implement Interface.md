@@ -1,4 +1,3 @@
----
 ## Does Class Implement Interface
 **Category:** Utilities
 **Search:** "Does Class Implement Interface"

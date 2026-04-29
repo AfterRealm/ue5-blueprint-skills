@@ -1,4 +1,3 @@
----
 ## Property Access
 **Category:** Variables
 **Search:** "Property Access"

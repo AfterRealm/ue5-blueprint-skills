@@ -1,4 +1,3 @@
----
 ## Set Deprecated Input Pitch Scale
 **Category:** PlayerController
 **Search:** "Set Deprecated Input Pitch Scale"

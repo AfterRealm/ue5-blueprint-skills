@@ -1,4 +1,3 @@
----
 ## Send Extension Event
 **Category:** Gameplay
 **Search:** "Send Extension Event"

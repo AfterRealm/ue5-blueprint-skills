@@ -1,4 +1,3 @@
----
 ## Get Two Sided
 **Category:** Rendering
 **Search:** "Get Two Sided"

@@ -1,4 +1,3 @@
----
 ## Get Clipping
 **Category:** Widget
 **Search:** "Get Clipping"

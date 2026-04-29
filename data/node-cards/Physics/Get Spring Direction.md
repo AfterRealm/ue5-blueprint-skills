@@ -1,4 +1,3 @@
----
 ## Get Spring Direction
 **Category:** Physics
 **Search:** "Get Spring Direction"

@@ -1,4 +1,3 @@
----
 ## Remove Collisions with Notification
 **Category:** StaticMeshUtilities
 **Search:** "Remove Collisions with Notification"

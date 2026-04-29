@@ -1,4 +1,3 @@
----
 ## Try Get Local Value as Float
 **Category:** Input
 **Search:** "Try Get Local Value as Float"

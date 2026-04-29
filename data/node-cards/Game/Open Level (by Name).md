@@ -1,4 +1,3 @@
----
 ## Open Level (by Name)
 **Category:** Game
 **Search:** "Open Level (by Name)"

@@ -1,4 +1,3 @@
----
 ## Set Skip Assigning Gamepad to Player 1
 **Category:** Utilities
 **Search:** "Set Skip Assigning Gamepad to Player 1"

@@ -1,4 +1,3 @@
----
 ## Landscape Import Heightmap from RenderTarget
 **Category:** Rendering
 **Search:** "Landscape Import Heightmap from RenderTarget"

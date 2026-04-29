@@ -1,4 +1,3 @@
----
 ## Set Color Vision Deficiency Type
 **Category:** Widget > Accessibility
 **Search:** "Set Color Vision Deficiency Type"

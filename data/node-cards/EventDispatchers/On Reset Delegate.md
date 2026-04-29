@@ -1,4 +1,3 @@
----
 ## On Reset Delegate
 **Category:** EventDispatchers
 **Search:** "On Reset Delegate"

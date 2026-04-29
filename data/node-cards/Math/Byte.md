@@ -1,4 +1,3 @@
----
 ## Byte
 **Category:** Math
 **Search:** "Byte"

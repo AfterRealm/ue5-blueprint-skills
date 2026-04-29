@@ -1,4 +1,3 @@
----
 ## Set Actor Hidden In Game
 **Category:** Rendering
 **Search:** "Set Actor Hidden In Game"

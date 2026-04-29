@@ -1,4 +1,3 @@
----
 ## Is Player Controller
 **Category:** Pawn
 **Search:** "Is Player Controller"

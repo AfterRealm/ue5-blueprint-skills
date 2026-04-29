@@ -1,4 +1,3 @@
----
 ## Set Tint Color and Opacity
 **Category:** UserInterface
 **Search:** "Set Tint Color and Opacity"

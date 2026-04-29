@@ -1,4 +1,3 @@
----
 ## On End PIE
 **Category:** EventDispatchers
 **Search:** "On End PIE"

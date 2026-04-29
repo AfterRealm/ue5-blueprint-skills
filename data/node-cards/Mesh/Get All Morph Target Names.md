@@ -1,4 +1,3 @@
----
 ## Get All Morph Target Names
 **Category:** Mesh
 **Search:** "Get All Morph Target Names"

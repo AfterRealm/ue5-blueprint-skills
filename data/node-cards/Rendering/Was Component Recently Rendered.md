@@ -1,4 +1,3 @@
----
 ## Was Component Recently Rendered
 **Category:** Rendering
 **Search:** "Was Component Recently Rendered"

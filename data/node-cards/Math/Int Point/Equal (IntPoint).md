@@ -1,4 +1,3 @@
----
 ## Equal (IntPoint)
 **Category:** Math > Int Point
 **Search:** "Equal (IntPoint)"

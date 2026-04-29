@@ -1,4 +1,3 @@
----
 ## Connect Material Expressions
 **Category:** MaterialEditing
 **Search:** "Connect Material Expressions"

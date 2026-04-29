@@ -1,4 +1,3 @@
----
 ## Plane
 **Category:** Math
 **Search:** "Plane"

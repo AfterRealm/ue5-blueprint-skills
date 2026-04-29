@@ -1,4 +1,3 @@
----
 ## Get Actor Enable Collision
 **Category:** Collision
 **Search:** "Get Actor Enable Collision"

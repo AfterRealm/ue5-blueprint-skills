@@ -1,4 +1,3 @@
----
 ## Get Shadows Enabled
 **Category:** DynamicMeshComponent
 **Search:** "Get Shadows Enabled"

@@ -1,4 +1,3 @@
----
 ## Is Visible
 **Category:** Rendering
 **Search:** "Is Visible"

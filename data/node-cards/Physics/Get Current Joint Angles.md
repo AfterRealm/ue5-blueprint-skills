@@ -1,4 +1,3 @@
----
 ## Get Current Joint Angles
 **Category:** Physics
 **Search:** "Get Current Joint Angles"

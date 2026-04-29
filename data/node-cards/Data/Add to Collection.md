@@ -1,4 +1,3 @@
----
 ## Add to Collection
 **Category:** Data
 **Search:** "Add to Collection"

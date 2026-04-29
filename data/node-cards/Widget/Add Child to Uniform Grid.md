@@ -1,4 +1,3 @@
----
 ## Add Child to Uniform Grid
 **Category:** Widget
 **Search:** "Add Child to Uniform Grid"

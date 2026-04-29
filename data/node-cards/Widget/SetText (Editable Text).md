@@ -1,4 +1,3 @@
----
 ## SetText (Editable Text)
 **Category:** Widget
 **Search:** "SetText (Editable Text)"

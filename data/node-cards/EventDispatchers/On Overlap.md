@@ -1,4 +1,3 @@
----
 ## On Overlap
 **Category:** EventDispatchers
 **Search:** "On Overlap"

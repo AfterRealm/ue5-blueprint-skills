@@ -1,4 +1,3 @@
----
 ## Set Material Instance Texture Parameter Value
 **Category:** MaterialEditing
 **Search:** "Set Material Instance Texture Parameter Value"

@@ -1,4 +1,3 @@
----
 ## Refresh Parametric Material
 **Category:** Material
 **Search:** "Refresh Parametric Material"

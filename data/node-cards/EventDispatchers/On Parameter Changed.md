@@ -1,4 +1,3 @@
----
 ## On Parameter Changed
 **Category:** EventDispatchers
 **Search:** "On Parameter Changed"

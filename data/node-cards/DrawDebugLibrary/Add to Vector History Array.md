@@ -1,4 +1,3 @@
----
 ## Add to Vector History Array
 **Category:** DrawDebugLibrary
 **Search:** "Add to Vector History Array"

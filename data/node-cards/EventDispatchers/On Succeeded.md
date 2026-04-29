@@ -1,4 +1,3 @@
----
 ## On Succeeded
 **Category:** EventDispatchers
 **Search:** "On Succeeded"

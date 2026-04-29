@@ -1,4 +1,3 @@
----
 ## Vector 2D
 **Category:** Math
 **Search:** "Vector 2D"

@@ -1,4 +1,3 @@
----
 ## Ignore Actor when Moving
 **Category:** Collision
 **Search:** "Ignore Actor when Moving"

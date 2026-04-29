@@ -1,4 +1,3 @@
----
 ## Custom Mesh
 **Category:** Components
 **Search:** "Custom Mesh"

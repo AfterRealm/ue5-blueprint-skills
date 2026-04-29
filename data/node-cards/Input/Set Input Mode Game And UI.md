@@ -1,4 +1,3 @@
----
 ## Set Input Mode Game And UI
 **Category:** Input
 **Search:** "Set Input Mode Game And UI"

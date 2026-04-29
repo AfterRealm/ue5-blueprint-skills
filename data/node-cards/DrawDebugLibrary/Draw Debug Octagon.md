@@ -1,4 +1,3 @@
----
 ## Draw Debug Octagon
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Octagon"

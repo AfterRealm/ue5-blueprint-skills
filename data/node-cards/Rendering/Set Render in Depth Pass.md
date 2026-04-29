@@ -1,4 +1,3 @@
----
 ## Set Render in Depth Pass
 **Category:** Rendering
 **Search:** "Set Render in Depth Pass"

@@ -1,4 +1,3 @@
----
 ## Set Emissive Light Source
 **Category:** Rendering
 **Search:** "Set Emissive Light Source"

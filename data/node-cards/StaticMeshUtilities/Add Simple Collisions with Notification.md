@@ -1,4 +1,3 @@
----
 ## Add Simple Collisions with Notification
 **Category:** StaticMeshUtilities
 **Search:** "Add Simple Collisions with Notification"

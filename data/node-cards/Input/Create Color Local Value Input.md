@@ -1,4 +1,3 @@
----
 ## Create Color Local Value Input
 **Category:** Input
 **Search:** "Create Color Local Value Input"

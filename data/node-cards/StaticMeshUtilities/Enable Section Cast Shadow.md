@@ -1,4 +1,3 @@
----
 ## Enable Section Cast Shadow
 **Category:** StaticMeshUtilities
 **Search:** "Enable Section Cast Shadow"

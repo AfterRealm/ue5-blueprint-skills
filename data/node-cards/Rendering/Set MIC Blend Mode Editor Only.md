@@ -1,4 +1,3 @@
----
 ## Set MIC Blend Mode Editor Only
 **Category:** Rendering
 **Search:** "Set MIC Blend Mode Editor Only"

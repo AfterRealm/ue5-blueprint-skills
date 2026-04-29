@@ -1,4 +1,3 @@
----
 ## Is Section Force Opaque Enabled
 **Category:** StaticMeshUtilities
 **Search:** "Is Section Force Opaque Enabled"

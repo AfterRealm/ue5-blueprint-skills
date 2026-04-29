@@ -1,4 +1,3 @@
----
 ## Enable Simulation
 **Category:** Physics
 **Search:** "Enable Simulation"

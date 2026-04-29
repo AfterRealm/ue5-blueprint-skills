@@ -1,4 +1,3 @@
----
 ## Get Redraw Time
 **Category:** UserInterface
 **Search:** "Get Redraw Time"

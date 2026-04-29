@@ -1,4 +1,3 @@
----
 ## Force Update
 **Category:** Debug
 **Search:** "Force Update"

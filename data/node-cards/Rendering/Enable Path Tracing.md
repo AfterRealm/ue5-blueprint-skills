@@ -1,4 +1,3 @@
----
 ## Enable Path Tracing
 **Category:** Rendering
 **Search:** "Enable Path Tracing"

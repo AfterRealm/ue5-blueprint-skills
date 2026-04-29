@@ -1,4 +1,3 @@
----
 ## Create Vec 3Local Value Input
 **Category:** Input
 **Search:** "Create Vec 3Local Value Input"

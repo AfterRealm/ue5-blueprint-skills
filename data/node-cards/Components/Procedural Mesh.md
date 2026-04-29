@@ -1,4 +1,3 @@
----
 ## Procedural Mesh
 **Category:** Components
 **Search:** "Procedural Mesh"

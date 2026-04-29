@@ -1,4 +1,3 @@
----
 ## Set Controller Gyro Auto Calibration
 **Category:** Input
 **Search:** "Set Controller Gyro Auto Calibration"

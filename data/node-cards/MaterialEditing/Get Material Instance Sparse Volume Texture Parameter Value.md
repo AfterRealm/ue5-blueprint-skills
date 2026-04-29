@@ -1,4 +1,3 @@
----
 ## Get Material Instance Sparse Volume Texture Parameter Value
 **Category:** MaterialEditing
 **Search:** "Get Material Instance Sparse Volume Texture Parameter Value"

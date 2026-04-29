@@ -1,4 +1,3 @@
----
 ## Can Trigger Resimulation
 **Category:** Physics
 **Search:** "Can Trigger Resimulation"

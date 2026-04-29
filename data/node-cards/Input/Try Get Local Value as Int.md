@@ -1,4 +1,3 @@
----
 ## Try Get Local Value as Int
 **Category:** Input
 **Search:** "Try Get Local Value as Int"

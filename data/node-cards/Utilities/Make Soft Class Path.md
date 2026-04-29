@@ -1,4 +1,3 @@
----
 ## Make Soft Class Path
 **Category:** Utilities
 **Search:** "Make Soft Class Path"

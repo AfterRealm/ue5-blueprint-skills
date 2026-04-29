@@ -1,4 +1,3 @@
----
 ## Is Visible
 **Category:** Widget
 **Search:** "Is Visible"

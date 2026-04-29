@@ -1,4 +1,3 @@
----
 ## Is Pressed
 **Category:** Widget
 **Search:** "Is Pressed"

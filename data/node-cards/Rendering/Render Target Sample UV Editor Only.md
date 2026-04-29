@@ -1,4 +1,3 @@
----
 ## Render Target Sample UV Editor Only
 **Category:** Rendering
 **Search:** "Render Target Sample UV Editor Only"

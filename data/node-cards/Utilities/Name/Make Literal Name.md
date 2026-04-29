@@ -1,4 +1,3 @@
----
 ## Make Literal Name
 **Category:** Utilities > Name
 **Search:** "Make Literal Name"

@@ -1,4 +1,3 @@
----
 ## Get Water Static Mesh Material Instance
 **Category:** Rendering
 **Search:** "Get Water Static Mesh Material Instance"

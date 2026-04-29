@@ -1,4 +1,3 @@
----
 ## Add Radial Force
 **Category:** Physics
 **Search:** "Add Radial Force"

@@ -1,4 +1,3 @@
----
 ## Draw Debug Mover Orientation
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Mover Orientation"

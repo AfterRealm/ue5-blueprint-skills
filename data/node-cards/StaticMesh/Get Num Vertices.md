@@ -1,4 +1,3 @@
----
 ## Get Num Vertices
 **Category:** StaticMesh
 **Search:** "Get Num Vertices"

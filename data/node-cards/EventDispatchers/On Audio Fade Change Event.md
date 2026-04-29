@@ -1,4 +1,3 @@
----
 ## On Audio Fade Change Event
 **Category:** EventDispatchers
 **Search:** "On Audio Fade Change Event"

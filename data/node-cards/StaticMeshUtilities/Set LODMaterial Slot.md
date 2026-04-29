@@ -1,4 +1,3 @@
----
 ## Set LODMaterial Slot
 **Category:** StaticMeshUtilities
 **Search:** "Set LODMaterial Slot"

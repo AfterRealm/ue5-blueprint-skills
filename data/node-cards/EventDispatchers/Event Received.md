@@ -1,4 +1,3 @@
----
 ## Event Received
 **Category:** EventDispatchers
 **Search:** "Event Received"

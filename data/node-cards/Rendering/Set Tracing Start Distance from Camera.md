@@ -1,4 +1,3 @@
----
 ## Set Tracing Start Distance from Camera
 **Category:** Rendering
 **Search:** "Set Tracing Start Distance from Camera"

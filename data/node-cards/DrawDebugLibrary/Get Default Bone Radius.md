@@ -1,4 +1,3 @@
----
 ## Get Default Bone Radius
 **Category:** DrawDebugLibrary
 **Search:** "Get Default Bone Radius"

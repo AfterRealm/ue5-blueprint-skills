@@ -1,4 +1,3 @@
----
 ## Get World Origin Location
 **Category:** Game
 **Search:** "Get World Origin Location"

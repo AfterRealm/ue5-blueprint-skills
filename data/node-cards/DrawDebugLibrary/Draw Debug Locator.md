@@ -1,4 +1,3 @@
----
 ## Draw Debug Locator
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Locator"

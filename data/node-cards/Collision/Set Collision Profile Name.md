@@ -1,4 +1,3 @@
----
 ## Set Collision Profile Name
 **Category:** Collision
 **Search:** "Set Collision Profile Name"

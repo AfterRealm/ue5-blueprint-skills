@@ -1,4 +1,3 @@
----
 ## SetIsReadOnly (Multi-Line Editable Text
 **Category:** Widget
 **Search:** "SetIsReadOnly (Multi-Line Editable Text"

@@ -1,4 +1,3 @@
----
 ## Create Static Mesh Description
 **Category:** StaticMesh
 **Search:** "Create Static Mesh Description"

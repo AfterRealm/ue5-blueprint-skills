@@ -1,4 +1,3 @@
----
 ## Delete Set Item
 **Category:** Set
 **Search:** "Delete Set Item"

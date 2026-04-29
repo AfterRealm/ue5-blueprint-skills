@@ -1,4 +1,3 @@
----
 ## Get Widget Space
 **Category:** UserInterface
 **Search:** "Get Widget Space"

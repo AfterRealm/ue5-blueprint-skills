@@ -1,4 +1,3 @@
----
 ## Set Enable Gravity on All Bodies Below
 **Category:** Physics
 **Search:** "Set Enable Gravity on All Bodies Below"

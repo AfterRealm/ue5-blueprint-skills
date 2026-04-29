@@ -1,4 +1,3 @@
----
 ## Add Mapping Context
 **Category:** Input
 **Search:** "Add Mapping Context"

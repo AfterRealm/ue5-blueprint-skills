@@ -1,4 +1,3 @@
----
 ## Set Ignore Look Input
 **Category:** Input
 **Search:** "Set Ignore Look Input"

@@ -1,4 +1,3 @@
----
 ## Get Controlled Pawn
 **Category:** Pawn
 **Search:** "Get Controlled Pawn"

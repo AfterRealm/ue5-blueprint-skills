@@ -1,4 +1,3 @@
----
 ## Create Render Target 2DArray
 **Category:** Rendering
 **Search:** "Create Render Target 2DArray"

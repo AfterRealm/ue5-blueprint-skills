@@ -1,4 +1,3 @@
----
 ## Set All Navigation Rules
 **Category:** Widget
 **Search:** "Set All Navigation Rules"

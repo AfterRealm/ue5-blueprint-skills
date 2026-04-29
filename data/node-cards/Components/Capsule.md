@@ -1,4 +1,3 @@
----
 ## Capsule
 **Category:** Components
 **Search:** "Capsule"

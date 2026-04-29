@@ -1,4 +1,3 @@
----
 ## Reset to Default
 **Category:** General
 **Search:** "Reset to Default"

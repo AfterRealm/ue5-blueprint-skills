@@ -1,4 +1,3 @@
----
 ## On Sync
 **Category:** EventDispatchers
 **Search:** "On Sync"

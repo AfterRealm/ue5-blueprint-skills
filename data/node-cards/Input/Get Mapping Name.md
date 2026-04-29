@@ -1,4 +1,3 @@
----
 ## Get Mapping Name
 **Category:** Input
 **Search:** "Get Mapping Name"

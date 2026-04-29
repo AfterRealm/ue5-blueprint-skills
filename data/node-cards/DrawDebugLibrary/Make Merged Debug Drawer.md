@@ -1,4 +1,3 @@
----
 ## Make Merged Debug Drawer
 **Category:** DrawDebugLibrary
 **Search:** "Make Merged Debug Drawer"

@@ -1,4 +1,3 @@
----
 ## Get Components by Tag
 **Category:** Actor
 **Search:** "Get Components by Tag"

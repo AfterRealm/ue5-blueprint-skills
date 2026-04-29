@@ -1,4 +1,3 @@
----
 ## On Add Tracked Geometry
 **Category:** Event
 **Search:** "On Add Tracked Geometry"

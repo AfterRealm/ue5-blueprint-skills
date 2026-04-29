@@ -1,4 +1,3 @@
----
 ## Set Relative Scale 3D
 **Category:** Transformation
 **Search:** "Set Relative Scale 3D"

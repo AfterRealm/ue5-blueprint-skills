@@ -1,4 +1,3 @@
----
 ## Set Enable Per Poly Collision
 **Category:** Physics
 **Search:** "Set Enable Per Poly Collision"

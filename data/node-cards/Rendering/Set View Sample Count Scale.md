@@ -1,4 +1,3 @@
----
 ## Set View Sample Count Scale
 **Category:** Rendering
 **Search:** "Set View Sample Count Scale"

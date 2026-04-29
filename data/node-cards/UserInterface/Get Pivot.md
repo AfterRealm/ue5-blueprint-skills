@@ -1,4 +1,3 @@
----
 ## Get Pivot
 **Category:** UserInterface
 **Search:** "Get Pivot"

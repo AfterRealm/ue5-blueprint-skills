@@ -1,4 +1,3 @@
----
 ## Capsule Trace By Channel
 **Category:** Collision
 **Search:** "Capsule Trace By Channel"

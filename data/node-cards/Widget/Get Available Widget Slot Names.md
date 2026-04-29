@@ -1,4 +1,3 @@
----
 ## Get Available Widget Slot Names
 **Category:** Widget
 **Search:** "Get Available Widget Slot Names"

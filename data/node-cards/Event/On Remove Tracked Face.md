@@ -1,4 +1,3 @@
----
 ## On Remove Tracked Face
 **Category:** Event
 **Search:** "On Remove Tracked Face"

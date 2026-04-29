@@ -1,4 +1,3 @@
----
 ## Set Geometry Mode
 **Category:** UserInterface
 **Search:** "Set Geometry Mode"

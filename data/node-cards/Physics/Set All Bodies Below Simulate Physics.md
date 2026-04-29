@@ -1,4 +1,3 @@
----
 ## Set All Bodies Below Simulate Physics
 **Category:** Physics
 **Search:** "Set All Bodies Below Simulate Physics"

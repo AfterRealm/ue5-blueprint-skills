@@ -1,4 +1,3 @@
----
 ## On Post User Settings Initialized
 **Category:** Input
 **Search:** "On Post User Settings Initialized"

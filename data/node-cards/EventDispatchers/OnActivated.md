@@ -1,4 +1,3 @@
----
 ## OnActivated
 **Category:** EventDispatchers
 **Search:** "OnActivated"

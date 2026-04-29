@@ -1,4 +1,3 @@
----
 ## Get Is Scrolling
 **Category:** Widget
 **Search:** "Get Is Scrolling"

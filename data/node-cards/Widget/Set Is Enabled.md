@@ -1,4 +1,3 @@
----
 ## Set Is Enabled
 **Category:** Widget
 **Search:** "Set Is Enabled"

@@ -1,4 +1,3 @@
----
 ## Get Render Opacity
 **Category:** Widget
 **Search:** "Get Render Opacity"

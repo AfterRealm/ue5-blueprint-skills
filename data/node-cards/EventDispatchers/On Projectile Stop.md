@@ -1,4 +1,3 @@
----
 ## On Projectile Stop
 **Category:** EventDispatchers
 **Search:** "On Projectile Stop"

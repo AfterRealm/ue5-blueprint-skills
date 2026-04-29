@@ -1,4 +1,3 @@
----
 ## Get Typed Inputs by Pin
 **Category:** Data
 **Search:** "Get Typed Inputs by Pin"
