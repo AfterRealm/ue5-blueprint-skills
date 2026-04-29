@@ -1,4 +1,3 @@
----
 ## Get Mesh Draw Path
 **Category:** DynamicMeshComponent
 **Search:** "Get Mesh Draw Path"

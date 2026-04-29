@@ -1,4 +1,3 @@
----
 ## On Blend Out
 **Category:** EventDispatchers
 **Search:** "On Blend Out"

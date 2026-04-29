@@ -1,4 +1,3 @@
----
 ## Create Binding by Socket Name
 **Category:** Default
 **Search:** "Create Binding by Socket Name"

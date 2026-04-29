@@ -1,4 +1,3 @@
----
 ## Set User Focus
 **Category:** Widget
 **Search:** "Set User Focus"

@@ -1,4 +1,3 @@
----
 ## Recompile Blueprint Stage Actor
 **Category:** Blueprint
 **Search:** "Recompile Blueprint Stage Actor"

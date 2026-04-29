@@ -1,4 +1,3 @@
----
 ## Stop Continuous Input Injection for Player Mapping
 **Category:** Input
 **Search:** "Stop Continuous Input Injection for Player Mapping"

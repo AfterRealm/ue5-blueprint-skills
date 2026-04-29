@@ -1,4 +1,3 @@
----
 ## Get Material Instance Texture Parameter Value
 **Category:** MaterialEditing
 **Search:** "Get Material Instance Texture Parameter Value"

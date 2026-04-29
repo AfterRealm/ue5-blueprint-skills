@@ -1,4 +1,3 @@
----
 ## On Graph Generated
 **Category:** EventDispatchers
 **Search:** "On Graph Generated"

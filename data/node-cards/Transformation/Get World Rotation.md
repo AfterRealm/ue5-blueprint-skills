@@ -1,4 +1,3 @@
----
 ## Get World Rotation
 **Category:** Transformation
 **Search:** "Get World Rotation"

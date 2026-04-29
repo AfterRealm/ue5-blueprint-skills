@@ -1,4 +1,3 @@
----
 ## Rename Set Item
 **Category:** Set
 **Search:** "Rename Set Item"

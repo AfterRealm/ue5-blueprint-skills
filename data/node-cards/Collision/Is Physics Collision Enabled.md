@@ -1,4 +1,3 @@
----
 ## Is Physics Collision Enabled
 **Category:** Collision
 **Search:** "Is Physics Collision Enabled"

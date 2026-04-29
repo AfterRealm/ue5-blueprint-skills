@@ -1,4 +1,3 @@
----
 ## Get Scalar Parameter Source
 **Category:** MaterialEditing
 **Search:** "Get Scalar Parameter Source"

@@ -1,4 +1,3 @@
----
 ## Draw Debug Text Dimensions
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Text Dimensions"

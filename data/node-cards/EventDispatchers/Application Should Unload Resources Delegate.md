@@ -1,4 +1,3 @@
----
 ## Application Should Unload Resources Delegate
 **Category:** EventDispatchers
 **Search:** "Application Should Unload Resources Delegate"

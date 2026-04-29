@@ -1,4 +1,3 @@
----
 ## Get Spectator Pawn
 **Category:** Pawn
 **Search:** "Get Spectator Pawn"

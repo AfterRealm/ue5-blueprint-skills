@@ -1,4 +1,3 @@
----
 ## On Selection Cleared
 **Category:** EventDispatchers
 **Search:** "On Selection Cleared"

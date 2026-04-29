@@ -1,4 +1,3 @@
----
 ## Validate Material Slots
 **Category:** DynamicMeshComponent
 **Search:** "Validate Material Slots"

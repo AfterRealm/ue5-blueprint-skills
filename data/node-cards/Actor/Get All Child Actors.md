@@ -1,4 +1,3 @@
----
 ## Get All Child Actors
 **Category:** Actor
 **Search:** "Get All Child Actors"

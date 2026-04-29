@@ -1,4 +1,3 @@
----
 ## Get Parent
 **Category:** Widget
 **Search:** "Get Parent"

@@ -1,4 +1,3 @@
----
 ## Get Component by Class
 **Category:** Actor
 **Search:** "Get Component by Class"

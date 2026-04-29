@@ -1,4 +1,3 @@
----
 ## Set Bounds Scale
 **Category:** Rendering
 **Search:** "Set Bounds Scale"

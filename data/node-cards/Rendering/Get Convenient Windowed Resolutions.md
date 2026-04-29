@@ -1,4 +1,3 @@
----
 ## Get Convenient Windowed Resolutions
 **Category:** Rendering
 **Search:** "Get Convenient Windowed Resolutions"

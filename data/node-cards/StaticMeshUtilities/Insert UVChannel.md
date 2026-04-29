@@ -1,4 +1,3 @@
----
 ## Insert UVChannel
 **Category:** StaticMeshUtilities
 **Search:** "Insert UVChannel"

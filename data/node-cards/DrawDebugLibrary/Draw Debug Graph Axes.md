@@ -1,4 +1,3 @@
----
 ## Draw Debug Graph Axes
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Graph Axes"

@@ -1,4 +1,3 @@
----
 ## Get Bounds
 **Category:** StaticMesh
 **Search:** "Get Bounds"

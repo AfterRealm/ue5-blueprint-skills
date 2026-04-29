@@ -1,4 +1,3 @@
----
 ## Get River to Ocean Transition Material
 **Category:** Rendering
 **Search:** "Get River to Ocean Transition Material"

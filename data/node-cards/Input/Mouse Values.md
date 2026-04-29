@@ -1,4 +1,3 @@
----
 ## Mouse Values
 **Category:** Input
 **Search:** "Mouse Values"

@@ -1,4 +1,3 @@
----
 ## Platform Changed to Laptop Mode Delegate
 **Category:** EventDispatchers
 **Search:** "Platform Changed to Laptop Mode Delegate"

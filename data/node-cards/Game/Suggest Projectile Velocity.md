@@ -1,4 +1,3 @@
----
 ## Suggest Projectile Velocity
 **Category:** Game
 **Search:** "Suggest Projectile Velocity"

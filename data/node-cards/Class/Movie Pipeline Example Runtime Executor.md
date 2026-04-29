@@ -1,4 +1,3 @@
----
 ## Movie Pipeline Example Runtime Executor
 **Category:** Class
 **Search:** "Movie Pipeline Example Runtime Executor"

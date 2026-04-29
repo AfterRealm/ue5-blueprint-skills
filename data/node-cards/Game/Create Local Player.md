@@ -1,4 +1,3 @@
----
 ## Create Local Player
 **Category:** Game
 **Search:** "Create Local Player"

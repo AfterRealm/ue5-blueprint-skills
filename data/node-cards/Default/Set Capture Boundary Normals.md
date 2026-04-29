@@ -1,4 +1,3 @@
----
 ## Set Capture Boundary Normals
 **Category:** Default
 **Search:** "Set Capture Boundary Normals"

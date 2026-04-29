@@ -1,4 +1,3 @@
----
 ## Get Attach Parent Socket Name
 **Category:** Actor
 **Search:** "Get Attach Parent Socket Name"

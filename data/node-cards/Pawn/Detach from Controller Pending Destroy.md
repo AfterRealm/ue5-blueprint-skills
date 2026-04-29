@@ -1,4 +1,3 @@
----
 ## Detach from Controller Pending Destroy
 **Category:** Pawn
 **Search:** "Detach from Controller Pending Destroy"

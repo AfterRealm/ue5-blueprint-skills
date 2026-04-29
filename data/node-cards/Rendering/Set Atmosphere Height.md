@@ -1,4 +1,3 @@
----
 ## Set Atmosphere Height
 **Category:** Rendering
 **Search:** "Set Atmosphere Height"

@@ -1,4 +1,3 @@
----
 ## Gamepad Values
 **Category:** Input
 **Search:** "Gamepad Values"

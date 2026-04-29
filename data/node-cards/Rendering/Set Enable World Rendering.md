@@ -1,4 +1,3 @@
----
 ## Set Enable World Rendering
 **Category:** Rendering
 **Search:** "Set Enable World Rendering"

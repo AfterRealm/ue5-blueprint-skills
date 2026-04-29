@@ -1,4 +1,3 @@
----
 ## Add Receiver
 **Category:** Gameplay
 **Search:** "Add Receiver"

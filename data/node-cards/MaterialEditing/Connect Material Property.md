@@ -1,4 +1,3 @@
----
 ## Connect Material Property
 **Category:** MaterialEditing
 **Search:** "Connect Material Property"

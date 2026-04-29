@@ -1,4 +1,3 @@
----
 ## On Latest Spectrum Results
 **Category:** EventDispatchers
 **Search:** "On Latest Spectrum Results"

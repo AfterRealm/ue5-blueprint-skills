@@ -1,4 +1,3 @@
----
 ## Sphere Trace By Profile
 **Category:** Collision
 **Search:** "Sphere Trace By Profile"

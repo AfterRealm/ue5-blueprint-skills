@@ -1,4 +1,3 @@
----
 ## Get Bone Rotation Texture
 **Category:** Default
 **Search:** "Get Bone Rotation Texture"

@@ -1,4 +1,3 @@
----
 ## Create MIC Editor Only
 **Category:** Rendering
 **Search:** "Create MIC Editor Only"

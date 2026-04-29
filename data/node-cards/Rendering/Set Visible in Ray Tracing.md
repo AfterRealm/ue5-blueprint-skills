@@ -1,4 +1,3 @@
----
 ## Set Visible in Ray Tracing
 **Category:** Rendering
 **Search:** "Set Visible in Ray Tracing"

@@ -1,4 +1,3 @@
----
 ## Add Force to All Bodies Below
 **Category:** Physics
 **Search:** "Add Force to All Bodies Below"

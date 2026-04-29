@@ -1,4 +1,3 @@
----
 ## On Hear Noise
 **Category:** EventDispatchers
 **Search:** "On Hear Noise"

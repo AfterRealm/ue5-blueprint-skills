@@ -1,4 +1,3 @@
----
 ## Get Class Defaults
 **Category:** Class
 **Search:** "Get Class Defaults"

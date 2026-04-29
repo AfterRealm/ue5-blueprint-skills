@@ -1,4 +1,3 @@
----
 ## Get User Tag
 **Category:** UMG
 **Search:** "Get User Tag"

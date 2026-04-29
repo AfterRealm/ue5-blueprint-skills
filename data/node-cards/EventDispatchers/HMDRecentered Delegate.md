@@ -1,4 +1,3 @@
----
 ## HMDRecentered Delegate
 **Category:** EventDispatchers
 **Search:** "HMDRecentered Delegate"

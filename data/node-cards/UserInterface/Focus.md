@@ -1,4 +1,3 @@
----
 ## Focus
 **Category:** UserInterface
 **Search:** "Focus"

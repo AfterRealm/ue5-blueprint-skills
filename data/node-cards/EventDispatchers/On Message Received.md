@@ -1,4 +1,3 @@
----
 ## On Message Received
 **Category:** EventDispatchers
 **Search:** "On Message Received"

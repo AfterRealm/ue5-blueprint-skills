@@ -1,4 +1,3 @@
----
 ## Application Has Entered Foreground Delegate
 **Category:** EventDispatchers
 **Search:** "Application Has Entered Foreground Delegate"

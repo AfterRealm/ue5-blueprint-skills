@@ -1,4 +1,3 @@
----
 ## Create Data Value Input
 **Category:** Input
 **Search:** "Create Data Value Input"

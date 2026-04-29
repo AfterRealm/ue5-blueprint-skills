@@ -1,4 +1,3 @@
----
 ## On Write Success
 **Category:** EventDispatchers
 **Search:** "On Write Success"

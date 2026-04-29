@@ -1,4 +1,3 @@
----
 ## On Add Tracked Point
 **Category:** Event
 **Search:** "On Add Tracked Point"

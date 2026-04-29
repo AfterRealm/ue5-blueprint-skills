@@ -1,4 +1,3 @@
----
 ## Set Materials
 **Category:** DynamicMesh
 **Search:** "Set Materials"

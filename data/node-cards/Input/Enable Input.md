@@ -1,4 +1,3 @@
----
 ## Enable Input
 **Category:** Input
 **Search:** "Enable Input"

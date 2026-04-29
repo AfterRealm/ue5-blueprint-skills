@@ -1,4 +1,3 @@
----
 ## Get Material Default Vector Parameter Value
 **Category:** MaterialEditing
 **Search:** "Get Material Default Vector Parameter Value"

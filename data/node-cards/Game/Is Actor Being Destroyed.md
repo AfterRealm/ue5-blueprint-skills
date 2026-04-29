@@ -1,4 +1,3 @@
----
 ## Is Actor Being Destroyed
 **Category:** Game
 **Search:** "Is Actor Being Destroyed"

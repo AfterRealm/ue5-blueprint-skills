@@ -1,4 +1,3 @@
----
 ## Capsule Overlap Actors With Orientation
 **Category:** Collision
 **Search:** "Capsule Overlap Actors With Orientation"

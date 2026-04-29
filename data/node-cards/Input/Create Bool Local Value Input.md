@@ -1,4 +1,3 @@
----
 ## Create Bool Local Value Input
 **Category:** Input
 **Search:** "Create Bool Local Value Input"

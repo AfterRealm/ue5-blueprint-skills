@@ -1,4 +1,3 @@
----
 ## Get Local Player Controller From Platform User
 **Category:** Game
 **Search:** "Get Local Player Controller From Platform User"

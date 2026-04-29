@@ -1,4 +1,3 @@
----
 ## Set Shadow Tracing Distance
 **Category:** Rendering
 **Search:** "Set Shadow Tracing Distance"

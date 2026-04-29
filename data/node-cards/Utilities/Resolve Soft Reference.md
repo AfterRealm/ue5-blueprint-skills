@@ -1,4 +1,3 @@
----
 ## Resolve Soft Reference
 **Category:** Utilities
 **Search:** "Resolve Soft Reference"

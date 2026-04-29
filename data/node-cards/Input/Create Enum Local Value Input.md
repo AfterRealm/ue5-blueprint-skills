@@ -1,4 +1,3 @@
----
 ## Create Enum Local Value Input
 **Category:** Input
 **Search:** "Create Enum Local Value Input"

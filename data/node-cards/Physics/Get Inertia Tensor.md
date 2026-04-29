@@ -1,4 +1,3 @@
----
 ## Get Inertia Tensor
 **Category:** Physics
 **Search:** "Get Inertia Tensor"

@@ -1,4 +1,3 @@
----
 ## Get Num Players
 **Category:** Game
 **Search:** "Get Num Players"

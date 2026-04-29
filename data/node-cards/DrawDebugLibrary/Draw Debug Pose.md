@@ -1,4 +1,3 @@
----
 ## Draw Debug Pose
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Pose"

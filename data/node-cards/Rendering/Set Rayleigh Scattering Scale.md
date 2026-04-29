@@ -1,4 +1,3 @@
----
 ## Set Rayleigh Scattering Scale
 **Category:** Rendering
 **Search:** "Set Rayleigh Scattering Scale"

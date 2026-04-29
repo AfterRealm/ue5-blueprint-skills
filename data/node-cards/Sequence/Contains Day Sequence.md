@@ -1,4 +1,3 @@
----
 ## Contains Day Sequence
 **Category:** Sequence
 **Search:** "Contains Day Sequence"

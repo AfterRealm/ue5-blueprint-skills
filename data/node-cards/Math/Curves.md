@@ -1,4 +1,3 @@
----
 ## Curves
 **Category:** Math
 **Search:** "Curves"

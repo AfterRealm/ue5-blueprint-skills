@@ -1,4 +1,3 @@
----
 ## Box
 **Category:** Math
 **Search:** "Box"

@@ -1,4 +1,3 @@
----
 ## Get Material Default Static Switch Parameter Value
 **Category:** MaterialEditing
 **Search:** "Get Material Default Static Switch Parameter Value"

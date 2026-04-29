@@ -1,4 +1,3 @@
----
 ## Reset to Cube
 **Category:** DynamicMesh
 **Search:** "Reset to Cube"

@@ -1,4 +1,3 @@
----
 ## Delete Material Expression
 **Category:** MaterialEditing
 **Search:** "Delete Material Expression"

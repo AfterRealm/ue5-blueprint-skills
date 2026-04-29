@@ -1,4 +1,3 @@
----
 ## Reset Controller Dead Zones
 **Category:** Input
 **Search:** "Reset Controller Dead Zones"

@@ -1,4 +1,3 @@
----
 ## On Direct Link Change
 **Category:** EventDispatchers
 **Search:** "On Direct Link Change"

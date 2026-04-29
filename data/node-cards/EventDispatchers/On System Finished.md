@@ -1,4 +1,3 @@
----
 ## On System Finished
 **Category:** EventDispatchers
 **Search:** "On System Finished"

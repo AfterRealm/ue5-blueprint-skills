@@ -1,4 +1,3 @@
----
 ## On Interacting Changed
 **Category:** EventDispatchers
 **Search:** "On Interacting Changed"

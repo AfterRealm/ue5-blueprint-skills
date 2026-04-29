@@ -1,4 +1,3 @@
----
 ## Has Material Usage
 **Category:** MaterialEditing
 **Search:** "Has Material Usage"

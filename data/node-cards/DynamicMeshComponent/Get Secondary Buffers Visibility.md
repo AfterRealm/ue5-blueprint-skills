@@ -1,4 +1,3 @@
----
 ## Get Secondary Buffers Visibility
 **Category:** DynamicMeshComponent
 **Search:** "Get Secondary Buffers Visibility"

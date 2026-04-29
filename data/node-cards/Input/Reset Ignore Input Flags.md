@@ -1,4 +1,3 @@
----
 ## Reset Ignore Input Flags
 **Category:** Input
 **Search:** "Reset Ignore Input Flags"

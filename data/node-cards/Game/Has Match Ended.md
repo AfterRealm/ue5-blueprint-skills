@@ -1,4 +1,3 @@
----
 ## Has Match Ended
 **Category:** Game
 **Search:** "Has Match Ended"

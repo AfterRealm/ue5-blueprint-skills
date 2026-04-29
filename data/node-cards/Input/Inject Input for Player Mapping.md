@@ -1,4 +1,3 @@
----
 ## Inject Input for Player Mapping
 **Category:** Input
 **Search:** "Inject Input for Player Mapping"

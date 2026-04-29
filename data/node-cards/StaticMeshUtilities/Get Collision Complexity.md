@@ -1,4 +1,3 @@
----
 ## Get Collision Complexity
 **Category:** StaticMeshUtilities
 **Search:** "Get Collision Complexity"

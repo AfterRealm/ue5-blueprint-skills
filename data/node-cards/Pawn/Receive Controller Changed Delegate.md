@@ -1,4 +1,3 @@
----
 ## Receive Controller Changed Delegate
 **Category:** Pawn
 **Search:** "Receive Controller Changed Delegate"

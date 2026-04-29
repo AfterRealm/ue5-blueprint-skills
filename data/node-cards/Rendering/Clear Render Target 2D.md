@@ -1,4 +1,3 @@
----
 ## Clear Render Target 2D
 **Category:** Rendering
 **Search:** "Clear Render Target 2D"

@@ -1,4 +1,3 @@
----
 ## Find Constraint Bone Name
 **Category:** Physics
 **Search:** "Find Constraint Bone Name"

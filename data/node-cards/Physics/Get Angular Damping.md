@@ -1,4 +1,3 @@
----
 ## Get Angular Damping
 **Category:** Physics
 **Search:** "Get Angular Damping"

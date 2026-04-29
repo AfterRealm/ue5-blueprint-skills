@@ -1,4 +1,3 @@
----
 ## Directional Inscattering
 **Category:** Rendering
 **Search:** "Directional Inscattering"

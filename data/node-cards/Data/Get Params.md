@@ -1,4 +1,3 @@
----
 ## Get Params
 **Category:** Data
 **Search:** "Get Params"

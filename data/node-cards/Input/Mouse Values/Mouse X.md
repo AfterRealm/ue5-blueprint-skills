@@ -1,4 +1,3 @@
----
 ## Mouse X
 **Category:** Input > Mouse Values
 **Search:** "Mouse X"

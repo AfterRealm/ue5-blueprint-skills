@@ -1,4 +1,3 @@
----
 ## Set Ground Albedo
 **Category:** Rendering
 **Search:** "Set Ground Albedo"

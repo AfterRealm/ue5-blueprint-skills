@@ -1,4 +1,3 @@
----
 ## SetForegroundColor (Multi-Line Text Box)
 **Category:** Widget
 **Search:** "SetForegroundColor (Multi-Line Text Box)"

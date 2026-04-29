@@ -1,4 +1,3 @@
----
 ## On Remove Tracked Plane
 **Category:** Event
 **Search:** "On Remove Tracked Plane"

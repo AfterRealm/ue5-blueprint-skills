@@ -1,4 +1,3 @@
----
 ## Get Game Time Since Creation
 **Category:** Actor
 **Search:** "Get Game Time Since Creation"

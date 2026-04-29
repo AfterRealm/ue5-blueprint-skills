@@ -1,4 +1,3 @@
----
 ## Draw Debug Graph Legend
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Graph Legend"

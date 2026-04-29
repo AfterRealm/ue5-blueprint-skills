@@ -1,4 +1,3 @@
----
 ## Is Valid Soft Class Reference
 **Category:** Utilities
 **Search:** "Is Valid Soft Class Reference"

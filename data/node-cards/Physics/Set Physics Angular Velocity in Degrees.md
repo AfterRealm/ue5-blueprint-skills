@@ -1,4 +1,3 @@
----
 ## Set Physics Angular Velocity in Degrees
 **Category:** Physics
 **Search:** "Set Physics Angular Velocity in Degrees"

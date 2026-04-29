@@ -1,4 +1,3 @@
----
 ## Has Mouse Capture
 **Category:** Widget
 **Search:** "Has Mouse Capture"

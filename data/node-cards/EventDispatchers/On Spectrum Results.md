@@ -1,4 +1,3 @@
----
 ## On Spectrum Results
 **Category:** EventDispatchers
 **Search:** "On Spectrum Results"

@@ -1,4 +1,3 @@
----
 ## Texture2D Sample UV Editor Only
 **Category:** Rendering
 **Search:** "Texture2D Sample UV Editor Only"

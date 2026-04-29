@@ -1,4 +1,3 @@
----
 ## Get Skeletal Mesh Embedded Positions
 **Category:** Physics
 **Search:** "Get Skeletal Mesh Embedded Positions"

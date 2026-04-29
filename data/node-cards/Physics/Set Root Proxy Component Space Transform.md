@@ -1,4 +1,3 @@
----
 ## Set Root Proxy Component Space Transform
 **Category:** Physics
 **Search:** "Set Root Proxy Component Space Transform"

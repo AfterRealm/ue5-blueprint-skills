@@ -1,4 +1,3 @@
----
 ## Get World Asset
 **Category:** Default
 **Search:** "Get World Asset"

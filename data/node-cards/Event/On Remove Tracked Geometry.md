@@ -1,4 +1,3 @@
----
 ## On Remove Tracked Geometry
 **Category:** Event
 **Search:** "On Remove Tracked Geometry"

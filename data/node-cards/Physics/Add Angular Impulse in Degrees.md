@@ -1,4 +1,3 @@
----
 ## Add Angular Impulse in Degrees
 **Category:** Physics
 **Search:** "Add Angular Impulse in Degrees"

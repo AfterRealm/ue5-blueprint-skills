@@ -1,4 +1,3 @@
----
 ## Get Overscroll Offset
 **Category:** Widget
 **Search:** "Get Overscroll Offset"

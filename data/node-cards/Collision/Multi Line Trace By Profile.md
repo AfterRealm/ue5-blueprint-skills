@@ -1,4 +1,3 @@
----
 ## Multi Line Trace By Profile
 **Category:** Collision
 **Search:** "Multi Line Trace By Profile"

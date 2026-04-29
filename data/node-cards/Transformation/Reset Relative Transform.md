@@ -1,4 +1,3 @@
----
 ## Reset Relative Transform
 **Category:** Transformation
 **Search:** "Reset Relative Transform"

@@ -1,4 +1,3 @@
----
 ## Get Material Instance
 **Category:** UserInterface
 **Search:** "Get Material Instance"

@@ -1,4 +1,3 @@
----
 ## Is Hovered
 **Category:** Widget
 **Search:** "Is Hovered"

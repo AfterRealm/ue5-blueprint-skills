@@ -1,4 +1,3 @@
----
 ## Make UDIM Texture from Texture2Ds
 **Category:** Utilities
 **Search:** "Make UDIM Texture from Texture2Ds"

@@ -1,4 +1,3 @@
----
 ## Get Actor Right Vector
 **Category:** Transformation
 **Search:** "Get Actor Right Vector"

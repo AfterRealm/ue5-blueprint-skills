@@ -1,4 +1,3 @@
----
 ## Get Current Draw Size
 **Category:** UserInterface
 **Search:** "Get Current Draw Size"

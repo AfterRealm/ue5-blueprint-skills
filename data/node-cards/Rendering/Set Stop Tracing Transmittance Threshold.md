@@ -1,4 +1,3 @@
----
 ## Set Stop Tracing Transmittance Threshold
 **Category:** Rendering
 **Search:** "Set Stop Tracing Transmittance Threshold"

@@ -1,4 +1,3 @@
----
 ## Set Two Sided
 **Category:** Rendering
 **Search:** "Set Two Sided"

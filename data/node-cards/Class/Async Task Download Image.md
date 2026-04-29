@@ -1,4 +1,3 @@
----
 ## Async Task Download Image
 **Category:** Class
 **Search:** "Async Task Download Image"

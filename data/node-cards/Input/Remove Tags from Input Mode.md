@@ -1,4 +1,3 @@
----
 ## Remove Tags from Input Mode
 **Category:** Input
 **Search:** "Remove Tags from Input Mode"

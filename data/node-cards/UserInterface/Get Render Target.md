@@ -1,4 +1,3 @@
----
 ## Get Render Target
 **Category:** UserInterface
 **Search:** "Get Render Target"

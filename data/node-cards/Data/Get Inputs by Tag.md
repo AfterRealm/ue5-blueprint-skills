@@ -1,4 +1,3 @@
----
 ## Get Inputs by Tag
 **Category:** Data
 **Search:** "Get Inputs by Tag"

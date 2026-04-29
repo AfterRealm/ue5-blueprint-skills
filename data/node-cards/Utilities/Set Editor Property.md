@@ -1,4 +1,3 @@
----
 ## Set Editor Property
 **Category:** Utilities
 **Search:** "Set Editor Property"

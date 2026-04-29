@@ -1,4 +1,3 @@
----
 ## Duplicate Object
 **Category:** Utilities
 **Search:** "Duplicate Object"

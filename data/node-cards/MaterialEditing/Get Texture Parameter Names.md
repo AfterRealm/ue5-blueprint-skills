@@ -1,4 +1,3 @@
----
 ## Get Texture Parameter Names
 **Category:** MaterialEditing
 **Search:** "Get Texture Parameter Names"

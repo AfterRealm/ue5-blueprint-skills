@@ -1,4 +1,3 @@
----
 ## Set Mesh Draw Path
 **Category:** DynamicMeshComponent
 **Search:** "Set Mesh Draw Path"

@@ -1,4 +1,3 @@
----
 ## Triggered
 **Category:** EventDispatchers
 **Search:** "Triggered"

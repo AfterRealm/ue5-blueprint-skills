@@ -1,4 +1,3 @@
----
 ## Set Texture Parameter (Brush)
 **Category:** Widget
 **Search:** "Set Texture Parameter (Brush)"

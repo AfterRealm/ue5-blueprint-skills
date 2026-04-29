@@ -1,4 +1,3 @@
----
 ## Get Horizontal Dot Product To
 **Category:** Transformation
 **Search:** "Get Horizontal Dot Product To"

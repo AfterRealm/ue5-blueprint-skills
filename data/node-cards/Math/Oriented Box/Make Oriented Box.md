@@ -1,4 +1,3 @@
----
 ## Make Oriented Box
 **Category:** Math > Oriented Box
 **Search:** "Make Oriented Box"

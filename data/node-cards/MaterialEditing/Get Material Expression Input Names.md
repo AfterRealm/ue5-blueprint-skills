@@ -1,4 +1,3 @@
----
 ## Get Material Expression Input Names
 **Category:** MaterialEditing
 **Search:** "Get Material Expression Input Names"

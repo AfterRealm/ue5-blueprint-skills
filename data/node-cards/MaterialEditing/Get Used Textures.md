@@ -1,4 +1,3 @@
----
 ## Get Used Textures
 **Category:** MaterialEditing
 **Search:** "Get Used Textures"

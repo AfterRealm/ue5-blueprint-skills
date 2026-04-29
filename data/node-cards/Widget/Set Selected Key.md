@@ -1,4 +1,3 @@
----
 ## Set Selected Key
 **Category:** Widget
 **Search:** "Set Selected Key"

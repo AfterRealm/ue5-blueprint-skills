@@ -1,4 +1,3 @@
----
 ## Draw Debug Oriented Arrow
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Oriented Arrow"

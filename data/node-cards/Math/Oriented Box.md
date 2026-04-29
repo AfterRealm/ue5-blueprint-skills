@@ -1,4 +1,3 @@
----
 ## Oriented Box
 **Category:** Math
 **Search:** "Oriented Box"

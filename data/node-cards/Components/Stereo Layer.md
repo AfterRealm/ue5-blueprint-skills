@@ -1,4 +1,3 @@
----
 ## Stereo Layer
 **Category:** Components
 **Search:** "Stereo Layer"

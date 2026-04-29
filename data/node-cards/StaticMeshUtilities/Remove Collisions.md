@@ -1,4 +1,3 @@
----
 ## Remove Collisions
 **Category:** StaticMeshUtilities
 **Search:** "Remove Collisions"

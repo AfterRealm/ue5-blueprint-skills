@@ -1,4 +1,3 @@
----
 ## Get Inputs by Pin Label
 **Category:** Data
 **Search:** "Get Inputs by Pin Label"

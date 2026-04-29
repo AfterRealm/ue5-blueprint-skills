@@ -1,4 +1,3 @@
----
 ## Get Texture Parameter Source
 **Category:** MaterialEditing
 **Search:** "Get Texture Parameter Source"

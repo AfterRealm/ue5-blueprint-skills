@@ -1,4 +1,3 @@
----
 ## Set Escape Keys
 **Category:** Widget
 **Search:** "Set Escape Keys"

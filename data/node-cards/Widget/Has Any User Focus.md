@@ -1,4 +1,3 @@
----
 ## Has Any User Focus
 **Category:** Widget
 **Search:** "Has Any User Focus"

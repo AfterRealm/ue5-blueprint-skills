@@ -1,4 +1,3 @@
----
 ## Create Input Component
 **Category:** Input
 **Search:** "Create Input Component"

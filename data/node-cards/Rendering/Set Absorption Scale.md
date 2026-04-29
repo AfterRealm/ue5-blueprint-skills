@@ -1,4 +1,3 @@
----
 ## Set Absorption Scale
 **Category:** Rendering
 **Search:** "Set Absorption Scale"

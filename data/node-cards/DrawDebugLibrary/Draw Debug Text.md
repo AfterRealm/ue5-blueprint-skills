@@ -1,4 +1,3 @@
----
 ## Draw Debug Text
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Text"

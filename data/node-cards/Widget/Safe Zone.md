@@ -1,4 +1,3 @@
----
 ## Safe Zone
 **Category:** Widget
 **Search:** "Safe Zone"

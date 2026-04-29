@@ -1,4 +1,3 @@
----
 ## Set Scroll Offset
 **Category:** Widget
 **Search:** "Set Scroll Offset"

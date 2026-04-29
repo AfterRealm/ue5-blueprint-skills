@@ -1,4 +1,3 @@
----
 ## Set World Asset
 **Category:** Default
 **Search:** "Set World Asset"

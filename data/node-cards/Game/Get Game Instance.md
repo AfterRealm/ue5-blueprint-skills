@@ -1,4 +1,3 @@
----
 ## Get Game Instance
 **Category:** Game
 **Search:** "Get Game Instance"

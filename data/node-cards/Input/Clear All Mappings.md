@@ -1,4 +1,3 @@
----
 ## Clear All Mappings
 **Category:** Input
 **Search:** "Clear All Mappings"

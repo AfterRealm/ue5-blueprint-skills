@@ -1,4 +1,3 @@
----
 ## Trig
 **Category:** Math
 **Search:** "Trig"

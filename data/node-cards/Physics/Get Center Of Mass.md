@@ -1,4 +1,3 @@
----
 ## Get Center Of Mass
 **Category:** Physics
 **Search:** "Get Center Of Mass"

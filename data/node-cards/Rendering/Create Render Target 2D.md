@@ -1,4 +1,3 @@
----
 ## Create Render Target 2D
 **Category:** Rendering
 **Search:** "Create Render Target 2D"

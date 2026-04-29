@@ -1,4 +1,3 @@
----
 ## Get Focal Location
 **Category:** Pawn
 **Search:** "Get Focal Location"

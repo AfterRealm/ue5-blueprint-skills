@@ -1,4 +1,3 @@
----
 ## Get Actor Of Class
 **Category:** Actor
 **Search:** "Get Actor Of Class"

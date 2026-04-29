@@ -1,4 +1,3 @@
----
 ## Is Enabled
 **Category:** Rendering
 **Search:** "Is Enabled"

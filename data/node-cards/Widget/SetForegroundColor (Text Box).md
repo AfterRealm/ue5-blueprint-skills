@@ -1,4 +1,3 @@
----
 ## SetForegroundColor (Text Box)
 **Category:** Widget
 **Search:** "SetForegroundColor (Text Box)"

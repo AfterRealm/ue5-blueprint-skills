@@ -1,4 +1,3 @@
----
 ## Set Vector Parameter MID (Brush)
 **Category:** Widget
 **Search:** "Set Vector Parameter MID (Brush)"

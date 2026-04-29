@@ -1,4 +1,3 @@
----
 ## Draw Debug Rotation
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Rotation"

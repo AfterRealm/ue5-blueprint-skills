@@ -1,4 +1,3 @@
----
 ## Multi Line Trace For Objects
 **Category:** Collision
 **Search:** "Multi Line Trace For Objects"

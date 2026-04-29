@@ -1,4 +1,3 @@
----
 ## Get Platform Name
 **Category:** Game
 **Search:** "Get Platform Name"

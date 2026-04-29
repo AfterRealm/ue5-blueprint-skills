@@ -1,4 +1,3 @@
----
 ## Get Nanite Override Material
 **Category:** MaterialEditing
 **Search:** "Get Nanite Override Material"

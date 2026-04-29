@@ -1,4 +1,3 @@
----
 ## Matrix
 **Category:** Math
 **Search:** "Matrix"

@@ -1,4 +1,3 @@
----
 ## On Model Loaded
 **Category:** EventDispatchers
 **Search:** "On Model Loaded"

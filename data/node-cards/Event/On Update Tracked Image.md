@@ -1,4 +1,3 @@
----
 ## On Update Tracked Image
 **Category:** Event
 **Search:** "On Update Tracked Image"

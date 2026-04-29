@@ -1,4 +1,3 @@
----
 ## On Component Begin Overlap
 **Category:** Collision
 **Search:** "On Component Begin Overlap"

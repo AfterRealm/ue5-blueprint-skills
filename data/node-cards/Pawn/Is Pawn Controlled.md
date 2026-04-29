@@ -1,4 +1,3 @@
----
 ## Is Pawn Controlled
 **Category:** Pawn
 **Search:** "Is Pawn Controlled"

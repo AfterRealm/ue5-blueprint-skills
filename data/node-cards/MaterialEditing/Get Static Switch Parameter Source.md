@@ -1,4 +1,3 @@
----
 ## Get Static Switch Parameter Source
 **Category:** MaterialEditing
 **Search:** "Get Static Switch Parameter Source"

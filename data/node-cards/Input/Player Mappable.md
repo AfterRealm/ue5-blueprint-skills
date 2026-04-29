@@ -1,4 +1,3 @@
----
 ## Player Mappable
 **Category:** Input
 **Search:** "Player Mappable"

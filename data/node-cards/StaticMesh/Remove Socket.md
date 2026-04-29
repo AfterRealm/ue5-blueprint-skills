@@ -1,4 +1,3 @@
----
 ## Remove Socket
 **Category:** StaticMesh
 **Search:** "Remove Socket"

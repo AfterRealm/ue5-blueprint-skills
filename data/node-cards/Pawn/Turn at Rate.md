@@ -1,4 +1,3 @@
----
 ## Turn at Rate
 **Category:** Pawn
 **Search:** "Turn at Rate"

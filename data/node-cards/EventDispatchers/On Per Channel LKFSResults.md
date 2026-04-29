@@ -1,4 +1,3 @@
----
 ## On Per Channel LKFSResults
 **Category:** EventDispatchers
 **Search:** "On Per Channel LKFSResults"

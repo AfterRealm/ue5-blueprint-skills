@@ -1,4 +1,3 @@
----
 ## Request Render Update
 **Category:** UserInterface
 **Search:** "Request Render Update"

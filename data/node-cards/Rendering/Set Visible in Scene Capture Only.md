@@ -1,4 +1,3 @@
----
 ## Set Visible in Scene Capture Only
 **Category:** Rendering
 **Search:** "Set Visible in Scene Capture Only"

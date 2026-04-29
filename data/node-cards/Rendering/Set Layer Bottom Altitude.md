@@ -1,4 +1,3 @@
----
 ## Set Layer Bottom Altitude
 **Category:** Rendering
 **Search:** "Set Layer Bottom Altitude"

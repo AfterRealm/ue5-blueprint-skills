@@ -1,4 +1,3 @@
----
 ## Texture
 **Category:** Rendering
 **Search:** "Texture"

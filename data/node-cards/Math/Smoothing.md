@@ -1,4 +1,3 @@
----
 ## Smoothing
 **Category:** Math
 **Search:** "Smoothing"

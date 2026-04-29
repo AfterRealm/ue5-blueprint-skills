@@ -1,4 +1,3 @@
----
 ## Get Draw Size
 **Category:** UserInterface
 **Search:** "Get Draw Size"

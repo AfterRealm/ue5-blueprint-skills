@@ -1,4 +1,3 @@
----
 ## Set Single Sample Shadow from Stationary Lights
 **Category:** Rendering
 **Search:** "Set Single Sample Shadow from Stationary Lights"

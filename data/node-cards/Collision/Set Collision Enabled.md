@@ -1,4 +1,3 @@
----
 ## Set Collision Enabled
 **Category:** Collision
 **Search:** "Set Collision Enabled"

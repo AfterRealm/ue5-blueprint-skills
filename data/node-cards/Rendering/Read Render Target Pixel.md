@@ -1,4 +1,3 @@
----
 ## Read Render Target Pixel
 **Category:** Rendering
 **Search:** "Read Render Target Pixel"

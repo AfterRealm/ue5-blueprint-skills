@@ -1,4 +1,3 @@
----
 ## To String (SoftClassReference)
 **Category:** Utilities
 **Search:** "To String (SoftClassReference)"

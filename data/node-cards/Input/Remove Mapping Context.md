@@ -1,4 +1,3 @@
----
 ## Remove Mapping Context
 **Category:** Input
 **Search:** "Remove Mapping Context"

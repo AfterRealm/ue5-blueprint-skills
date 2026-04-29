@@ -1,4 +1,3 @@
----
 ## Has User Focused Descendants
 **Category:** Widget
 **Search:** "Has User Focused Descendants"

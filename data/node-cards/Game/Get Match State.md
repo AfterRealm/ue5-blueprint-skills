@@ -1,4 +1,3 @@
----
 ## Get Match State
 **Category:** Game
 **Search:** "Get Match State"

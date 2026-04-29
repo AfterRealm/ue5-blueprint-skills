@@ -1,4 +1,3 @@
----
 ## Drag And Drop
 **Category:** Widget
 **Search:** "Drag And Drop"

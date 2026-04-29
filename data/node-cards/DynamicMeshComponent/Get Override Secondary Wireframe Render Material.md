@@ -1,4 +1,3 @@
----
 ## Get Override Secondary Wireframe Render Material
 **Category:** DynamicMeshComponent
 **Search:** "Get Override Secondary Wireframe Render Material"

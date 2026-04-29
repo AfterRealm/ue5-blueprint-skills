@@ -1,4 +1,3 @@
----
 ## Get Number Verts
 **Category:** StaticMeshUtilities
 **Search:** "Get Number Verts"

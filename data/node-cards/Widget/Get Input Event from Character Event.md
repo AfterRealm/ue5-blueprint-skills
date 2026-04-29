@@ -1,4 +1,3 @@
----
 ## Get Input Event from Character Event
 **Category:** Widget
 **Search:** "Get Input Event from Character Event"

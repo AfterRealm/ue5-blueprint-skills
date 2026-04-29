@@ -1,4 +1,3 @@
----
 ## Set Navigation Rule Explicit
 **Category:** Widget
 **Search:** "Set Navigation Rule Explicit"

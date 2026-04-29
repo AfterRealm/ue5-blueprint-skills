@@ -1,4 +1,3 @@
----
 ## Get Color Channel
 **Category:** Rendering
 **Search:** "Get Color Channel"

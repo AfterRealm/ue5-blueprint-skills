@@ -1,4 +1,3 @@
----
 ## Set Dynamic Mesh
 **Category:** DynamicMeshComponent
 **Search:** "Set Dynamic Mesh"

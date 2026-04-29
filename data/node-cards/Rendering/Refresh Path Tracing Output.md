@@ -1,4 +1,3 @@
----
 ## Refresh Path Tracing Output
 **Category:** Rendering
 **Search:** "Refresh Path Tracing Output"

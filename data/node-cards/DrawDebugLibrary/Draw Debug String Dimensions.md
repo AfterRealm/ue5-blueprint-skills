@@ -1,4 +1,3 @@
----
 ## Draw Debug String Dimensions
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug String Dimensions"

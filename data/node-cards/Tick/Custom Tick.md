@@ -1,4 +1,3 @@
----
 ## Custom Tick
 **Category:** Tick
 **Search:** "Custom Tick"

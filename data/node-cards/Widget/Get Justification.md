@@ -1,4 +1,3 @@
----
 ## Get Justification
 **Category:** Widget
 **Search:** "Get Justification"

@@ -1,4 +1,3 @@
----
 ## Get Input Mode
 **Category:** Input
 **Search:** "Get Input Mode"

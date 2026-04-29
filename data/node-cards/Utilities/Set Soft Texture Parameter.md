@@ -1,4 +1,3 @@
----
 ## Set Soft Texture Parameter
 **Category:** Utilities
 **Search:** "Set Soft Texture Parameter"

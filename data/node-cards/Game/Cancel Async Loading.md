@@ -1,4 +1,3 @@
----
 ## Cancel Async Loading
 **Category:** Game
 **Search:** "Cancel Async Loading"

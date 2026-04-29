@@ -1,4 +1,3 @@
----
 ## Set Checked State
 **Category:** Widget
 **Search:** "Set Checked State"

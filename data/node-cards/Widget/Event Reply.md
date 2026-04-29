@@ -1,4 +1,3 @@
----
 ## Event Reply
 **Category:** Widget
 **Search:** "Event Reply"

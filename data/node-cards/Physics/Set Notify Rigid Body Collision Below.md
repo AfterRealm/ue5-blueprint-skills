@@ -1,4 +1,3 @@
----
 ## Set Notify Rigid Body Collision Below
 **Category:** Physics
 **Search:** "Set Notify Rigid Body Collision Below"

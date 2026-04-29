@@ -1,4 +1,3 @@
----
 ## Get Game Name
 **Category:** Game
 **Search:** "Get Game Name"

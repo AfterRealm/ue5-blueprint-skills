@@ -1,4 +1,3 @@
----
 ## Inject Input Vector for Action
 **Category:** Input
 **Search:** "Inject Input Vector for Action"

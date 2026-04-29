@@ -1,4 +1,3 @@
----
 ## Add Child to Grid
 **Category:** Widget
 **Search:** "Add Child to Grid"

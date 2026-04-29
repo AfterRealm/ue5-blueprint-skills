@@ -1,4 +1,3 @@
----
 ## Set Aerial Perspective Start Depth
 **Category:** Rendering
 **Search:** "Set Aerial Perspective Start Depth"

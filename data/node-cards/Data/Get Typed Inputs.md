@@ -1,4 +1,3 @@
----
 ## Get Typed Inputs
 **Category:** Data
 **Search:** "Get Typed Inputs"

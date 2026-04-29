@@ -1,4 +1,3 @@
----
 ## Component Has Tag
 **Category:** Components
 **Search:** "Component Has Tag"

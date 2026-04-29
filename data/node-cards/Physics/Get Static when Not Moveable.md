@@ -1,4 +1,3 @@
----
 ## Get Static when Not Moveable
 **Category:** Physics
 **Search:** "Get Static when Not Moveable"

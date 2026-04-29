@@ -1,4 +1,3 @@
----
 ## Has Mouse Capture by User
 **Category:** Widget
 **Search:** "Has Mouse Capture by User"

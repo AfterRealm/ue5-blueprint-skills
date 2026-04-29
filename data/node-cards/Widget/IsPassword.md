@@ -1,4 +1,3 @@
----
 ## IsPassword
 **Category:** Widget
 **Search:** "IsPassword"

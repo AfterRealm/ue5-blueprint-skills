@@ -1,4 +1,3 @@
----
 ## Refresh Text Layout
 **Category:** Widget
 **Search:** "Refresh Text Layout"

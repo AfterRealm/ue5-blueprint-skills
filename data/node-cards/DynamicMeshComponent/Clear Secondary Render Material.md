@@ -1,4 +1,3 @@
----
 ## Clear Secondary Render Material
 **Category:** DynamicMeshComponent
 **Search:** "Clear Secondary Render Material"

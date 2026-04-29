@@ -1,4 +1,3 @@
----
 ## Set Height Fog Falloff
 **Category:** Rendering
 **Search:** "Set Height Fog Falloff"

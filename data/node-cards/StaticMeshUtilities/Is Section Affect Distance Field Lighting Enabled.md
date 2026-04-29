@@ -1,4 +1,3 @@
----
 ## Is Section Affect Distance Field Lighting Enabled
 **Category:** StaticMeshUtilities
 **Search:** "Is Section Affect Distance Field Lighting Enabled"

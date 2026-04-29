@@ -1,4 +1,3 @@
----
 ## Remove Local Player
 **Category:** Game
 **Search:** "Remove Local Player"

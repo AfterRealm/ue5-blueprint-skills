@@ -1,4 +1,3 @@
----
 ## Scale by Moment Of Inertia
 **Category:** Physics
 **Search:** "Scale by Moment Of Inertia"

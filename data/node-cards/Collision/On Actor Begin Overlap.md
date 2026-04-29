@@ -1,4 +1,3 @@
----
 ## On Actor Begin Overlap
 **Category:** Collision
 **Search:** "On Actor Begin Overlap"

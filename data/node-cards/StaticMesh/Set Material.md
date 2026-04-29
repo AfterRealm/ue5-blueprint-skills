@@ -1,4 +1,3 @@
----
 ## Set Material
 **Category:** StaticMesh
 **Search:** "Set Material"

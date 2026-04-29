@@ -1,4 +1,3 @@
----
 ## Is Widget Visible
 **Category:** UserInterface
 **Search:** "Is Widget Visible"

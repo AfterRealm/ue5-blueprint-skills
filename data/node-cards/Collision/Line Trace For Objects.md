@@ -1,4 +1,3 @@
----
 ## Line Trace For Objects
 **Category:** Collision
 **Search:** "Line Trace For Objects"

@@ -1,4 +1,3 @@
----
 ## SetHintText (Multi-Line Editable Text)
 **Category:** Widget
 **Search:** "SetHintText (Multi-Line Editable Text)"

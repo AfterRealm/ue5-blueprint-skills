@@ -1,4 +1,3 @@
----
 ## Duplicate Material Expression
 **Category:** MaterialEditing
 **Search:** "Duplicate Material Expression"

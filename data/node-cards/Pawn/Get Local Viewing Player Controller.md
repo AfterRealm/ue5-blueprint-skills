@@ -1,4 +1,3 @@
----
 ## Get Local Viewing Player Controller
 **Category:** Pawn
 **Search:** "Get Local Viewing Player Controller"

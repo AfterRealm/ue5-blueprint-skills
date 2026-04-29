@@ -1,4 +1,3 @@
----
 ## Set Owner Player
 **Category:** UserInterface
 **Search:** "Set Owner Player"

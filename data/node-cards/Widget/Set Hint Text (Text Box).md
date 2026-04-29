@@ -1,4 +1,3 @@
----
 ## Set Hint Text (Text Box)
 **Category:** Widget
 **Search:** "Set Hint Text (Text Box)"

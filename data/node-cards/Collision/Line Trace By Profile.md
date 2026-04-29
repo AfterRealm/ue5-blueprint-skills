@@ -1,4 +1,3 @@
----
 ## Line Trace By Profile
 **Category:** Collision
 **Search:** "Line Trace By Profile"

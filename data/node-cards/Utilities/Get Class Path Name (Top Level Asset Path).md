@@ -1,4 +1,3 @@
----
 ## Get Class Path Name (Top Level Asset Path)
 **Category:** Utilities
 **Search:** "Get Class Path Name (Top Level Asset Path)"

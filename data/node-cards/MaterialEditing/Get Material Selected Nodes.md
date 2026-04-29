@@ -1,4 +1,3 @@
----
 ## Get Material Selected Nodes
 **Category:** MaterialEditing
 **Search:** "Get Material Selected Nodes"

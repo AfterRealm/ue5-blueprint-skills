@@ -1,4 +1,3 @@
----
 ## Make Soft Object Path
 **Category:** Utilities
 **Search:** "Make Soft Object Path"

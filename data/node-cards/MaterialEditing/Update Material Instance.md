@@ -1,4 +1,3 @@
----
 ## Update Material Instance
 **Category:** MaterialEditing
 **Search:** "Update Material Instance"

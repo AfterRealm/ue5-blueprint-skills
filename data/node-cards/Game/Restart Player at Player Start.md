@@ -1,4 +1,3 @@
----
 ## Restart Player at Player Start
 **Category:** Game
 **Search:** "Restart Player at Player Start"

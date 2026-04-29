@@ -1,4 +1,3 @@
----
 ## Set Item Color
 **Category:** Set
 **Search:** "Set Item Color"

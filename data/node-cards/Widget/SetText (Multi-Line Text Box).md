@@ -1,4 +1,3 @@
----
 ## SetText (Multi-Line Text Box)
 **Category:** Widget
 **Search:** "SetText (Multi-Line Text Box)"

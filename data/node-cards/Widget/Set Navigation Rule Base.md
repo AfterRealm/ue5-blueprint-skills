@@ -1,4 +1,3 @@
----
 ## Set Navigation Rule Base
 **Category:** Widget
 **Search:** "Set Navigation Rule Base"

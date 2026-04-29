@@ -1,4 +1,3 @@
----
 ## Component Overlap Actors
 **Category:** Collision
 **Search:** "Component Overlap Actors"

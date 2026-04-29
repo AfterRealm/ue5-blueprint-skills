@@ -1,4 +1,3 @@
----
 ## Capture Complete
 **Category:** EventDispatchers
 **Search:** "Capture Complete"

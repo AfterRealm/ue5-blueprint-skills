@@ -1,4 +1,3 @@
----
 ## On Applied
 **Category:** EventDispatchers
 **Search:** "On Applied"

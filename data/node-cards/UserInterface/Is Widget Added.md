@@ -1,4 +1,3 @@
----
 ## Is Widget Added
 **Category:** UserInterface
 **Search:** "Is Widget Added"

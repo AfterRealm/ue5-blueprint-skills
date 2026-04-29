@@ -1,4 +1,3 @@
----
 ## Get Player State
 **Category:** Game
 **Search:** "Get Player State"

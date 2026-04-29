@@ -1,4 +1,3 @@
----
 ## Get Vertical Distance To
 **Category:** Transformation
 **Search:** "Get Vertical Distance To"

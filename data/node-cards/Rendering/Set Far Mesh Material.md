@@ -1,4 +1,3 @@
----
 ## Set Far Mesh Material
 **Category:** Rendering
 **Search:** "Set Far Mesh Material"

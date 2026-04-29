@@ -1,4 +1,3 @@
----
 ## Get Material Expression Node Position
 **Category:** MaterialEditing
 **Search:** "Get Material Expression Node Position"

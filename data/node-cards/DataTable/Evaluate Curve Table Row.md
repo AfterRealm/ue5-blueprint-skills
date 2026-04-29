@@ -1,4 +1,3 @@
----
 ## Evaluate Curve Table Row
 **Category:** DataTable
 **Search:** "Evaluate Curve Table Row"

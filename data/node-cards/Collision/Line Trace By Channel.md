@@ -1,4 +1,3 @@
----
 ## Line Trace By Channel
 **Category:** Collision
 **Search:** "Line Trace By Channel"

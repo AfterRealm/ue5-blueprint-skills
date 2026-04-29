@@ -1,4 +1,3 @@
----
 ## Draw Debug Arc
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Arc"

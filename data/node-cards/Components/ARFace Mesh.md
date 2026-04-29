@@ -1,4 +1,3 @@
----
 ## ARFace Mesh
 **Category:** Components
 **Search:** "ARFace Mesh"

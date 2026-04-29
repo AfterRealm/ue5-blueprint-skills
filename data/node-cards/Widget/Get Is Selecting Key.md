@@ -1,4 +1,3 @@
----
 ## Get Is Selecting Key
 **Category:** Widget
 **Search:** "Get Is Selecting Key"

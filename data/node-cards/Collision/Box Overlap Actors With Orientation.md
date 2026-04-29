@@ -1,4 +1,3 @@
----
 ## Box Overlap Actors With Orientation
 **Category:** Collision
 **Search:** "Box Overlap Actors With Orientation"

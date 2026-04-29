@@ -1,4 +1,3 @@
----
 ## On Tests Begin
 **Category:** EventDispatchers
 **Search:** "On Tests Begin"

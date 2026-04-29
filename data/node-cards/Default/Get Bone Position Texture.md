@@ -1,4 +1,3 @@
----
 ## Get Bone Position Texture
 **Category:** Default
 **Search:** "Get Bone Position Texture"

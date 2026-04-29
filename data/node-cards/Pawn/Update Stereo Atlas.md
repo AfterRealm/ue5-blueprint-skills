@@ -1,4 +1,3 @@
----
 ## Update Stereo Atlas
 **Category:** Pawn
 **Search:** "Update Stereo Atlas"

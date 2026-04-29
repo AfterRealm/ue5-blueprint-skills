@@ -1,4 +1,3 @@
----
 ## Has Match Started
 **Category:** Game
 **Search:** "Has Match Started"

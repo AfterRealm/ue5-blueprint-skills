@@ -1,4 +1,3 @@
----
 ## Draw Debug Circle Ticks
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Circle Ticks"

@@ -1,4 +1,3 @@
----
 ## Get Loaded Level
 **Category:** Game
 **Search:** "Get Loaded Level"

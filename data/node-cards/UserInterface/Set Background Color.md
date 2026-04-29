@@ -1,4 +1,3 @@
----
 ## Set Background Color
 **Category:** UserInterface
 **Search:** "Set Background Color"

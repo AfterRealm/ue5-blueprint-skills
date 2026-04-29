@@ -1,4 +1,3 @@
----
 ## Add Torque in Radians
 **Category:** Physics
 **Search:** "Add Torque in Radians"

@@ -1,4 +1,3 @@
----
 ## On Target Perception Updated
 **Category:** EventDispatchers
 **Search:** "On Target Perception Updated"

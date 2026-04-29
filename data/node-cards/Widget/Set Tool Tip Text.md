@@ -1,4 +1,3 @@
----
 ## Set Tool Tip Text
 **Category:** Widget
 **Search:** "Set Tool Tip Text"

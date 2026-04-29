@@ -1,4 +1,3 @@
----
 ## Set Sky Luminance Factor
 **Category:** Rendering
 **Search:** "Set Sky Luminance Factor"

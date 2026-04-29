@@ -1,4 +1,3 @@
----
 ## Get Material Index
 **Category:** StaticMesh
 **Search:** "Get Material Index"

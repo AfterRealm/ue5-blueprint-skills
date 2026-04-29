@@ -1,4 +1,3 @@
----
 ## SetIsReadOnly (Multi-Line Text Box)
 **Category:** Widget
 **Search:** "SetIsReadOnly (Multi-Line Text Box)"

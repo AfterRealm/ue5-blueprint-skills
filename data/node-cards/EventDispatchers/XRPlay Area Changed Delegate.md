@@ -1,4 +1,3 @@
----
 ## XRPlay Area Changed Delegate
 **Category:** EventDispatchers
 **Search:** "XRPlay Area Changed Delegate"

@@ -1,4 +1,3 @@
----
 ## HMDTracking Initialized Delegate
 **Category:** EventDispatchers
 **Search:** "HMDTracking Initialized Delegate"

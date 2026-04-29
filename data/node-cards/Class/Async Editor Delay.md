@@ -1,4 +1,3 @@
----
 ## Async Editor Delay
 **Category:** Class
 **Search:** "Async Editor Delay"

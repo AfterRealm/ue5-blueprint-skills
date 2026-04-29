@@ -1,4 +1,3 @@
----
 ## Get Player Mappable Key Settings
 **Category:** Input
 **Search:** "Get Player Mappable Key Settings"

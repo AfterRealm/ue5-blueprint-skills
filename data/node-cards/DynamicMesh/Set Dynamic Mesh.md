@@ -1,4 +1,3 @@
----
 ## Set Dynamic Mesh
 **Category:** DynamicMesh
 **Search:** "Set Dynamic Mesh"

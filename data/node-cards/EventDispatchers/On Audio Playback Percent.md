@@ -1,4 +1,3 @@
----
 ## On Audio Playback Percent
 **Category:** EventDispatchers
 **Search:** "On Audio Playback Percent"

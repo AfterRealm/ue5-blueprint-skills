@@ -1,4 +1,3 @@
----
 ## Flipbook
 **Category:** Components
 **Search:** "Flipbook"

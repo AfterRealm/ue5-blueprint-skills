@@ -1,4 +1,3 @@
----
 ## Get Move Speed
 **Category:** Widget
 **Search:** "Get Move Speed"

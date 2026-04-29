@@ -1,4 +1,3 @@
----
 ## Get Update Kinematic from Simulation
 **Category:** Physics
 **Search:** "Get Update Kinematic from Simulation"

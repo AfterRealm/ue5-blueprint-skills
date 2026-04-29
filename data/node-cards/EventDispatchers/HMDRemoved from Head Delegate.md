@@ -1,4 +1,3 @@
----
 ## HMDRemoved from Head Delegate
 **Category:** EventDispatchers
 **Search:** "HMDRemoved from Head Delegate"

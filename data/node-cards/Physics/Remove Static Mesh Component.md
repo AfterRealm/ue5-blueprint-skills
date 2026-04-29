@@ -1,4 +1,3 @@
----
 ## Remove Static Mesh Component
 **Category:** Physics
 **Search:** "Remove Static Mesh Component"

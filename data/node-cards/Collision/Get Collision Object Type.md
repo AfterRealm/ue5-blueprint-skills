@@ -1,4 +1,3 @@
----
 ## Get Collision Object Type
 **Category:** Collision
 **Search:** "Get Collision Object Type"

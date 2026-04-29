@@ -1,4 +1,3 @@
----
 ## Capsule Overlap Components With Orientation
 **Category:** Collision
 **Search:** "Capsule Overlap Components With Orientation"

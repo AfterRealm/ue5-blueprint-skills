@@ -1,4 +1,3 @@
----
 ## Draw Debug Decagon
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Decagon"

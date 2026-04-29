@@ -1,4 +1,3 @@
----
 ## Make Top Level Asset Path
 **Category:** Utilities
 **Search:** "Make Top Level Asset Path"

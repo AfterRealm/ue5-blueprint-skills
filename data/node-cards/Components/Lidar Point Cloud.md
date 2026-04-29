@@ -1,4 +1,3 @@
----
 ## Lidar Point Cloud
 **Category:** Components
 **Search:** "Lidar Point Cloud"

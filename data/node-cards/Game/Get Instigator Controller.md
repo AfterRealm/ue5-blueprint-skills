@@ -1,4 +1,3 @@
----
 ## Get Instigator Controller
 **Category:** Game
 **Search:** "Get Instigator Controller"

@@ -1,4 +1,3 @@
----
 ## Get Horizontal Distance To
 **Category:** Transformation
 **Search:** "Get Horizontal Distance To"

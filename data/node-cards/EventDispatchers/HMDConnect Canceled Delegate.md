@@ -1,4 +1,3 @@
----
 ## HMDConnect Canceled Delegate
 **Category:** EventDispatchers
 **Search:** "HMDConnect Canceled Delegate"

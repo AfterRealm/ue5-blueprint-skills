@@ -1,4 +1,3 @@
----
 ## Get Num UVChannels
 **Category:** StaticMeshUtilities
 **Search:** "Get Num UVChannels"

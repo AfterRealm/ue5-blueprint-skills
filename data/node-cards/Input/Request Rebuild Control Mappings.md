@@ -1,4 +1,3 @@
----
 ## Request Rebuild Control Mappings
 **Category:** Input
 **Search:** "Request Rebuild Control Mappings"

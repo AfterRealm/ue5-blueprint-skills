@@ -1,4 +1,3 @@
----
 ## Get Base Aim Rotation
 **Category:** Pawn
 **Search:** "Get Base Aim Rotation"

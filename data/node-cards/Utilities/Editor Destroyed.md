@@ -1,4 +1,3 @@
----
 ## Editor Destroyed
 **Category:** Utilities
 **Search:** "Editor Destroyed"

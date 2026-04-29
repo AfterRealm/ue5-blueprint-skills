@@ -1,4 +1,3 @@
----
 ## Quit Game
 **Category:** Game
 **Search:** "Quit Game"

@@ -1,4 +1,3 @@
----
 ## Get Scroll Offset
 **Category:** Widget
 **Search:** "Get Scroll Offset"

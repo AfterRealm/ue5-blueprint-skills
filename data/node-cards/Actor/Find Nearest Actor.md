@@ -1,4 +1,3 @@
----
 ## Find Nearest Actor
 **Category:** Actor
 **Search:** "Find Nearest Actor"

@@ -1,4 +1,3 @@
----
 ## Create Float Local Value Input
 **Category:** Input
 **Search:** "Create Float Local Value Input"

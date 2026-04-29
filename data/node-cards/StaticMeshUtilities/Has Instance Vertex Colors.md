@@ -1,4 +1,3 @@
----
 ## Has Instance Vertex Colors
 **Category:** StaticMeshUtilities
 **Search:** "Has Instance Vertex Colors"

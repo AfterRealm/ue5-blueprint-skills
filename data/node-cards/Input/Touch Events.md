@@ -1,4 +1,3 @@
----
 ## Touch Events
 **Category:** Input
 **Search:** "Touch Events"

@@ -1,4 +1,3 @@
----
 ## On Config Camera
 **Category:** EventDispatchers
 **Search:** "On Config Camera"

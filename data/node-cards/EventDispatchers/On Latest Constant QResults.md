@@ -1,4 +1,3 @@
----
 ## On Latest Constant QResults
 **Category:** EventDispatchers
 **Search:** "On Latest Constant QResults"

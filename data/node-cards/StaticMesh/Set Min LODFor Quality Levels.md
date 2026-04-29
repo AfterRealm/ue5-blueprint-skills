@@ -1,4 +1,3 @@
----
 ## Set Min LODFor Quality Levels
 **Category:** StaticMesh
 **Search:** "Set Min LODFor Quality Levels"

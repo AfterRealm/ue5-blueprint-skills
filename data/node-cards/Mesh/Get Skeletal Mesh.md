@@ -1,4 +1,3 @@
----
 ## Get Skeletal Mesh
 **Category:** Mesh
 **Search:** "Get Skeletal Mesh"

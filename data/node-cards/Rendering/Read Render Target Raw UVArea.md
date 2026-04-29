@@ -1,4 +1,3 @@
----
 ## Read Render Target Raw UVArea
 **Category:** Rendering
 **Search:** "Read Render Target Raw UVArea"

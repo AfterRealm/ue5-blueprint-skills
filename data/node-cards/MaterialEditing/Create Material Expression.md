@@ -1,4 +1,3 @@
----
 ## Create Material Expression
 **Category:** MaterialEditing
 **Search:** "Create Material Expression"

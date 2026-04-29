@@ -1,4 +1,3 @@
----
 ## Draw Debug Name
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Name"

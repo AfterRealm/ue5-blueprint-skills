@@ -1,4 +1,3 @@
----
 ## Capsule Trace For Objects
 **Category:** Collision
 **Search:** "Capsule Trace For Objects"

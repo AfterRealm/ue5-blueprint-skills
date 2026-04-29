@@ -1,4 +1,3 @@
----
 ## Is Local Controller
 **Category:** Pawn
 **Search:** "Is Local Controller"

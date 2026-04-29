@@ -1,4 +1,3 @@
----
 ## On Actor Dropped from Carry Implementation
 **Category:** Interaction
 **Search:** "On Actor Dropped from Carry Implementation"

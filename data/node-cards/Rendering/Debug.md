@@ -1,4 +1,3 @@
----
 ## Debug
 **Category:** Rendering
 **Search:** "Debug"

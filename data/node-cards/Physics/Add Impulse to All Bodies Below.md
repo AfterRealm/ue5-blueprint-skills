@@ -1,4 +1,3 @@
----
 ## Add Impulse to All Bodies Below
 **Category:** Physics
 **Search:** "Add Impulse to All Bodies Below"

@@ -1,4 +1,3 @@
----
 ## Predict Projectile Path By TraceChannel
 **Category:** Game
 **Search:** "Predict Projectile Path By TraceChannel"

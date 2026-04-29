@@ -1,4 +1,3 @@
----
 ## Export Texture 2D
 **Category:** Rendering
 **Search:** "Export Texture 2D"

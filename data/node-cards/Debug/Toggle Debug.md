@@ -1,4 +1,3 @@
----
 ## Toggle Debug
 **Category:** Debug
 **Search:** "Toggle Debug"

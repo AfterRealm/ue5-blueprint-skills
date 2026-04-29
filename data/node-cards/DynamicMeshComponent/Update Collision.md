@@ -1,4 +1,3 @@
----
 ## Update Collision
 **Category:** DynamicMeshComponent
 **Search:** "Update Collision"

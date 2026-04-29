@@ -1,4 +1,3 @@
----
 ## Is Query Collision Enabled
 **Category:** Collision
 **Search:** "Is Query Collision Enabled"

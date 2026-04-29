@@ -1,4 +1,3 @@
----
 ## Get Decorator by Class
 **Category:** Widget
 **Search:** "Get Decorator by Class"

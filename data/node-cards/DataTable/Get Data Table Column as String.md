@@ -1,4 +1,3 @@
----
 ## Get Data Table Column as String
 **Category:** DataTable
 **Search:** "Get Data Table Column as String"

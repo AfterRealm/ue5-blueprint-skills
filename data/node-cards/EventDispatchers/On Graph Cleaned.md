@@ -1,4 +1,3 @@
----
 ## On Graph Cleaned
 **Category:** EventDispatchers
 **Search:** "On Graph Cleaned"

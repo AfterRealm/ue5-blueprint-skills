@@ -1,4 +1,3 @@
----
 ## Spring
 **Category:** Math
 **Search:** "Spring"

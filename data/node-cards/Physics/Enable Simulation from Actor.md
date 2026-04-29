@@ -1,4 +1,3 @@
----
 ## Enable Simulation from Actor
 **Category:** Physics
 **Search:** "Enable Simulation from Actor"

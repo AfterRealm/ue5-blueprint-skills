@@ -1,4 +1,3 @@
----
 ## Actor Has Tag
 **Category:** Actor
 **Search:** "Actor Has Tag"

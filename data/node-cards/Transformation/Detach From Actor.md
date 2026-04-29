@@ -1,4 +1,3 @@
----
 ## Detach From Actor
 **Category:** Transformation
 **Search:** "Detach From Actor"

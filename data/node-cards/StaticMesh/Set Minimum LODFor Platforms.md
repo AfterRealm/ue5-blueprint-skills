@@ -1,4 +1,3 @@
----
 ## Set Minimum LODFor Platforms
 **Category:** StaticMesh
 **Search:** "Set Minimum LODFor Platforms"

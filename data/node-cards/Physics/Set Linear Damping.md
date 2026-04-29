@@ -1,4 +1,3 @@
----
 ## Set Linear Damping
 **Category:** Physics
 **Search:** "Set Linear Damping"

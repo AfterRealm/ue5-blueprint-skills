@@ -1,4 +1,3 @@
----
 ## Is Level Visible
 **Category:** Game
 **Search:** "Is Level Visible"

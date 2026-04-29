@@ -1,4 +1,3 @@
----
 ## Set Fog Emissive
 **Category:** Rendering
 **Search:** "Set Fog Emissive"

@@ -1,4 +1,3 @@
----
 ## Box Trace By Channel
 **Category:** Collision
 **Search:** "Box Trace By Channel"

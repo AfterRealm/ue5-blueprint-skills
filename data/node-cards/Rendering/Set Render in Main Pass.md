@@ -1,4 +1,3 @@
----
 ## Set Render in Main Pass
 **Category:** Rendering
 **Search:** "Set Render in Main Pass"

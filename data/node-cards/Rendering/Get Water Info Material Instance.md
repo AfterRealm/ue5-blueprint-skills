@@ -1,4 +1,3 @@
----
 ## Get Water Info Material Instance
 **Category:** Rendering
 **Search:** "Get Water Info Material Instance"

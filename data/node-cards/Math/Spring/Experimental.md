@@ -1,4 +1,3 @@
----
 ## Experimental
 **Category:** Math > Spring
 **Search:** "Experimental"

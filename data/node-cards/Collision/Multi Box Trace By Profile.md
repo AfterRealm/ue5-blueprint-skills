@@ -1,4 +1,3 @@
----
 ## Multi Box Trace By Profile
 **Category:** Collision
 **Search:** "Multi Box Trace By Profile"

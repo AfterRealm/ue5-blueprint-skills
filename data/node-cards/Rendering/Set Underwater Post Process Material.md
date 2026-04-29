@@ -1,4 +1,3 @@
----
 ## Set Underwater Post Process Material
 **Category:** Rendering
 **Search:** "Set Underwater Post Process Material"

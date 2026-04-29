@@ -1,4 +1,3 @@
----
 ## Reset Level
 **Category:** Game
 **Search:** "Reset Level"

@@ -1,4 +1,3 @@
----
 ## Update Material Function
 **Category:** MaterialEditing
 **Search:** "Update Material Function"

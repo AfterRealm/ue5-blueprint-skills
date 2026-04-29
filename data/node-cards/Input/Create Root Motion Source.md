@@ -1,4 +1,3 @@
----
 ## Create Root Motion Source
 **Category:** Input
 **Search:** "Create Root Motion Source"

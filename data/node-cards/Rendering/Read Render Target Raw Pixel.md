@@ -1,4 +1,3 @@
----
 ## Read Render Target Raw Pixel
 **Category:** Rendering
 **Search:** "Read Render Target Raw Pixel"

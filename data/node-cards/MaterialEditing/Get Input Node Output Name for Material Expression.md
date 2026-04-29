@@ -1,4 +1,3 @@
----
 ## Get Input Node Output Name for Material Expression
 **Category:** MaterialEditing
 **Search:** "Get Input Node Output Name for Material Expression"

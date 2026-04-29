@@ -1,4 +1,3 @@
----
 ## Get Enable World Rendering
 **Category:** Rendering
 **Search:** "Get Enable World Rendering"

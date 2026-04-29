@@ -1,4 +1,3 @@
----
 ## Has Vertex Colors
 **Category:** Mesh
 **Search:** "Has Vertex Colors"

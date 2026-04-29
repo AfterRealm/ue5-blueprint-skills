@@ -1,4 +1,3 @@
----
 ## Is LODScreen Size Auto Computed
 **Category:** StaticMesh
 **Search:** "Is LODScreen Size Auto Computed"

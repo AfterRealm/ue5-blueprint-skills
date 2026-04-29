@@ -1,4 +1,3 @@
----
 ## Set Secondary Render Material
 **Category:** DynamicMeshComponent
 **Search:** "Set Secondary Render Material"

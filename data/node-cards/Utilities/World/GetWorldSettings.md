@@ -1,4 +1,3 @@
----
 ## GetWorldSettings
 **Category:** Utilities > World
 **Search:** "GetWorldSettings"

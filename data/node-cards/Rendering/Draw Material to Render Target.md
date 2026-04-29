@@ -1,4 +1,3 @@
----
 ## Draw Material to Render Target
 **Category:** Rendering
 **Search:** "Draw Material to Render Target"

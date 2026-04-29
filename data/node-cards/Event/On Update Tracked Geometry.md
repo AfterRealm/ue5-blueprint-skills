@@ -1,4 +1,3 @@
----
 ## On Update Tracked Geometry
 **Category:** Event
 **Search:** "On Update Tracked Geometry"

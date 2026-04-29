@@ -1,4 +1,3 @@
----
 ## Set Fog Albedo
 **Category:** Rendering
 **Search:** "Set Fog Albedo"

@@ -1,4 +1,3 @@
----
 ## Extension
 **Category:** UserInterface
 **Search:** "Extension"

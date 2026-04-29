@@ -1,4 +1,3 @@
----
 ## Predict Projectile Path (Advanced)
 **Category:** Game
 **Search:** "Predict Projectile Path (Advanced)"

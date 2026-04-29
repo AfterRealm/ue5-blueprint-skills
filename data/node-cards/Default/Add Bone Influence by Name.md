@@ -1,4 +1,3 @@
----
 ## Add Bone Influence by Name
 **Category:** Default
 **Search:** "Add Bone Influence by Name"

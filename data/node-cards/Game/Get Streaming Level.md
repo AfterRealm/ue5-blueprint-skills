@@ -1,4 +1,3 @@
----
 ## Get Streaming Level
 **Category:** Game
 **Search:** "Get Streaming Level"

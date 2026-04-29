@@ -1,4 +1,3 @@
----
 ## Ignore Component when Moving
 **Category:** Collision
 **Search:** "Ignore Component when Moving"

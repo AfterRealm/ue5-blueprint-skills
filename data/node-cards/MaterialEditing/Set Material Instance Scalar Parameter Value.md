@@ -1,4 +1,3 @@
----
 ## Set Material Instance Scalar Parameter Value
 **Category:** MaterialEditing
 **Search:** "Set Material Instance Scalar Parameter Value"

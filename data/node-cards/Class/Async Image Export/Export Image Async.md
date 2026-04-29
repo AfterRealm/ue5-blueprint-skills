@@ -1,4 +1,3 @@
----
 ## Export Image Async
 **Category:** Class > Async Image Export
 **Search:** "Export Image Async"

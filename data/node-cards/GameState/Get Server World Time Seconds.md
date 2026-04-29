@@ -1,4 +1,3 @@
----
 ## Get Server World Time Seconds
 **Category:** GameState
 **Search:** "Get Server World Time Seconds"

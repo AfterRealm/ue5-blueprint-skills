@@ -1,4 +1,3 @@
----
 ## Set Shadow View Sample Count Scale
 **Category:** Rendering
 **Search:** "Set Shadow View Sample Count Scale"

@@ -1,4 +1,3 @@
----
 ## Get Num Material Expressions in Function
 **Category:** MaterialEditing
 **Search:** "Get Num Material Expressions in Function"

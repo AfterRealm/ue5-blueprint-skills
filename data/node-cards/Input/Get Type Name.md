@@ -1,4 +1,3 @@
----
 ## Get Type Name
 **Category:** Input
 **Search:** "Get Type Name"

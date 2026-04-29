@@ -1,4 +1,3 @@
----
 ## Clear All Material Instance Parameters
 **Category:** MaterialEditing
 **Search:** "Clear All Material Instance Parameters"

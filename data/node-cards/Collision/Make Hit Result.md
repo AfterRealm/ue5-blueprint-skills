@@ -1,4 +1,3 @@
----
 ## Make Hit Result
 **Category:** Collision
 **Search:** "Make Hit Result"

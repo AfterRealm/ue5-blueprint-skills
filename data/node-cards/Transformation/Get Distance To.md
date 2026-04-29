@@ -1,4 +1,3 @@
----
 ## Get Distance To
 **Category:** Transformation
 **Search:** "Get Distance To"

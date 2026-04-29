@@ -1,4 +1,3 @@
----
 ## Set Layer Height
 **Category:** Rendering
 **Search:** "Set Layer Height"

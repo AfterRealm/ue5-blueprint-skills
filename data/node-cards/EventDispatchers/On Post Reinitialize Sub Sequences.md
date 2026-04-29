@@ -1,4 +1,3 @@
----
 ## On Post Reinitialize Sub Sequences
 **Category:** EventDispatchers
 **Search:** "On Post Reinitialize Sub Sequences"

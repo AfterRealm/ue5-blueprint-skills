@@ -1,4 +1,3 @@
----
 ## Multi Line Trace By Channel
 **Category:** Collision
 **Search:** "Multi Line Trace By Channel"

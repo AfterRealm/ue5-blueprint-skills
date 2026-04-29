@@ -1,4 +1,3 @@
----
 ## Set Center Of Mass
 **Category:** Physics
 **Search:** "Set Center Of Mass"

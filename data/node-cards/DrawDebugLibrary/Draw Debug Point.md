@@ -1,4 +1,3 @@
----
 ## Draw Debug Point
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Point"

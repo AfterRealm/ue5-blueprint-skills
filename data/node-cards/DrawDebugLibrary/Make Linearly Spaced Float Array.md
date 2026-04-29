@@ -1,4 +1,3 @@
----
 ## Make Linearly Spaced Float Array
 **Category:** DrawDebugLibrary
 **Search:** "Make Linearly Spaced Float Array"

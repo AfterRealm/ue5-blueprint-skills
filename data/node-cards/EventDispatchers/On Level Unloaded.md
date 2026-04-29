@@ -1,4 +1,3 @@
----
 ## On Level Unloaded
 **Category:** EventDispatchers
 **Search:** "On Level Unloaded"

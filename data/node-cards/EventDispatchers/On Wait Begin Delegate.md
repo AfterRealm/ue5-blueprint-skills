@@ -1,4 +1,3 @@
----
 ## On Wait Begin Delegate
 **Category:** EventDispatchers
 **Search:** "On Wait Begin Delegate"

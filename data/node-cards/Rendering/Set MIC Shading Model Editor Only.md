@@ -1,4 +1,3 @@
----
 ## Set MIC Shading Model Editor Only
 **Category:** Rendering
 **Search:** "Set MIC Shading Model Editor Only"

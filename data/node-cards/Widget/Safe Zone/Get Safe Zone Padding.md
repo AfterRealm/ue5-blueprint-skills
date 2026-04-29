@@ -1,4 +1,3 @@
----
 ## Get Safe Zone Padding
 **Category:** Widget > Safe Zone
 **Search:** "Get Safe Zone Padding"

@@ -1,4 +1,3 @@
----
 ## Sphere Trace By Channel
 **Category:** Collision
 **Search:** "Sphere Trace By Channel"

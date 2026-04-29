@@ -1,4 +1,3 @@
----
 ## Make Visual Logger Debug Drawer
 **Category:** DrawDebugLibrary
 **Search:** "Make Visual Logger Debug Drawer"

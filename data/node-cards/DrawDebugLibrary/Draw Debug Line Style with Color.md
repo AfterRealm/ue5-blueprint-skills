@@ -1,4 +1,3 @@
----
 ## Draw Debug Line Style with Color
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Line Style with Color"

@@ -1,4 +1,3 @@
----
 ## Components
 **Category:** Rendering
 **Search:** "Components"

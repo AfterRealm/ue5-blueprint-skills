@@ -1,4 +1,3 @@
----
 ## Set Is Replicated
 **Category:** Components
 **Search:** "Set Is Replicated"

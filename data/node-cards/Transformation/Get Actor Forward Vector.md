@@ -1,4 +1,3 @@
----
 ## Get Actor Forward Vector
 **Category:** Transformation
 **Search:** "Get Actor Forward Vector"

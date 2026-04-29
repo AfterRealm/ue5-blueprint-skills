@@ -1,4 +1,3 @@
----
 ## Set Widget Space
 **Category:** UserInterface
 **Search:** "Set Widget Space"

@@ -1,4 +1,3 @@
----
 ## Get Loaded Level (Message)
 **Category:** Default
 **Search:** "Get Loaded Level (Message)"

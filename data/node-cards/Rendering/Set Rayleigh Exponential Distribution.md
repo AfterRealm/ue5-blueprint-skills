@@ -1,4 +1,3 @@
----
 ## Set Rayleigh Exponential Distribution
 **Category:** Rendering
 **Search:** "Set Rayleigh Exponential Distribution"

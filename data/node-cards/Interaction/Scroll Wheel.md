@@ -1,4 +1,3 @@
----
 ## Scroll Wheel
 **Category:** Interaction
 **Search:** "Scroll Wheel"

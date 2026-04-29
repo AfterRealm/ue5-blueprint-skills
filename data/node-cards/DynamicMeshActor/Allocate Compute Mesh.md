@@ -1,4 +1,3 @@
----
 ## Allocate Compute Mesh
 **Category:** DynamicMeshActor
 **Search:** "Allocate Compute Mesh"

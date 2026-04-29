@@ -1,4 +1,3 @@
----
 ## Set Manually Redraw
 **Category:** UserInterface
 **Search:** "Set Manually Redraw"

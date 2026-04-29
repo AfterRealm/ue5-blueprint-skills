@@ -1,4 +1,3 @@
----
 ## Stop Continuous Input Injection for Action
 **Category:** Input
 **Search:** "Stop Continuous Input Injection for Action"

@@ -1,4 +1,3 @@
----
 ## SetIsReadOnly (Editable Text)
 **Category:** Widget
 **Search:** "SetIsReadOnly (Editable Text)"

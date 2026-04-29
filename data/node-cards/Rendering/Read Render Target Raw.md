@@ -1,4 +1,3 @@
----
 ## Read Render Target Raw
 **Category:** Rendering
 **Search:** "Read Render Target Raw"

@@ -1,4 +1,3 @@
----
 ## OnNavigationGenerationFinished
 **Category:** EventDispatchers
 **Search:** "OnNavigationGenerationFinished"

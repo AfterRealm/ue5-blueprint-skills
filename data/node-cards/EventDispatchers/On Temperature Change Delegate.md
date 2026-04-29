@@ -1,4 +1,3 @@
----
 ## On Temperature Change Delegate
 **Category:** EventDispatchers
 **Search:** "On Temperature Change Delegate"

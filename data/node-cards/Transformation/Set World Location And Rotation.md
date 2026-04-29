@@ -1,4 +1,3 @@
----
 ## Set World Location And Rotation
 **Category:** Transformation
 **Search:** "Set World Location And Rotation"

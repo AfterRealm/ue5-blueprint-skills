@@ -1,4 +1,3 @@
----
 ## Remove UVChannel
 **Category:** StaticMeshUtilities
 **Search:** "Remove UVChannel"

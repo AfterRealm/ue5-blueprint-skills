@@ -1,4 +1,3 @@
----
 ## Get Loaded Level
 **Category:** Default
 **Search:** "Get Loaded Level"

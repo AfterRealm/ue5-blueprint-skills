@@ -1,4 +1,3 @@
----
 ## Set All Use MACD
 **Category:** Physics
 **Search:** "Set All Use MACD"

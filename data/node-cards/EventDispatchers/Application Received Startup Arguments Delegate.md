@@ -1,4 +1,3 @@
----
 ## Application Received Startup Arguments Delegate
 **Category:** EventDispatchers
 **Search:** "Application Received Startup Arguments Delegate"

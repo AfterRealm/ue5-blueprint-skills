@@ -1,4 +1,3 @@
----
 ## Select Class
 **Category:** Utilities
 **Search:** "Select Class"

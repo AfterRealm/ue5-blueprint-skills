@@ -1,4 +1,3 @@
----
 ## Set Pivot
 **Category:** UserInterface
 **Search:** "Set Pivot"

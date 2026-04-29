@@ -1,4 +1,3 @@
----
 ## Break Soft Class Path
 **Category:** Utilities
 **Search:** "Break Soft Class Path"

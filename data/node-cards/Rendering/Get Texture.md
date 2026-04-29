@@ -1,4 +1,3 @@
----
 ## Get Texture
 **Category:** Rendering
 **Search:** "Get Texture"

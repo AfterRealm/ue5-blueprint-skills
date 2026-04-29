@@ -1,4 +1,3 @@
----
 ## On Spawning Finished Event
 **Category:** EventDispatchers
 **Search:** "On Spawning Finished Event"

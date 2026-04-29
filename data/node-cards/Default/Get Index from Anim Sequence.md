@@ -1,4 +1,3 @@
----
 ## Get Index from Anim Sequence
 **Category:** Default
 **Search:** "Get Index from Anim Sequence"

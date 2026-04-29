@@ -1,4 +1,3 @@
----
 ## Int Point
 **Category:** Math
 **Search:** "Int Point"

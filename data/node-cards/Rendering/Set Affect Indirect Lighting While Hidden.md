@@ -1,4 +1,3 @@
----
 ## Set Affect Indirect Lighting While Hidden
 **Category:** Rendering
 **Search:** "Set Affect Indirect Lighting While Hidden"

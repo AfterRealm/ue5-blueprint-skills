@@ -1,4 +1,3 @@
----
 ## Import Buffer as Texture 2D
 **Category:** Rendering
 **Search:** "Import Buffer as Texture 2D"

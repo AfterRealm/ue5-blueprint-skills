@@ -1,4 +1,3 @@
----
 ## Set Visible in Real Time Sky Captures
 **Category:** Rendering
 **Search:** "Set Visible in Real Time Sky Captures"

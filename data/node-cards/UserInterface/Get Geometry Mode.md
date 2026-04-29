@@ -1,4 +1,3 @@
----
 ## Get Geometry Mode
 **Category:** UserInterface
 **Search:** "Get Geometry Mode"

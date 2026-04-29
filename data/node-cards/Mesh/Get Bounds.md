@@ -1,4 +1,3 @@
----
 ## Get Bounds
 **Category:** Mesh
 **Search:** "Get Bounds"

@@ -1,4 +1,3 @@
----
 ## Create Widget
 **Category:** UserInterface
 **Search:** "Create Widget"

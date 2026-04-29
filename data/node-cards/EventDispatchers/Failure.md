@@ -1,4 +1,3 @@
----
 ## Failure
 **Category:** EventDispatchers
 **Search:** "Failure"

@@ -1,4 +1,3 @@
----
 ## Set Secondary Buffers Visibility
 **Category:** DynamicMeshComponent
 **Search:** "Set Secondary Buffers Visibility"

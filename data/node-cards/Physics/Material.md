@@ -1,4 +1,3 @@
----
 ## Material
 **Category:** Physics
 **Search:** "Material"

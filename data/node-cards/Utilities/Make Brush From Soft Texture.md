@@ -1,4 +1,3 @@
----
 ## Make Brush From Soft Texture
 **Category:** Utilities
 **Search:** "Make Brush From Soft Texture"

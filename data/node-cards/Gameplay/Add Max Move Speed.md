@@ -1,4 +1,3 @@
----
 ## Add Max Move Speed
 **Category:** Gameplay
 **Search:** "Add Max Move Speed"

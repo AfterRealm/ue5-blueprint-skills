@@ -1,4 +1,3 @@
----
 ## LOD
 **Category:** Rendering
 **Search:** "LOD"

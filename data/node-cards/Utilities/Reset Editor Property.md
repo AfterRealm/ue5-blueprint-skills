@@ -1,4 +1,3 @@
----
 ## Reset Editor Property
 **Category:** Utilities
 **Search:** "Reset Editor Property"

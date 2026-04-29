@@ -1,4 +1,3 @@
----
 ## Enable Section Visible in Ray Tracing
 **Category:** StaticMeshUtilities
 **Search:** "Enable Section Visible in Ray Tracing"

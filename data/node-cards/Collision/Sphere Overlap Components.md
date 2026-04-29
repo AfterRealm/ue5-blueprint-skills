@@ -1,4 +1,3 @@
----
 ## Sphere Overlap Components
 **Category:** Collision
 **Search:** "Sphere Overlap Components"

@@ -1,4 +1,3 @@
----
 ## On Component Wake
 **Category:** Collision
 **Search:** "On Component Wake"

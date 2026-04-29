@@ -1,4 +1,3 @@
----
 ## Get Game Mode
 **Category:** Game
 **Search:** "Get Game Mode"

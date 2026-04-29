@@ -1,4 +1,3 @@
----
 ## On Change
 **Category:** EventDispatchers
 **Search:** "On Change"

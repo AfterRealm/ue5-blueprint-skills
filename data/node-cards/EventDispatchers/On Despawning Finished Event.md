@@ -1,4 +1,3 @@
----
 ## On Despawning Finished Event
 **Category:** EventDispatchers
 **Search:** "On Despawning Finished Event"

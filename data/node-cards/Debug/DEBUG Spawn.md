@@ -1,4 +1,3 @@
----
 ## DEBUG Spawn
 **Category:** Debug
 **Search:** "DEBUG Spawn"

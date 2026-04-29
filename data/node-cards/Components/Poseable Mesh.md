@@ -1,4 +1,3 @@
----
 ## Poseable Mesh
 **Category:** Components
 **Search:** "Poseable Mesh"

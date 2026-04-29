@@ -1,4 +1,3 @@
----
 ## Get Player State from Unique Net Id
 **Category:** Game
 **Search:** "Get Player State from Unique Net Id"

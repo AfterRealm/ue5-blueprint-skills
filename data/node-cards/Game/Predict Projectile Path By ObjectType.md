@@ -1,4 +1,3 @@
----
 ## Predict Projectile Path By ObjectType
 **Category:** Game
 **Search:** "Predict Projectile Path By ObjectType"

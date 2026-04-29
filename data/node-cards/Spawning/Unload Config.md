@@ -1,4 +1,3 @@
----
 ## Unload Config
 **Category:** Spawning
 **Search:** "Unload Config"

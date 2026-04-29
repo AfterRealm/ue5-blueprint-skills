@@ -1,4 +1,3 @@
----
 ## Has Keyboard Focus
 **Category:** Widget
 **Search:** "Has Keyboard Focus"

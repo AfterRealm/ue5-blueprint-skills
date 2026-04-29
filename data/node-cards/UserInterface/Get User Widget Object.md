@@ -1,4 +1,3 @@
----
 ## Get User Widget Object
 **Category:** UserInterface
 **Search:** "Get User Widget Object"

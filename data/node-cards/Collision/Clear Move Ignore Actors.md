@@ -1,4 +1,3 @@
----
 ## Clear Move Ignore Actors
 **Category:** Collision
 **Search:** "Clear Move Ignore Actors"

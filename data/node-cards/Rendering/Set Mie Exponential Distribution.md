@@ -1,4 +1,3 @@
----
 ## Set Mie Exponential Distribution
 **Category:** Rendering
 **Search:** "Set Mie Exponential Distribution"

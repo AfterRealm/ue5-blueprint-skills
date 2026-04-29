@@ -1,4 +1,3 @@
----
 ## Set Window Focusable
 **Category:** UserInterface
 **Search:** "Set Window Focusable"

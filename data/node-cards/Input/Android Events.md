@@ -1,4 +1,3 @@
----
 ## Android Events
 **Category:** Input
 **Search:** "Android Events"

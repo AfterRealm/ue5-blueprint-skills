@@ -1,4 +1,3 @@
----
 ## Get Up Vector
 **Category:** Transformation
 **Search:** "Get Up Vector"

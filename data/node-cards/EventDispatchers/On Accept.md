@@ -1,4 +1,3 @@
----
 ## On Accept
 **Category:** EventDispatchers
 **Search:** "On Accept"

@@ -1,4 +1,3 @@
----
 ## Is Look Input Ignored
 **Category:** Input
 **Search:** "Is Look Input Ignored"

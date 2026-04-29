@@ -1,4 +1,3 @@
----
 ## Clear Templates
 **Category:** Spawning
 **Search:** "Clear Templates"

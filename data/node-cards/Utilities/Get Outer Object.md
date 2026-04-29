@@ -1,4 +1,3 @@
----
 ## Get Outer Object
 **Category:** Utilities
 **Search:** "Get Outer Object"

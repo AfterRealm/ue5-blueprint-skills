@@ -1,4 +1,3 @@
----
 ## Get Outer User Widget
 **Category:** UMG
 **Search:** "Get Outer User Widget"

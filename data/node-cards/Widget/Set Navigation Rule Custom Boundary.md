@@ -1,4 +1,3 @@
----
 ## Set Navigation Rule Custom Boundary
 **Category:** Widget
 **Search:** "Set Navigation Rule Custom Boundary"

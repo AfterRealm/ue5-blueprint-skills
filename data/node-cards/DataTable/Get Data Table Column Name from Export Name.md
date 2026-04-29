@@ -1,4 +1,3 @@
----
 ## Get Data Table Column Name from Export Name
 **Category:** DataTable
 **Search:** "Get Data Table Column Name from Export Name"

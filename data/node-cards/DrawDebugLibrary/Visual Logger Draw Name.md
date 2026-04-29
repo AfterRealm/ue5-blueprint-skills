@@ -1,4 +1,3 @@
----
 ## Visual Logger Draw Name
 **Category:** DrawDebugLibrary
 **Search:** "Visual Logger Draw Name"

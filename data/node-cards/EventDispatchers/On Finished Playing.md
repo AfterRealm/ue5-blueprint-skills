@@ -1,4 +1,3 @@
----
 ## On Finished Playing
 **Category:** EventDispatchers
 **Search:** "On Finished Playing"

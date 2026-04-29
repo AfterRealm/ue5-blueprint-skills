@@ -1,4 +1,3 @@
----
 ## Is Game Paused
 **Category:** Game
 **Search:** "Is Game Paused"

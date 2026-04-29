@@ -1,4 +1,3 @@
----
 ## Get View Mode Overrides Enabled
 **Category:** DynamicMeshComponent
 **Search:** "Get View Mode Overrides Enabled"

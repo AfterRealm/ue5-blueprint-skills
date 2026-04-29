@@ -1,4 +1,3 @@
----
 ## Get Object Name
 **Category:** Utilities
 **Search:** "Get Object Name"

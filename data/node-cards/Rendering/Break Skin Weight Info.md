@@ -1,4 +1,3 @@
----
 ## Break Skin Weight Info
 **Category:** Rendering
 **Search:** "Break Skin Weight Info"

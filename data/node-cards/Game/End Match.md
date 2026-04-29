@@ -1,4 +1,3 @@
----
 ## End Match
 **Category:** Game
 **Search:** "End Match"

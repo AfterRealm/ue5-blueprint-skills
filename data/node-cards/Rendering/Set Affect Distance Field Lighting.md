@@ -1,4 +1,3 @@
----
 ## Set Affect Distance Field Lighting
 **Category:** Rendering
 **Search:** "Set Affect Distance Field Lighting"

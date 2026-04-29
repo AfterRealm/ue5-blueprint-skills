@@ -1,4 +1,3 @@
----
 ## On Virtualized
 **Category:** EventDispatchers
 **Search:** "On Virtualized"

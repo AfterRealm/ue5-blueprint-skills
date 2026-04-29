@@ -1,4 +1,3 @@
----
 ## On Stopped
 **Category:** EventDispatchers
 **Search:** "On Stopped"

@@ -1,4 +1,3 @@
----
 ## Set Holdout
 **Category:** Rendering
 **Search:** "Set Holdout"

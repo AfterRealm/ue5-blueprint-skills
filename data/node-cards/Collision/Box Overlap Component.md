@@ -1,4 +1,3 @@
----
 ## Box Overlap Component
 **Category:** Collision
 **Search:** "Box Overlap Component"

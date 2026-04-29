@@ -1,4 +1,3 @@
----
 ## Box Trace By Profile
 **Category:** Collision
 **Search:** "Box Trace By Profile"

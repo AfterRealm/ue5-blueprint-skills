@@ -1,4 +1,3 @@
----
 ## Set Constraint Profile for All
 **Category:** Physics
 **Search:** "Set Constraint Profile for All"

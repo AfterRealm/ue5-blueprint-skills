@@ -1,4 +1,3 @@
----
 ## Collision
 **Category:** Utilities
 **Search:** "Collision"

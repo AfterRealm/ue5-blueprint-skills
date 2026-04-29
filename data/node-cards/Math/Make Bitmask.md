@@ -1,4 +1,3 @@
----
 ## Make Bitmask
 **Category:** Math
 **Search:** "Make Bitmask"

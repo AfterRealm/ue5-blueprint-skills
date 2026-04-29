@@ -1,4 +1,3 @@
----
 ## Editor Tick
 **Category:** Tick
 **Search:** "Editor Tick"

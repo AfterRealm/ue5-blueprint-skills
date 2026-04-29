@@ -1,4 +1,3 @@
----
 ## Get Control Rotation
 **Category:** Pawn
 **Search:** "Get Control Rotation"

@@ -1,4 +1,3 @@
----
 ## Set Deferred Collision Updates Enabled
 **Category:** DynamicMeshComponent
 **Search:** "Set Deferred Collision Updates Enabled"

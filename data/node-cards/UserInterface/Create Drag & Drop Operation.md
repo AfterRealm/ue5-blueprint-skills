@@ -1,4 +1,3 @@
----
 ## Create Drag & Drop Operation
 **Category:** UserInterface
 **Search:** "Create Drag & Drop Operation"

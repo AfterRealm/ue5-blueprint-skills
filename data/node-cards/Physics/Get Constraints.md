@@ -1,4 +1,3 @@
----
 ## Get Constraints
 **Category:** Physics
 **Search:** "Get Constraints"

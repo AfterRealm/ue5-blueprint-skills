@@ -1,4 +1,3 @@
----
 ## Application Registered for User Notifications Delegate
 **Category:** EventDispatchers
 **Search:** "Application Registered for User Notifications Delegate"

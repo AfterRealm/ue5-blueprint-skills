@@ -1,4 +1,3 @@
----
 ## Get Visibility
 **Category:** Widget
 **Search:** "Get Visibility"

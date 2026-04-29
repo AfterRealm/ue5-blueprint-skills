@@ -1,4 +1,3 @@
----
 ## Get Rendering Detail Mode
 **Category:** Rendering
 **Search:** "Get Rendering Detail Mode"

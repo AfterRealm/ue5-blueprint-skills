@@ -1,4 +1,3 @@
----
 ## Send Key Char
 **Category:** Interaction
 **Search:** "Send Key Char"

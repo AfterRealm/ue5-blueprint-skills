@@ -1,4 +1,3 @@
----
 ## Set Custom Depth Stencil Write Mask
 **Category:** Rendering
 **Search:** "Set Custom Depth Stencil Write Mask"

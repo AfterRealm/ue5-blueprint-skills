@@ -1,4 +1,3 @@
----
 ## Keyboard Values
 **Category:** Input
 **Search:** "Keyboard Values"

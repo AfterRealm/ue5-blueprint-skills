@@ -1,4 +1,3 @@
----
 ## Get Vector Parameter Source
 **Category:** MaterialEditing
 **Search:** "Get Vector Parameter Source"

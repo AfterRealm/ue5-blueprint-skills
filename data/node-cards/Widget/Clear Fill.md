@@ -1,4 +1,3 @@
----
 ## Clear Fill
 **Category:** Widget
 **Search:** "Clear Fill"

@@ -1,4 +1,3 @@
----
 ## Animation
 **Category:** Utilities
 **Search:** "Animation"

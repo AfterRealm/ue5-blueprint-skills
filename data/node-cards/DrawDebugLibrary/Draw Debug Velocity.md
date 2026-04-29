@@ -1,4 +1,3 @@
----
 ## Draw Debug Velocity
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Velocity"

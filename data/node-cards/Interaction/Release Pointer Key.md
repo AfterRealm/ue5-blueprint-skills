@@ -1,4 +1,3 @@
----
 ## Release Pointer Key
 **Category:** Interaction
 **Search:** "Release Pointer Key"

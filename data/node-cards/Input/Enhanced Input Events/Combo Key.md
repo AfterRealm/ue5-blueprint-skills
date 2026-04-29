@@ -1,4 +1,3 @@
----
 ## Combo Key
 **Category:** Input > Enhanced Input Events
 **Search:** "Combo Key"

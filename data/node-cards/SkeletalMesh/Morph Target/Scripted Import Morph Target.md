@@ -1,4 +1,3 @@
----
 ## Scripted Import Morph Target
 **Category:** SkeletalMesh > Morph Target
 **Search:** "Scripted Import Morph Target"

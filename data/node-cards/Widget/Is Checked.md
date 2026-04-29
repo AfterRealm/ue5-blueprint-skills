@@ -1,4 +1,3 @@
----
 ## Is Checked
 **Category:** Widget
 **Search:** "Is Checked"

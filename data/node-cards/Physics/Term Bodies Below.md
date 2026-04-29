@@ -1,4 +1,3 @@
----
 ## Term Bodies Below
 **Category:** Physics
 **Search:** "Term Bodies Below"

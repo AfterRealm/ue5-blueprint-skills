@@ -1,4 +1,3 @@
----
 ## Get Data Table Row
 **Category:** Utilities
 **Search:** "Get Data Table Row"

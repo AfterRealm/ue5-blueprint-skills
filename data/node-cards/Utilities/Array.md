@@ -1,4 +1,3 @@
----
 ## Array
 **Category:** Utilities
 **Search:** "Array"

@@ -1,4 +1,3 @@
----
 ## Resize Render Target 2D
 **Category:** Rendering
 **Search:** "Resize Render Target 2D"

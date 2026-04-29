@@ -1,4 +1,3 @@
----
 ## Set Use CCD
 **Category:** Physics
 **Search:** "Set Use CCD"

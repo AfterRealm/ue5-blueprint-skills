@@ -1,4 +1,3 @@
----
 ## Generate Cylindrical UVChannel
 **Category:** StaticMeshUtilities
 **Search:** "Generate Cylindrical UVChannel"

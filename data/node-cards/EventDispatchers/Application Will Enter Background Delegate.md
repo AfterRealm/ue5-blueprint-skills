@@ -1,4 +1,3 @@
----
 ## Application Will Enter Background Delegate
 **Category:** EventDispatchers
 **Search:** "Application Will Enter Background Delegate"

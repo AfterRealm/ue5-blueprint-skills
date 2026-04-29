@@ -1,4 +1,3 @@
----
 ## Set Light Attachments as Group
 **Category:** Rendering
 **Search:** "Set Light Attachments as Group"

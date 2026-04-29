@@ -1,4 +1,3 @@
----
 ## Get Physics Angular Velocity in Radians
 **Category:** Physics
 **Search:** "Get Physics Angular Velocity in Radians"

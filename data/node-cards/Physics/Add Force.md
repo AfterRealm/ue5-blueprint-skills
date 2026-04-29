@@ -1,4 +1,3 @@
----
 ## Add Force
 **Category:** Physics
 **Search:** "Add Force"

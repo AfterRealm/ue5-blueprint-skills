@@ -1,4 +1,3 @@
----
 ## Set Text Block Visibility
 **Category:** Widget
 **Search:** "Set Text Block Visibility"

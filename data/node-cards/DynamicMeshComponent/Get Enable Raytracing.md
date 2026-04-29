@@ -1,4 +1,3 @@
----
 ## Get Enable Raytracing
 **Category:** DynamicMeshComponent
 **Search:** "Get Enable Raytracing"

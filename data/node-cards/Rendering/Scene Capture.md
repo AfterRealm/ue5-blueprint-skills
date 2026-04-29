@@ -1,4 +1,3 @@
----
 ## Scene Capture
 **Category:** Rendering
 **Search:** "Scene Capture"

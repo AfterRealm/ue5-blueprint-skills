@@ -1,4 +1,3 @@
----
 ## Get Material Instance Scalar Parameter Value
 **Category:** MaterialEditing
 **Search:** "Get Material Instance Scalar Parameter Value"

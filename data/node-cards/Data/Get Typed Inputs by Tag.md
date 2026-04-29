@@ -1,4 +1,3 @@
----
 ## Get Typed Inputs by Tag
 **Category:** Data
 **Search:** "Get Typed Inputs by Tag"

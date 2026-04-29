@@ -1,4 +1,3 @@
----
 ## On Breaking Events
 **Category:** EventDispatchers
 **Search:** "On Breaking Events"

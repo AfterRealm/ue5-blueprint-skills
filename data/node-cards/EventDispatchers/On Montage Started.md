@@ -1,4 +1,3 @@
----
 ## On Montage Started
 **Category:** EventDispatchers
 **Search:** "On Montage Started"

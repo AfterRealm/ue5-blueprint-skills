@@ -1,4 +1,3 @@
----
 ## Commit Weights to Skeletal Mesh
 **Category:** Mesh
 **Search:** "Commit Weights to Skeletal Mesh"

@@ -1,4 +1,3 @@
----
 ## Enable Live Streaming
 **Category:** Game
 **Search:** "Enable Live Streaming"

@@ -1,4 +1,3 @@
----
 ## Inject Input Vector for Player Mapping
 **Category:** Input
 **Search:** "Inject Input Vector for Player Mapping"

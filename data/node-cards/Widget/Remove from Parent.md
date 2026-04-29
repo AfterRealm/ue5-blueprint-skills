@@ -1,4 +1,3 @@
----
 ## Remove from Parent
 **Category:** Widget
 **Search:** "Remove from Parent"

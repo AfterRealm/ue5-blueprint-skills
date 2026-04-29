@@ -1,4 +1,3 @@
----
 ## Get Active Actors
 **Category:** Actor
 **Search:** "Get Active Actors"

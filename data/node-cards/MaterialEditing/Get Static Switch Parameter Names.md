@@ -1,4 +1,3 @@
----
 ## Get Static Switch Parameter Names
 **Category:** MaterialEditing
 **Search:** "Get Static Switch Parameter Names"

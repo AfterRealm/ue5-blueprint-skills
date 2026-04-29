@@ -1,4 +1,3 @@
----
 ## Remove Receiver
 **Category:** Gameplay
 **Search:** "Remove Receiver"

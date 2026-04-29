@@ -1,4 +1,3 @@
----
 ## Get Bone Weight Texture
 **Category:** Default
 **Search:** "Get Bone Weight Texture"

@@ -1,4 +1,3 @@
----
 ## OnPawnControllerChanged
 **Category:** EventDispatchers
 **Search:** "OnPawnControllerChanged"

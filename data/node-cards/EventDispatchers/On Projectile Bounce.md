@@ -1,4 +1,3 @@
----
 ## On Projectile Bounce
 **Category:** EventDispatchers
 **Search:** "On Projectile Bounce"

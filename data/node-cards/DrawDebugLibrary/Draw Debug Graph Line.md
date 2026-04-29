@@ -1,4 +1,3 @@
----
 ## Draw Debug Graph Line
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Graph Line"

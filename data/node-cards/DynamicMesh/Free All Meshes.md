@@ -1,4 +1,3 @@
----
 ## Free All Meshes
 **Category:** DynamicMesh
 **Search:** "Free All Meshes"

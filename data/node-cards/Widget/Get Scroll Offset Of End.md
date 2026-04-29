@@ -1,4 +1,3 @@
----
 ## Get Scroll Offset Of End
 **Category:** Widget
 **Search:** "Get Scroll Offset Of End"

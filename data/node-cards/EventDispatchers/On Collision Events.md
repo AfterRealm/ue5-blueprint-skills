@@ -1,4 +1,3 @@
----
 ## On Collision Events
 **Category:** EventDispatchers
 **Search:** "On Collision Events"

@@ -1,4 +1,3 @@
----
 ## Get Player Character
 **Category:** Game
 **Search:** "Get Player Character"

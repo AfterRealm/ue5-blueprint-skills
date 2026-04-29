@@ -1,4 +1,3 @@
----
 ## Set All Bodies Simulate Physics
 **Category:** Physics
 **Search:** "Set All Bodies Simulate Physics"

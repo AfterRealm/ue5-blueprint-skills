@@ -1,4 +1,3 @@
----
 ## Set Vector Parameter MID (Font) from Color
 **Category:** Widget
 **Search:** "Set Vector Parameter MID (Font) from Color"

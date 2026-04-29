@@ -1,4 +1,3 @@
----
 ## Get Static Mesh
 **Category:** Default
 **Search:** "Get Static Mesh"

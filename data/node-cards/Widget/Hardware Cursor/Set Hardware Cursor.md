@@ -1,4 +1,3 @@
----
 ## Set Hardware Cursor
 **Category:** Widget > Hardware Cursor
 **Search:** "Set Hardware Cursor"

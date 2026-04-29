@@ -1,4 +1,3 @@
----
 ## Is Valid Interface
 **Category:** Utilities
 **Search:** "Is Valid Interface"

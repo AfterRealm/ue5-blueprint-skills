@@ -1,4 +1,3 @@
----
 ## Activation
 **Category:** Components
 **Search:** "Activation"

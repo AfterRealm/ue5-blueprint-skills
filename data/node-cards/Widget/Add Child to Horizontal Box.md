@@ -1,4 +1,3 @@
----
 ## Add Child to Horizontal Box
 **Category:** Widget
 **Search:** "Add Child to Horizontal Box"

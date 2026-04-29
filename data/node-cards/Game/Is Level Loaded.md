@@ -1,4 +1,3 @@
----
 ## Is Level Loaded
 **Category:** Game
 **Search:** "Is Level Loaded"

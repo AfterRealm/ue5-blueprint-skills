@@ -1,4 +1,3 @@
----
 ## Draw Debug Event
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Event"

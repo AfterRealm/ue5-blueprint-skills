@@ -1,4 +1,3 @@
----
 ## Get Children Components
 **Category:** Components
 **Search:** "Get Children Components"

@@ -1,4 +1,3 @@
----
 ## Sprite
 **Category:** Components
 **Search:** "Sprite"

@@ -1,4 +1,3 @@
----
 ## Make ARFilter
 **Category:** Utilities
 **Search:** "Make ARFilter"

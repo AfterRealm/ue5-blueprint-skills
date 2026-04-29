@@ -1,4 +1,3 @@
----
 ## Animation
 **Category:** UserInterface
 **Search:** "Animation"

@@ -1,4 +1,3 @@
----
 ## Get Min LODFor Quality Levels
 **Category:** StaticMesh
 **Search:** "Get Min LODFor Quality Levels"

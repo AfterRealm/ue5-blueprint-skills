@@ -1,4 +1,3 @@
----
 ## Set World Transform
 **Category:** Transformation
 **Search:** "Set World Transform"

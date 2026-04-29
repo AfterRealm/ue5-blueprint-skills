@@ -1,4 +1,3 @@
----
 ## Break ARFilter
 **Category:** Utilities
 **Search:** "Break ARFilter"

@@ -1,4 +1,3 @@
----
 ## On Remove Tracked Image
 **Category:** Event
 **Search:** "On Remove Tracked Image"

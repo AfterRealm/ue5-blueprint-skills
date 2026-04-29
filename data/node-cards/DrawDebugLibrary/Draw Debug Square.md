@@ -1,4 +1,3 @@
----
 ## Draw Debug Square
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Square"

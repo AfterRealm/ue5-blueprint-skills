@@ -1,4 +1,3 @@
----
 ## Set Cast Shadow
 **Category:** Rendering
 **Search:** "Set Cast Shadow"

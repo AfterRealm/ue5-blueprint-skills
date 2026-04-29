@@ -1,4 +1,3 @@
----
 ## Get Overlapping Actors
 **Category:** Collision
 **Search:** "Get Overlapping Actors"

@@ -1,4 +1,3 @@
----
 ## Pipeline Cache
 **Category:** Rendering
 **Search:** "Pipeline Cache"

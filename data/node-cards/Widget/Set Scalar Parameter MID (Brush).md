@@ -1,4 +1,3 @@
----
 ## Set Scalar Parameter MID (Brush)
 **Category:** Widget
 **Search:** "Set Scalar Parameter MID (Brush)"

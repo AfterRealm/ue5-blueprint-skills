@@ -1,4 +1,3 @@
----
 ## Get Material Expression Input Types
 **Category:** MaterialEditing
 **Search:** "Get Material Expression Input Types"

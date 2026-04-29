@@ -1,4 +1,3 @@
----
 ## Async Editor Wait For Game World
 **Category:** Class
 **Search:** "Async Editor Wait For Game World"

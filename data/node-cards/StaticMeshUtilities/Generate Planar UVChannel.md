@@ -1,4 +1,3 @@
----
 ## Generate Planar UVChannel
 **Category:** StaticMeshUtilities
 **Search:** "Generate Planar UVChannel"

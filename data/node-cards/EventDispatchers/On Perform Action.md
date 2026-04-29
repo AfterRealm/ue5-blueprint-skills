@@ -1,4 +1,3 @@
----
 ## On Perform Action
 **Category:** EventDispatchers
 **Search:** "On Perform Action"

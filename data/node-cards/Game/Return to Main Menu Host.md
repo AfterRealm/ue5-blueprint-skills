@@ -1,4 +1,3 @@
----
 ## Return to Main Menu Host
 **Category:** Game
 **Search:** "Return to Main Menu Host"

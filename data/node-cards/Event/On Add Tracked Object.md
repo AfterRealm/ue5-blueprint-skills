@@ -1,4 +1,3 @@
----
 ## On Add Tracked Object
 **Category:** Event
 **Search:** "On Add Tracked Object"

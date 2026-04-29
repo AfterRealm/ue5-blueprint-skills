@@ -1,4 +1,3 @@
----
 ## Timeline
 **Category:** Components
 **Search:** "Timeline"

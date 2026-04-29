@@ -1,4 +1,3 @@
----
 ## Release Render Target 2D
 **Category:** Rendering
 **Search:** "Release Render Target 2D"

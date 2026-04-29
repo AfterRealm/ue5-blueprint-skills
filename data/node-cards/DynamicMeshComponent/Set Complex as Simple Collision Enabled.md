@@ -1,4 +1,3 @@
----
 ## Set Complex as Simple Collision Enabled
 **Category:** DynamicMeshComponent
 **Search:** "Set Complex as Simple Collision Enabled"

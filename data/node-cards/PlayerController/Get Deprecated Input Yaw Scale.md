@@ -1,4 +1,3 @@
----
 ## Get Deprecated Input Yaw Scale
 **Category:** PlayerController
 **Search:** "Get Deprecated Input Yaw Scale"

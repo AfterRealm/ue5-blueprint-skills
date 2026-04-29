@@ -1,4 +1,3 @@
----
 ## Box Sphere Bounds
 **Category:** Math
 **Search:** "Box Sphere Bounds"

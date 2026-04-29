@@ -1,4 +1,3 @@
----
 ## Suggest Projectile Velocity Moving Target
 **Category:** Game
 **Search:** "Suggest Projectile Velocity Moving Target"

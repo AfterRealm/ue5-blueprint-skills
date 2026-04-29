@@ -1,4 +1,3 @@
----
 ## Is Over Focusable Widget
 **Category:** Interaction
 **Search:** "Is Over Focusable Widget"

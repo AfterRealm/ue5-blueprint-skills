@@ -1,4 +1,3 @@
----
 ## Find Edges
 **Category:** Debug
 **Search:** "Find Edges"

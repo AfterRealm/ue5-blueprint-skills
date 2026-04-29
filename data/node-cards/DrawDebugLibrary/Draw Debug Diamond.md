@@ -1,4 +1,3 @@
----
 ## Draw Debug Diamond
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Diamond"

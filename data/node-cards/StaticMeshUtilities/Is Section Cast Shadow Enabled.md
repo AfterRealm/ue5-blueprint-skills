@@ -1,4 +1,3 @@
----
 ## Is Section Cast Shadow Enabled
 **Category:** StaticMeshUtilities
 **Search:** "Is Section Cast Shadow Enabled"

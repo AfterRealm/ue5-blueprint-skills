@@ -1,4 +1,3 @@
----
 ## Time Elapsed
 **Category:** EventDispatchers
 **Search:** "Time Elapsed"

@@ -1,4 +1,3 @@
----
 ## Get Hovered Widget Component
 **Category:** Interaction
 **Search:** "Get Hovered Widget Component"

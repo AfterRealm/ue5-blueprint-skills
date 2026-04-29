@@ -1,4 +1,3 @@
----
 ## GetText (Multi-Line Text Box)
 **Category:** Widget
 **Search:** "GetText (Multi-Line Text Box)"

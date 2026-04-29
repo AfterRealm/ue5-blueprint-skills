@@ -1,4 +1,3 @@
----
 ## On State Interrupted
 **Category:** EventDispatchers
 **Search:** "On State Interrupted"

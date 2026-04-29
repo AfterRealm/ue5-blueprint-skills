@@ -1,4 +1,3 @@
----
 ## Set Receives Decals
 **Category:** Rendering
 **Search:** "Set Receives Decals"

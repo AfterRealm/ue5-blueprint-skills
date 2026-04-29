@@ -1,4 +1,3 @@
----
 ## Get Overscroll Percentage
 **Category:** Widget
 **Search:** "Get Overscroll Percentage"

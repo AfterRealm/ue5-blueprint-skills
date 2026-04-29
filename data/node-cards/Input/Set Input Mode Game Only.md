@@ -1,4 +1,3 @@
----
 ## Set Input Mode Game Only
 **Category:** Input
 **Search:** "Set Input Mode Game Only"

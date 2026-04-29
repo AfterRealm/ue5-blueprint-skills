@@ -1,4 +1,3 @@
----
 ## Application Received Screen Orientation Changed Notification Delegate
 **Category:** EventDispatchers
 **Search:** "Application Received Screen Orientation Changed Notification Delegate"

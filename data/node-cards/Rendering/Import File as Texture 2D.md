@@ -1,4 +1,3 @@
----
 ## Import File as Texture 2D
 **Category:** Rendering
 **Search:** "Import File as Texture 2D"

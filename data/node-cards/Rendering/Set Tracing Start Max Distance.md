@@ -1,4 +1,3 @@
----
 ## Set Tracing Start Max Distance
 **Category:** Rendering
 **Search:** "Set Tracing Start Max Distance"

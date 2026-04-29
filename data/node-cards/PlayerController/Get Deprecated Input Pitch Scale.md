@@ -1,4 +1,3 @@
----
 ## Get Deprecated Input Pitch Scale
 **Category:** PlayerController
 **Search:** "Get Deprecated Input Pitch Scale"

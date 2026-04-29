@@ -1,4 +1,3 @@
----
 ## Integer 64
 **Category:** Math
 **Search:** "Integer 64"

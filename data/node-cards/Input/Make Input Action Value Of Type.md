@@ -1,4 +1,3 @@
----
 ## Make Input Action Value Of Type
 **Category:** Input
 **Search:** "Make Input Action Value Of Type"

@@ -1,4 +1,3 @@
----
 ## On Killed
 **Category:** EventDispatchers
 **Search:** "On Killed"

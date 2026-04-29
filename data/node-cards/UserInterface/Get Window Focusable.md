@@ -1,4 +1,3 @@
----
 ## Get Window Focusable
 **Category:** UserInterface
 **Search:** "Get Window Focusable"

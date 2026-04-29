@@ -1,4 +1,3 @@
----
 ## Window Title Bar
 **Category:** Widget
 **Search:** "Window Title Bar"

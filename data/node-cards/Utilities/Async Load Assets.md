@@ -1,4 +1,3 @@
----
 ## Async Load Assets
 **Category:** Utilities
 **Search:** "Async Load Assets"

@@ -1,4 +1,3 @@
----
 ## Get Sockets by Tag
 **Category:** StaticMesh
 **Search:** "Get Sockets by Tag"

@@ -1,4 +1,3 @@
----
 ## On Selected Button Base Changed
 **Category:** EventDispatchers
 **Search:** "On Selected Button Base Changed"

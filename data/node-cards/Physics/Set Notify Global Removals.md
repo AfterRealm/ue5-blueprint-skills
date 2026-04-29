@@ -1,4 +1,3 @@
----
 ## Set Notify Global Removals
 **Category:** Physics
 **Search:** "Set Notify Global Removals"

@@ -1,4 +1,3 @@
----
 ## Get Collision Enabled
 **Category:** Collision
 **Search:** "Get Collision Enabled"

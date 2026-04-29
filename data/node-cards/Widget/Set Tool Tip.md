@@ -1,4 +1,3 @@
----
 ## Set Tool Tip
 **Category:** Widget
 **Search:** "Set Tool Tip"

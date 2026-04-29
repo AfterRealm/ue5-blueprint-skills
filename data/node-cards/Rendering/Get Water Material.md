@@ -1,4 +1,3 @@
----
 ## Get Water Material
 **Category:** Rendering
 **Search:** "Get Water Material"

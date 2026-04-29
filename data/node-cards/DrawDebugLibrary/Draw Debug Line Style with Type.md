@@ -1,4 +1,3 @@
----
 ## Draw Debug Line Style with Type
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Line Style with Type"

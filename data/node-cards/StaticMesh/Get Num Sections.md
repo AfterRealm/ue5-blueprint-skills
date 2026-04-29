@@ -1,4 +1,3 @@
----
 ## Get Num Sections
 **Category:** StaticMesh
 **Search:** "Get Num Sections"

@@ -1,4 +1,3 @@
----
 ## Multi Capsule Trace By Profile
 **Category:** Collision
 **Search:** "Multi Capsule Trace By Profile"

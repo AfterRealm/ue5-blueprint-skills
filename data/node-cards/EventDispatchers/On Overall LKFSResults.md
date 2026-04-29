@@ -1,4 +1,3 @@
----
 ## On Overall LKFSResults
 **Category:** EventDispatchers
 **Search:** "On Overall LKFSResults"

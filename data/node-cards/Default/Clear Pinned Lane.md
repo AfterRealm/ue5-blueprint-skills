@@ -1,4 +1,3 @@
----
 ## Clear Pinned Lane
 **Category:** Default
 **Search:** "Clear Pinned Lane"

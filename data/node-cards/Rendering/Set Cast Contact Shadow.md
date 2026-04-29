@@ -1,4 +1,3 @@
----
 ## Set Cast Contact Shadow
 **Category:** Rendering
 **Search:** "Set Cast Contact Shadow"

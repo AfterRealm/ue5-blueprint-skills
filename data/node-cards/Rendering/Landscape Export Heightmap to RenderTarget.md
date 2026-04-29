@@ -1,4 +1,3 @@
----
 ## Landscape Export Heightmap to RenderTarget
 **Category:** Rendering
 **Search:** "Landscape Export Heightmap to RenderTarget"

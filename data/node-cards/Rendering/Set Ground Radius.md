@@ -1,4 +1,3 @@
----
 ## Set Ground Radius
 **Category:** Rendering
 **Search:** "Set Ground Radius"

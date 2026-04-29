@@ -1,4 +1,3 @@
----
 ## On Actor End Overlap
 **Category:** Collision
 **Search:** "On Actor End Overlap"

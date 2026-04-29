@@ -1,4 +1,3 @@
----
 ## Get Parent Component
 **Category:** Actor
 **Search:** "Get Parent Component"

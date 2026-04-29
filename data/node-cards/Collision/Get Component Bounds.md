@@ -1,4 +1,3 @@
----
 ## Get Component Bounds
 **Category:** Collision
 **Search:** "Get Component Bounds"

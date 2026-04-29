@@ -1,4 +1,3 @@
----
 ## Is Match in Progress
 **Category:** Game
 **Search:** "Is Match in Progress"

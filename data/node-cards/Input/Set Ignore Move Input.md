@@ -1,4 +1,3 @@
----
 ## Set Ignore Move Input
 **Category:** Input
 **Search:** "Set Ignore Move Input"

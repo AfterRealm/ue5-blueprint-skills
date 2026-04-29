@@ -1,4 +1,3 @@
----
 ## Result
 **Category:** EventDispatchers
 **Search:** "Result"

@@ -1,4 +1,3 @@
----
 ## Get Atmosphere Transmitance On Ground At Planet Top
 **Category:** Utilities
 **Search:** "Get Atmosphere Transmitance On Ground At Planet Top"

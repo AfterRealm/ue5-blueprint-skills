@@ -1,4 +1,3 @@
----
 ## Get Socket Transform
 **Category:** Transformation
 **Search:** "Get Socket Transform"

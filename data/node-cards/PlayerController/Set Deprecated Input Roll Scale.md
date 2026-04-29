@@ -1,4 +1,3 @@
----
 ## Set Deprecated Input Roll Scale
 **Category:** PlayerController
 **Search:** "Set Deprecated Input Roll Scale"

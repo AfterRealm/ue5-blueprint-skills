@@ -1,4 +1,3 @@
----
 ## Set Material
 **Category:** Rendering
 **Search:** "Set Material"

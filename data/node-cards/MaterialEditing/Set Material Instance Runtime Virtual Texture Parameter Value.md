@@ -1,4 +1,3 @@
----
 ## Set Material Instance Runtime Virtual Texture Parameter Value
 **Category:** MaterialEditing
 **Search:** "Set Material Instance Runtime Virtual Texture Parameter Value"

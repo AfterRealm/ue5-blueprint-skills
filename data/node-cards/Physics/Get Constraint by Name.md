@@ -1,4 +1,3 @@
----
 ## Get Constraint by Name
 **Category:** Physics
 **Search:** "Get Constraint by Name"

@@ -1,4 +1,3 @@
----
 ## Has Begun Play
 **Category:** GameState
 **Search:** "Has Begun Play"

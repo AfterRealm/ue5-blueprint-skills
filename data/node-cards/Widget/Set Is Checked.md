@@ -1,4 +1,3 @@
----
 ## Set Is Checked
 **Category:** Widget
 **Search:** "Set Is Checked"

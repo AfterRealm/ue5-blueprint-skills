@@ -1,4 +1,3 @@
----
 ## Get World Scale
 **Category:** Transformation
 **Search:** "Get World Scale"

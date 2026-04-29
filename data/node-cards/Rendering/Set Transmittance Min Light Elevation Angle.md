@@ -1,4 +1,3 @@
----
 ## Set Transmittance Min Light Elevation Angle
 **Category:** Rendering
 **Search:** "Set Transmittance Min Light Elevation Angle"

@@ -1,4 +1,3 @@
----
 ## Get LODMaterial Slot
 **Category:** StaticMeshUtilities
 **Search:** "Get LODMaterial Slot"

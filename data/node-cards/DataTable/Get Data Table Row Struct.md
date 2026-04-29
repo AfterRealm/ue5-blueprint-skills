@@ -1,4 +1,3 @@
----
 ## Get Data Table Row Struct
 **Category:** DataTable
 **Search:** "Get Data Table Row Struct"

@@ -1,4 +1,3 @@
----
 ## Get Params by Tag
 **Category:** Data
 **Search:** "Get Params by Tag"

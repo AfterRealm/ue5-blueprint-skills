@@ -1,4 +1,3 @@
----
 ## Get Owning Player
 **Category:** Widget
 **Search:** "Get Owning Player"

@@ -1,4 +1,3 @@
----
 ## Get Data Table Column Export Names
 **Category:** DataTable
 **Search:** "Get Data Table Column Export Names"

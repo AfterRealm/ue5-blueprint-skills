@@ -1,4 +1,3 @@
----
 ## Set Cylinder Arc Angle
 **Category:** UserInterface
 **Search:** "Set Cylinder Arc Angle"

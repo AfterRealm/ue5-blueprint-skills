@@ -1,4 +1,3 @@
----
 ## Set Convex Decomposition Collisions
 **Category:** StaticMeshUtilities
 **Search:** "Set Convex Decomposition Collisions"

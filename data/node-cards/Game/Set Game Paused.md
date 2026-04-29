@@ -1,4 +1,3 @@
----
 ## Set Game Paused
 **Category:** Game
 **Search:** "Set Game Paused"

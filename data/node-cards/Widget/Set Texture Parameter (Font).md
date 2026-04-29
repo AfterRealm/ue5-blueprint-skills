@@ -1,4 +1,3 @@
----
 ## Set Texture Parameter (Font)
 **Category:** Widget
 **Search:** "Set Texture Parameter (Font)"

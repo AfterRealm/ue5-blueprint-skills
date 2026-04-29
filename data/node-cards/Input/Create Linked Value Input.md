@@ -1,4 +1,3 @@
----
 ## Create Linked Value Input
 **Category:** Input
 **Search:** "Create Linked Value Input"

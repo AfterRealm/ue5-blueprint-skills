@@ -1,4 +1,3 @@
----
 ## Create Event
 **Category:** EventDispatchers
 **Search:** "Create Event"

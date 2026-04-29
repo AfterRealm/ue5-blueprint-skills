@@ -1,4 +1,3 @@
----
 ## On Load Failure
 **Category:** EventDispatchers
 **Search:** "On Load Failure"

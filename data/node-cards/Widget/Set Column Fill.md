@@ -1,4 +1,3 @@
----
 ## Set Column Fill
 **Category:** Widget
 **Search:** "Set Column Fill"

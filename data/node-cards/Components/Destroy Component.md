@@ -1,4 +1,3 @@
----
 ## Destroy Component
 **Category:** Components
 **Search:** "Destroy Component"

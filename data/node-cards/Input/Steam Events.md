@@ -1,4 +1,3 @@
----
 ## Steam Events
 **Category:** Input
 **Search:** "Steam Events"

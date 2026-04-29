@@ -1,4 +1,3 @@
----
 ## Add Static Mesh Component
 **Category:** Physics
 **Search:** "Add Static Mesh Component"

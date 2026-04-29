@@ -1,4 +1,3 @@
----
 ## Export Render Target
 **Category:** Rendering
 **Search:** "Export Render Target"

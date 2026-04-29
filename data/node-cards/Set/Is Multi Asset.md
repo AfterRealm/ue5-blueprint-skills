@@ -1,4 +1,3 @@
----
 ## Is Multi Asset
 **Category:** Set
 **Search:** "Is Multi Asset"

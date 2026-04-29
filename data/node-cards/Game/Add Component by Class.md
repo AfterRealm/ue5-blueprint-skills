@@ -1,4 +1,3 @@
----
 ## Add Component by Class
 **Category:** Game
 **Search:** "Add Component by Class"

@@ -1,4 +1,3 @@
----
 ## Skeletal Mesh
 **Category:** Components
 **Search:** "Skeletal Mesh"

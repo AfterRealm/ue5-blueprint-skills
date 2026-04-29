@@ -1,4 +1,3 @@
----
 ## Set Render Opacity
 **Category:** Widget
 **Search:** "Set Render Opacity"

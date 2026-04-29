@@ -1,4 +1,3 @@
----
 ## Changed
 **Category:** EventDispatchers
 **Search:** "Changed"

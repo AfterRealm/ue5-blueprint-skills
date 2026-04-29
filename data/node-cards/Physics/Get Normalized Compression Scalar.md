@@ -1,4 +1,3 @@
----
 ## Get Normalized Compression Scalar
 **Category:** Physics
 **Search:** "Get Normalized Compression Scalar"

@@ -1,4 +1,3 @@
----
 ## Get Paint Space Geometry
 **Category:** Widget
 **Search:** "Get Paint Space Geometry"

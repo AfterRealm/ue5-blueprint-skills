@@ -1,4 +1,3 @@
----
 ## Add or Update Blendable
 **Category:** Rendering
 **Search:** "Add or Update Blendable"

@@ -1,4 +1,3 @@
----
 ## Draw Debug Cross Locator
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Cross Locator"

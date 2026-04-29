@@ -1,4 +1,3 @@
----
 ## Get Spawning Count Scale
 **Category:** Spawning
 **Search:** "Get Spawning Count Scale"

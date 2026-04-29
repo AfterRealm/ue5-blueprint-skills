@@ -1,4 +1,3 @@
----
 ## Sphere
 **Category:** Components
 **Search:** "Sphere"

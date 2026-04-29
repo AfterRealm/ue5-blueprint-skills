@@ -1,4 +1,3 @@
----
 ## Get World Location
 **Category:** Transformation
 **Search:** "Get World Location"

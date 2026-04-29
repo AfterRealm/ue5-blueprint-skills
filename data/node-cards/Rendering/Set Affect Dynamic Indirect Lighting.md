@@ -1,4 +1,3 @@
----
 ## Set Affect Dynamic Indirect Lighting
 **Category:** Rendering
 **Search:** "Set Affect Dynamic Indirect Lighting"

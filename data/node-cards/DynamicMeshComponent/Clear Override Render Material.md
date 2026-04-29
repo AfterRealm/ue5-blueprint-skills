@@ -1,4 +1,3 @@
----
 ## Clear Override Render Material
 **Category:** DynamicMeshComponent
 **Search:** "Clear Override Render Material"

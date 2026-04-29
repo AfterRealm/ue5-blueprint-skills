@@ -1,4 +1,3 @@
----
 ## Get Item Color
 **Category:** Set
 **Search:** "Get Item Color"

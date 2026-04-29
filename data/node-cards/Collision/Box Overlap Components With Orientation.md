@@ -1,4 +1,3 @@
----
 ## Box Overlap Components With Orientation
 **Category:** Collision
 **Search:** "Box Overlap Components With Orientation"

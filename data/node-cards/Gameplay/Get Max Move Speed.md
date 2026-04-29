@@ -1,4 +1,3 @@
----
 ## Get Max Move Speed
 **Category:** Gameplay
 **Search:** "Get Max Move Speed"

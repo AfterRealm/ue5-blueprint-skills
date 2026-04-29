@@ -1,4 +1,3 @@
----
 ## On Low Power Mode Delegate
 **Category:** EventDispatchers
 **Search:** "On Low Power Mode Delegate"

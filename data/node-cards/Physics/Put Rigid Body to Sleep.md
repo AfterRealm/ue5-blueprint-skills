@@ -1,4 +1,3 @@
----
 ## Put Rigid Body to Sleep
 **Category:** Physics
 **Search:** "Put Rigid Body to Sleep"

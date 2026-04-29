@@ -1,4 +1,3 @@
----
 ## Set Key Selection Text
 **Category:** Widget
 **Search:** "Set Key Selection Text"

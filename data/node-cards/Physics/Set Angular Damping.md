@@ -1,4 +1,3 @@
----
 ## Set Angular Damping
 **Category:** Physics
 **Search:** "Set Angular Damping"

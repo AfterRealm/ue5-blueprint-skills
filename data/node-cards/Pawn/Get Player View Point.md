@@ -1,4 +1,3 @@
----
 ## Get Player View Point
 **Category:** Pawn
 **Search:** "Get Player View Point"

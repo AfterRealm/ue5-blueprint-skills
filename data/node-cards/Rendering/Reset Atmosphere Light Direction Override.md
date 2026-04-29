@@ -1,4 +1,3 @@
----
 ## Reset Atmosphere Light Direction Override
 **Category:** Rendering
 **Search:** "Reset Atmosphere Light Direction Override"

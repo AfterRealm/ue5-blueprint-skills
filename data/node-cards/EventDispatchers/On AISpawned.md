@@ -1,4 +1,3 @@
----
 ## On AISpawned
 **Category:** EventDispatchers
 **Search:** "On AISpawned"

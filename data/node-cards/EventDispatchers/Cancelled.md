@@ -1,4 +1,3 @@
----
 ## Cancelled
 **Category:** EventDispatchers
 **Search:** "Cancelled"

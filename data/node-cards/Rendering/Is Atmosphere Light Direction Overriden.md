@@ -1,4 +1,3 @@
----
 ## Is Atmosphere Light Direction Overriden
 **Category:** Rendering
 **Search:** "Is Atmosphere Light Direction Overriden"

@@ -1,4 +1,3 @@
----
 ## To Object (Interface)
 **Category:** Utilities
 **Search:** "To Object (Interface)"

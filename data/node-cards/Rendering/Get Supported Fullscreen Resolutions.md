@@ -1,4 +1,3 @@
----
 ## Get Supported Fullscreen Resolutions
 **Category:** Rendering
 **Search:** "Get Supported Fullscreen Resolutions"

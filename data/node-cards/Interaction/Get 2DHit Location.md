@@ -1,4 +1,3 @@
----
 ## Get 2DHit Location
 **Category:** Interaction
 **Search:** "Get 2DHit Location"

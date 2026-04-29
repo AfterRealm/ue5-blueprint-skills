@@ -1,4 +1,3 @@
----
 ## Add World Offset
 **Category:** Transformation
 **Search:** "Add World Offset"

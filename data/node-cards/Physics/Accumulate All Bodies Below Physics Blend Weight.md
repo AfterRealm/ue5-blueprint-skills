@@ -1,4 +1,3 @@
----
 ## Accumulate All Bodies Below Physics Blend Weight
 **Category:** Physics
 **Search:** "Accumulate All Bodies Below Physics Blend Weight"

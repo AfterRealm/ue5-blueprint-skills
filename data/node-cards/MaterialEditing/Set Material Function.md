@@ -1,4 +1,3 @@
----
 ## Set Material Function
 **Category:** MaterialEditing
 **Search:** "Set Material Function"

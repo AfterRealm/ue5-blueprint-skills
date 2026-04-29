@@ -1,4 +1,3 @@
----
 ## Scroll Widget Into View
 **Category:** Widget
 **Search:** "Scroll Widget Into View"

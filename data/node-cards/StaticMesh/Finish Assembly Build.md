@@ -1,4 +1,3 @@
----
 ## Finish Assembly Build
 **Category:** StaticMesh
 **Search:** "Finish Assembly Build"

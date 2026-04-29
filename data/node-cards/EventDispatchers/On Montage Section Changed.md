@@ -1,4 +1,3 @@
----
 ## On Montage Section Changed
 **Category:** EventDispatchers
 **Search:** "On Montage Section Changed"

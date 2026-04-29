@@ -1,4 +1,3 @@
----
 ## Has Launch Option
 **Category:** Utilities
 **Search:** "Has Launch Option"

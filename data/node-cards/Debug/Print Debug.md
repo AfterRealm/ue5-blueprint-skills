@@ -1,4 +1,3 @@
----
 ## Print Debug
 **Category:** Debug
 **Search:** "Print Debug"

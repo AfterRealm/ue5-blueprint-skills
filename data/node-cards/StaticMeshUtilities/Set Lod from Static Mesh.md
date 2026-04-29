@@ -1,4 +1,3 @@
----
 ## Set Lod from Static Mesh
 **Category:** StaticMeshUtilities
 **Search:** "Set Lod from Static Mesh"

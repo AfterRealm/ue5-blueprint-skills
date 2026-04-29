@@ -1,4 +1,3 @@
----
 ## Get Widget Slot
 **Category:** UserInterface
 **Search:** "Get Widget Slot"

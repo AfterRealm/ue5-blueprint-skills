@@ -1,4 +1,3 @@
----
 ## Set Mie Scattering Scale
 **Category:** Rendering
 **Search:** "Set Mie Scattering Scale"

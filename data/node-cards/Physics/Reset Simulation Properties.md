@@ -1,4 +1,3 @@
----
 ## Reset Simulation Properties
 **Category:** Physics
 **Search:** "Reset Simulation Properties"

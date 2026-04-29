@@ -1,4 +1,3 @@
----
 ## Create Struct Local Value Input
 **Category:** Input
 **Search:** "Create Struct Local Value Input"

@@ -1,4 +1,3 @@
----
 ## Get Num Spectators
 **Category:** Game
 **Search:** "Get Num Spectators"

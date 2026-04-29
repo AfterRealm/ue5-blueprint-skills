@@ -1,4 +1,3 @@
----
 ## Removed
 **Category:** EventDispatchers
 **Search:** "Removed"

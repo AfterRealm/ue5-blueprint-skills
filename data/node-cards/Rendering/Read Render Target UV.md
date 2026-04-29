@@ -1,4 +1,3 @@
----
 ## Read Render Target UV
 **Category:** Rendering
 **Search:** "Read Render Target UV"

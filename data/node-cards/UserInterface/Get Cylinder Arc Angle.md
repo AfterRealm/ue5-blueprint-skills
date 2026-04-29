@@ -1,4 +1,3 @@
----
 ## Get Cylinder Arc Angle
 **Category:** UserInterface
 **Search:** "Get Cylinder Arc Angle"

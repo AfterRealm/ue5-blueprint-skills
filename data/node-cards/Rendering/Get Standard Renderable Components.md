@@ -1,4 +1,3 @@
----
 ## Get Standard Renderable Components
 **Category:** Rendering
 **Search:** "Get Standard Renderable Components"

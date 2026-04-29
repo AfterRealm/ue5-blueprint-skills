@@ -1,4 +1,3 @@
----
 ## Completed
 **Category:** EventDispatchers
 **Search:** "Completed"

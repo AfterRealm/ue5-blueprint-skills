@@ -1,4 +1,3 @@
----
 ## Get Display Name
 **Category:** Utilities
 **Search:** "Get Display Name"

@@ -1,4 +1,3 @@
----
 ## Set Widget
 **Category:** UserInterface
 **Search:** "Set Widget"

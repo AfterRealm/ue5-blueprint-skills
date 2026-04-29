@@ -1,4 +1,3 @@
----
 ## Begin New Static Mesh Assembly Build
 **Category:** StaticMesh
 **Search:** "Begin New Static Mesh Assembly Build"

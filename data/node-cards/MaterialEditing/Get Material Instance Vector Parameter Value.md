@@ -1,4 +1,3 @@
----
 ## Get Material Instance Vector Parameter Value
 **Category:** MaterialEditing
 **Search:** "Get Material Instance Vector Parameter Value"

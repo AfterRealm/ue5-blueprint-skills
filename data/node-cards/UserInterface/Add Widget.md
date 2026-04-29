@@ -1,4 +1,3 @@
----
 ## Add Widget
 **Category:** UserInterface
 **Search:** "Add Widget"

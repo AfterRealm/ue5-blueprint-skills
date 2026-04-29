@@ -1,4 +1,3 @@
----
 ## Remove Widget
 **Category:** UserInterface
 **Search:** "Remove Widget"

@@ -1,4 +1,3 @@
----
 ## Get All Skin Weight Profile Names
 **Category:** Mesh
 **Search:** "Get All Skin Weight Profile Names"

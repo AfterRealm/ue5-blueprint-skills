@@ -1,4 +1,3 @@
----
 ## On Component End Overlap
 **Category:** Collision
 **Search:** "On Component End Overlap"

@@ -1,4 +1,3 @@
----
 ## Get Game Instance
 **Category:** Widget
 **Search:** "Get Game Instance"

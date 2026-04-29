@@ -1,4 +1,3 @@
----
 ## Start Continuous Input Injection for Player Mapping
 **Category:** Input
 **Search:** "Start Continuous Input Injection for Player Mapping"

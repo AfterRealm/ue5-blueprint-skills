@@ -1,4 +1,3 @@
----
 ## Get Collision Profile Name
 **Category:** Collision
 **Search:** "Get Collision Profile Name"

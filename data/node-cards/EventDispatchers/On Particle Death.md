@@ -1,4 +1,3 @@
----
 ## On Particle Death
 **Category:** EventDispatchers
 **Search:** "On Particle Death"

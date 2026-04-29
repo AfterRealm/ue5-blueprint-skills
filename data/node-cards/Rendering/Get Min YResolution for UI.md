@@ -1,4 +1,3 @@
----
 ## Get Min YResolution for UI
 **Category:** Rendering
 **Search:** "Get Min YResolution for UI"

@@ -1,4 +1,3 @@
----
 ## Add Local Offset
 **Category:** Transformation
 **Search:** "Add Local Offset"

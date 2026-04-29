@@ -1,4 +1,3 @@
----
 ## Capsule Overlap Actors
 **Category:** Collision
 **Search:** "Capsule Overlap Actors"

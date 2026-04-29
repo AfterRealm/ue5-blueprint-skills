@@ -1,4 +1,3 @@
----
 ## On Commit
 **Category:** EventDispatchers
 **Search:** "On Commit"

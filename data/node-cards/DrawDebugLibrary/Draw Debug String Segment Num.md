@@ -1,4 +1,3 @@
----
 ## Draw Debug String Segment Num
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug String Segment Num"

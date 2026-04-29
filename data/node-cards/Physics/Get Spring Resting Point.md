@@ -1,4 +1,3 @@
----
 ## Get Spring Resting Point
 **Category:** Physics
 **Search:** "Get Spring Resting Point"

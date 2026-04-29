@@ -1,4 +1,3 @@
----
 ## Date Time
 **Category:** Math
 **Search:** "Date Time"

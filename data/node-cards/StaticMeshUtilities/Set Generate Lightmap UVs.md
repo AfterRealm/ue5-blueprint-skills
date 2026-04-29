@@ -1,4 +1,3 @@
----
 ## Set Generate Lightmap UVs
 **Category:** StaticMeshUtilities
 **Search:** "Set Generate Lightmap UVs"

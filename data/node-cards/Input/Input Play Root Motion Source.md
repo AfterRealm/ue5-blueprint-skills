@@ -1,4 +1,3 @@
----
 ## Input Play Root Motion Source
 **Category:** Input
 **Search:** "Input Play Root Motion Source"

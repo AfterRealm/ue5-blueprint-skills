@@ -1,4 +1,3 @@
----
 ## On Constant QResults
 **Category:** EventDispatchers
 **Search:** "On Constant QResults"

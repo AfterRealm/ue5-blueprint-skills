@@ -1,4 +1,3 @@
----
 ## Get Accessible Summary Text
 **Category:** Widget
 **Search:** "Get Accessible Summary Text"

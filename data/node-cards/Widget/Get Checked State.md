@@ -1,4 +1,3 @@
----
 ## Get Checked State
 **Category:** Widget
 **Search:** "Get Checked State"

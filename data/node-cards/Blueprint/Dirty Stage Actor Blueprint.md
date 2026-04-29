@@ -1,4 +1,3 @@
----
 ## Dirty Stage Actor Blueprint
 **Category:** Blueprint
 **Search:** "Dirty Stage Actor Blueprint"

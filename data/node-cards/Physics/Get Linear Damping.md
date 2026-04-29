@@ -1,4 +1,3 @@
----
 ## Get Linear Damping
 **Category:** Physics
 **Search:** "Get Linear Damping"

@@ -1,4 +1,3 @@
----
 ## On Target Ready
 **Category:** EventDispatchers
 **Search:** "On Target Ready"

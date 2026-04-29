@@ -1,4 +1,3 @@
----
 ## Set Update Kinematic from Simulation
 **Category:** Physics
 **Search:** "Set Update Kinematic from Simulation"

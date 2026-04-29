@@ -1,4 +1,3 @@
----
 ## Update Bookmark Color
 **Category:** Default
 **Search:** "Update Bookmark Color"

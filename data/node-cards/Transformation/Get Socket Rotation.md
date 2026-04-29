@@ -1,4 +1,3 @@
----
 ## Get Socket Rotation
 **Category:** Transformation
 **Search:** "Get Socket Rotation"

@@ -1,4 +1,3 @@
----
 ## Wake All Rigid Bodies
 **Category:** Physics
 **Search:** "Wake All Rigid Bodies"

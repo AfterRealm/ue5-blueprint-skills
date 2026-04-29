@@ -1,4 +1,3 @@
----
 ## Get Player Camera Manager
 **Category:** Game
 **Search:** "Get Player Camera Manager"

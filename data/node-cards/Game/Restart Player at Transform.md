@@ -1,4 +1,3 @@
----
 ## Restart Player at Transform
 **Category:** Game
 **Search:** "Restart Player at Transform"

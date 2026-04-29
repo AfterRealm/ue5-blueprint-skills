@@ -1,4 +1,3 @@
----
 ## Begin Edit Skeletal Mesh Assembly Build
 **Category:** SkeletalMesh
 **Search:** "Begin Edit Skeletal Mesh Assembly Build"

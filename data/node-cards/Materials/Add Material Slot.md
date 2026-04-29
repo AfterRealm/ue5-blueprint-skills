@@ -1,4 +1,3 @@
----
 ## Add Material Slot
 **Category:** Materials
 **Search:** "Add Material Slot"

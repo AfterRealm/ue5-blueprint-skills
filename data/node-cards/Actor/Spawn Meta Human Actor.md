@@ -1,4 +1,3 @@
----
 ## Spawn Meta Human Actor
 **Category:** Actor
 **Search:** "Spawn Meta Human Actor"

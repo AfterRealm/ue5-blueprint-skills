@@ -1,4 +1,3 @@
----
 ## Set Lake and Ocean Transition Materials
 **Category:** Rendering
 **Search:** "Set Lake and Ocean Transition Materials"

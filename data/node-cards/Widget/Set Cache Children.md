@@ -1,4 +1,3 @@
----
 ## Set Cache Children
 **Category:** Widget
 **Search:** "Set Cache Children"

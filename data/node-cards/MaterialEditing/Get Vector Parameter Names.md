@@ -1,4 +1,3 @@
----
 ## Get Vector Parameter Names
 **Category:** MaterialEditing
 **Search:** "Get Vector Parameter Names"

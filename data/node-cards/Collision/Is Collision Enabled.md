@@ -1,4 +1,3 @@
----
 ## Is Collision Enabled
 **Category:** Collision
 **Search:** "Is Collision Enabled"

@@ -1,4 +1,3 @@
----
 ## Get Actor List from Component List
 **Category:** Actor
 **Search:** "Get Actor List from Component List"

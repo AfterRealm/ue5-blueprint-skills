@@ -1,4 +1,3 @@
----
 ## Application Failed to Register for Remote Notifications Delegate
 **Category:** EventDispatchers
 **Search:** "Application Failed to Register for Remote Notifications Delegate"

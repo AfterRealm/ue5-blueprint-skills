@@ -1,4 +1,3 @@
----
 ## HasAnyUserFocusedDescendants
 **Category:** Widget
 **Search:** "HasAnyUserFocusedDescendants"
