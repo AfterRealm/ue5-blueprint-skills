@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ue5-blueprint-skills",
+  "description": "UE5 Blueprint analysis, debugging, and teaching tools for Claude Code.",
+  "owner": {
+    "name": "Meredith",
+    "url": "https://github.com/AfterRealm"
+  },
+  "plugins": [
+    {
+      "name": "ue5-blueprints",
+      "description": "UE5 Blueprint analysis, debugging, and teaching tools. Export Blueprints from a running UE5 editor, detect anti-patterns, and get beginner-friendly fix instructions.",
+      "category": "development",
+      "source": "./",
+      "homepage": "https://github.com/AfterRealm/ue5-blueprint-skills"
+    }
+  ]
+}

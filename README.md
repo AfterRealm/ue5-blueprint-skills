@@ -80,7 +80,8 @@ No copy-pasting screenshots. No describing your graph in chat. Claude reads the 
 
 ```bash
 # Install the plugin
-claude --plugin-dir /path/to/ue5-blueprint-skills
+claude plugin marketplace add AfterRealm/ue5-blueprint-skills
+claude plugin install ue5-blueprints@ue5-blueprint-skills
 
 # One-time setup
 /ue5-blueprints:setup
