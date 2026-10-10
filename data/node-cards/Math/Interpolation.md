@@ -1,4 +1,3 @@
----
 ## Interpolation
 **Category:** Math
 **Search:** "Interpolation"

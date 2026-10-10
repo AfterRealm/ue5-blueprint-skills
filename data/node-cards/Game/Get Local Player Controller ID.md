@@ -1,4 +1,3 @@
----
 ## Get Local Player Controller ID
 **Category:** Game
 **Search:** "Get Local Player Controller ID"

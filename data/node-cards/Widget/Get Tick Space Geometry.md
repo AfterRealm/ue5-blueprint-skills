@@ -1,4 +1,3 @@
----
 ## Get Tick Space Geometry
 **Category:** Widget
 **Search:** "Get Tick Space Geometry"

@@ -1,4 +1,3 @@
----
 ## Get Num LODs
 **Category:** StaticMesh
 **Search:** "Get Num LODs"

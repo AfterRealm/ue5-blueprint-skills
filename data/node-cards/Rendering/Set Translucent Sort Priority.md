@@ -1,4 +1,3 @@
----
 ## Set Translucent Sort Priority
 **Category:** Rendering
 **Search:** "Set Translucent Sort Priority"

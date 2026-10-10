@@ -1,4 +1,3 @@
----
 ## Get Attach Socket Name
 **Category:** Transformation
 **Search:** "Get Attach Socket Name"

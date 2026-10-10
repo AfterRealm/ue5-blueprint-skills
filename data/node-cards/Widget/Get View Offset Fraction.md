@@ -1,4 +1,3 @@
----
 ## Get View Offset Fraction
 **Category:** Widget
 **Search:** "Get View Offset Fraction"

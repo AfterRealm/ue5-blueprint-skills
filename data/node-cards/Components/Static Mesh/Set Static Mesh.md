@@ -1,4 +1,3 @@
----
 ## Set Static Mesh
 **Category:** Components > Static Mesh
 **Search:** "Set Static Mesh"

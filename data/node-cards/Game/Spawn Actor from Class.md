@@ -1,4 +1,3 @@
----
 ## Spawn Actor from Class
 **Category:** Game
 **Search:** "Spawn Actor from Class"

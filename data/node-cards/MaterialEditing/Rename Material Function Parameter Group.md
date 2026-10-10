@@ -1,4 +1,3 @@
----
 ## Rename Material Function Parameter Group
 **Category:** MaterialEditing
 **Search:** "Rename Material Function Parameter Group"

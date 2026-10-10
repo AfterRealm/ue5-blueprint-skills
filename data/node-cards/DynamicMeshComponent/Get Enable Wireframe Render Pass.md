@@ -1,4 +1,3 @@
----
 ## Get Enable Wireframe Render Pass
 **Category:** DynamicMeshComponent
 **Search:** "Get Enable Wireframe Render Pass"

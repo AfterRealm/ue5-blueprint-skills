@@ -1,4 +1,3 @@
----
 ## On Output Data
 **Category:** EventDispatchers
 **Search:** "On Output Data"

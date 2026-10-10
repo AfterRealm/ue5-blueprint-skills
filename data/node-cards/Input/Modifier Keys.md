@@ -1,4 +1,3 @@
----
 ## Modifier Keys
 **Category:** Input
 **Search:** "Modifier Keys"

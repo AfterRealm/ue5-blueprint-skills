@@ -1,4 +1,3 @@
----
 ## Set Input Mode UI Only
 **Category:** Input
 **Search:** "Set Input Mode UI Only"

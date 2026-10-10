@@ -1,4 +1,3 @@
----
 ## Draw Debug Pentagon
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Pentagon"

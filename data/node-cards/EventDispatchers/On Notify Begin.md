@@ -1,4 +1,3 @@
----
 ## On Notify Begin
 **Category:** EventDispatchers
 **Search:** "On Notify Begin"

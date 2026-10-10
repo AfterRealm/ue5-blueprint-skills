@@ -1,4 +1,3 @@
----
 ## Pointer Event
 **Category:** Input
 **Search:** "Pointer Event"

@@ -1,4 +1,3 @@
----
 ## Enable Section Collision
 **Category:** StaticMeshUtilities
 **Search:** "Enable Section Collision"

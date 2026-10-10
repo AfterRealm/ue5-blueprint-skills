@@ -1,4 +1,3 @@
----
 ## Create Int Local Value Input
 **Category:** Input
 **Search:** "Create Int Local Value Input"

@@ -1,4 +1,3 @@
----
 ## Get Actor Array Average Location
 **Category:** Transformation
 **Search:** "Get Actor Array Average Location"

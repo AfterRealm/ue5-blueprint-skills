@@ -1,4 +1,3 @@
----
 ## Get Actor Location
 **Category:** Transformation
 **Search:** "Get Actor Location"

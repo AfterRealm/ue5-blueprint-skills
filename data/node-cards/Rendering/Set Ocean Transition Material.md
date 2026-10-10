@@ -1,4 +1,3 @@
----
 ## Set Ocean Transition Material
 **Category:** Rendering
 **Search:** "Set Ocean Transition Material"

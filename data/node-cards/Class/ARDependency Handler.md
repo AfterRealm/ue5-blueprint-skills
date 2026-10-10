@@ -1,4 +1,3 @@
----
 ## ARDependency Handler
 **Category:** Class
 **Search:** "ARDependency Handler"

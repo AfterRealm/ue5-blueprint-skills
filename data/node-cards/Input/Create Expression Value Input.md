@@ -1,4 +1,3 @@
----
 ## Create Expression Value Input
 **Category:** Input
 **Search:** "Create Expression Value Input"

@@ -1,4 +1,3 @@
----
 ## Set Custom Hit Result
 **Category:** Interaction
 **Search:** "Set Custom Hit Result"

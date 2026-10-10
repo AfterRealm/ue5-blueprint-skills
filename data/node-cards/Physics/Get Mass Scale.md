@@ -1,4 +1,3 @@
----
 ## Get Mass Scale
 **Category:** Physics
 **Search:** "Get Mass Scale"

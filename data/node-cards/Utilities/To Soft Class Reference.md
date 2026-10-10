@@ -1,4 +1,3 @@
----
 ## To Soft Class Reference
 **Category:** Utilities
 **Search:** "To Soft Class Reference"

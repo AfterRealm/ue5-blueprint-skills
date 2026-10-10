@@ -1,4 +1,3 @@
----
 ## Get Cache Children
 **Category:** Widget
 **Search:** "Get Cache Children"

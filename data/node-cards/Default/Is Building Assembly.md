@@ -1,4 +1,3 @@
----
 ## Is Building Assembly
 **Category:** Default
 **Search:** "Is Building Assembly"

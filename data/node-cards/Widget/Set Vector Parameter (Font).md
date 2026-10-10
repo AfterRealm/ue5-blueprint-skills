@@ -1,4 +1,3 @@
----
 ## Set Vector Parameter (Font)
 **Category:** Widget
 **Search:** "Set Vector Parameter (Font)"

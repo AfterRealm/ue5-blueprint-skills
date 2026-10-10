@@ -1,4 +1,3 @@
----
 ## Delete All Material Expressions in Function
 **Category:** MaterialEditing
 **Search:** "Delete All Material Expressions in Function"

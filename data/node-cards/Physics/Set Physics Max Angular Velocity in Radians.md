@@ -1,4 +1,3 @@
----
 ## Set Physics Max Angular Velocity in Radians
 **Category:** Physics
 **Search:** "Set Physics Max Angular Velocity in Radians"

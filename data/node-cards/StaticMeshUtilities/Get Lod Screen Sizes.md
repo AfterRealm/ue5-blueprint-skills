@@ -1,4 +1,3 @@
----
 ## Get Lod Screen Sizes
 **Category:** StaticMeshUtilities
 **Search:** "Get Lod Screen Sizes"

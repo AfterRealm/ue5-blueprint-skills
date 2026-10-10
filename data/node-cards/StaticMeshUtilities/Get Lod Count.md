@@ -1,4 +1,3 @@
----
 ## Get Lod Count
 **Category:** StaticMeshUtilities
 **Search:** "Get Lod Count"

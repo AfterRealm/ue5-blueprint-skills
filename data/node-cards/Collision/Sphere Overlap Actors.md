@@ -1,4 +1,3 @@
----
 ## Sphere Overlap Actors
 **Category:** Collision
 **Search:** "Sphere Overlap Actors"

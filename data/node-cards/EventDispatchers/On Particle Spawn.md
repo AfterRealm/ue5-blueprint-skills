@@ -1,4 +1,3 @@
----
 ## On Particle Spawn
 **Category:** EventDispatchers
 **Search:** "On Particle Spawn"

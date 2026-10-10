@@ -1,4 +1,3 @@
----
 ## Load Class Asset Blocking
 **Category:** Utilities
 **Search:** "Load Class Asset Blocking"

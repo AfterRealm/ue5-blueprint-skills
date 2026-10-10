@@ -1,4 +1,3 @@
----
 ## Time
 **Category:** Utilities
 **Search:** "Time"

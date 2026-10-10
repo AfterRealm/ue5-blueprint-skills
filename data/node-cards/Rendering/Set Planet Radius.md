@@ -1,4 +1,3 @@
----
 ## Set Planet Radius
 **Category:** Rendering
 **Search:** "Set Planet Radius"

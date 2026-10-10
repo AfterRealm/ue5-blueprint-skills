@@ -1,4 +1,3 @@
----
 ## Paths
 **Category:** Utilities
 **Search:** "Paths"

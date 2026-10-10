@@ -1,4 +1,3 @@
----
 ## Set Multi Scattering Factor
 **Category:** Rendering
 **Search:** "Set Multi Scattering Factor"

@@ -1,4 +1,3 @@
----
 ## Get Num Children Components
 **Category:** Components
 **Search:** "Get Num Children Components"

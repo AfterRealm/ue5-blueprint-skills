@@ -1,4 +1,3 @@
----
 ## Get Class
 **Category:** Utilities
 **Search:** "Get Class"

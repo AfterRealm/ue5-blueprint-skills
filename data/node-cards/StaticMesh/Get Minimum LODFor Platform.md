@@ -1,4 +1,3 @@
----
 ## Get Minimum LODFor Platform
 **Category:** StaticMesh
 **Search:** "Get Minimum LODFor Platform"

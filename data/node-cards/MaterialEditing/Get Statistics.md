@@ -1,4 +1,3 @@
----
 ## Get Statistics
 **Category:** MaterialEditing
 **Search:** "Get Statistics"

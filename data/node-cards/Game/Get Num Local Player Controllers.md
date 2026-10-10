@@ -1,4 +1,3 @@
----
 ## Get Num Local Player Controllers
 **Category:** Game
 **Search:** "Get Num Local Player Controllers"

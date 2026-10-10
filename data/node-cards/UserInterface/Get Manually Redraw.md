@@ -1,4 +1,3 @@
----
 ## Get Manually Redraw
 **Category:** UserInterface
 **Search:** "Get Manually Redraw"

@@ -1,4 +1,3 @@
----
 ## On Update Tracked Object
 **Category:** Event
 **Search:** "On Update Tracked Object"

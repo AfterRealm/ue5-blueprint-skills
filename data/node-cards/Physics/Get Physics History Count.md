@@ -1,4 +1,3 @@
----
 ## Get Physics History Count
 **Category:** Physics
 **Search:** "Get Physics History Count"

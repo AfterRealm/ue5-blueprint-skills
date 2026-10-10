@@ -1,4 +1,3 @@
----
 ## Set Widget Slot
 **Category:** UserInterface
 **Search:** "Set Widget Slot"

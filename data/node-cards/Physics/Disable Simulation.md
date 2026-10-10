@@ -1,4 +1,3 @@
----
 ## Disable Simulation
 **Category:** Physics
 **Search:** "Disable Simulation"

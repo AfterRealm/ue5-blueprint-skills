@@ -1,4 +1,3 @@
----
 ## Is Section Visible in Ray Tracing Enabled
 **Category:** StaticMeshUtilities
 **Search:** "Is Section Visible in Ray Tracing Enabled"

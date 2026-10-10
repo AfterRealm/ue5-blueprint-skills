@@ -1,4 +1,3 @@
----
 ## Enum to Name
 **Category:** Utilities > Name
 **Search:** "Enum to Name"

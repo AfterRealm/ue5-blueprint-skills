@@ -1,4 +1,3 @@
----
 ## Reset Controller Trigger Release Thresholds
 **Category:** Input
 **Search:** "Reset Controller Trigger Release Thresholds"

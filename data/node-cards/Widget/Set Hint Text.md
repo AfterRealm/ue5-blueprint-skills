@@ -1,4 +1,3 @@
----
 ## Set Hint Text
 **Category:** Widget
 **Search:** "Set Hint Text"

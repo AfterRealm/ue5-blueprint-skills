@@ -1,4 +1,3 @@
----
 ## Get Params by Pin Label
 **Category:** Data
 **Search:** "Get Params by Pin Label"

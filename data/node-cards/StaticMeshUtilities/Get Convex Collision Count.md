@@ -1,4 +1,3 @@
----
 ## Get Convex Collision Count
 **Category:** StaticMeshUtilities
 **Search:** "Get Convex Collision Count"

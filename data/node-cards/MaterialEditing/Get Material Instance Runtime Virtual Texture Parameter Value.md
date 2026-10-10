@@ -1,4 +1,3 @@
----
 ## Get Material Instance Runtime Virtual Texture Parameter Value
 **Category:** MaterialEditing
 **Search:** "Get Material Instance Runtime Virtual Texture Parameter Value"

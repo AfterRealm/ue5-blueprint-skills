@@ -1,4 +1,3 @@
----
 ## Set Shadow Reflection View Sample Count Scale
 **Category:** Rendering
 **Search:** "Set Shadow Reflection View Sample Count Scale"

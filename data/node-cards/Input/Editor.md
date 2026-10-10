@@ -1,4 +1,3 @@
----
 ## Editor
 **Category:** Input
 **Search:** "Editor"

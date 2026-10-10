@@ -1,4 +1,3 @@
----
 ## Calculate Projection Matrix (Minimal View Info)
 **Category:** Rendering
 **Search:** "Calculate Projection Matrix (Minimal View Info)"

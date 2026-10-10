@@ -1,4 +1,3 @@
----
 ## Get Socket Location
 **Category:** Transformation
 **Search:** "Get Socket Location"

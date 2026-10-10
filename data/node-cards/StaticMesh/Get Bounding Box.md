@@ -1,4 +1,3 @@
----
 ## Get Bounding Box
 **Category:** StaticMesh
 **Search:** "Get Bounding Box"

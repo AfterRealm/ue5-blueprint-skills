@@ -1,4 +1,3 @@
----
 ## VRController Recentered Delegate
 **Category:** EventDispatchers
 **Search:** "VRController Recentered Delegate"

@@ -1,4 +1,3 @@
----
 ## Wake Rigid Body
 **Category:** Physics
 **Search:** "Wake Rigid Body"

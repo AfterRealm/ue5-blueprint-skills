@@ -1,4 +1,3 @@
----
 ## Get All Actors
 **Category:** Actor
 **Search:** "Get All Actors"

@@ -1,4 +1,3 @@
----
 ## Set Height Fog Contribution
 **Category:** Rendering
 **Search:** "Set Height Fog Contribution"

@@ -1,4 +1,3 @@
----
 ## Static Mesh
 **Category:** Components
 **Search:** "Static Mesh"

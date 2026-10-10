@@ -1,4 +1,3 @@
----
 ## Hardware Cursor
 **Category:** Widget
 **Search:** "Hardware Cursor"

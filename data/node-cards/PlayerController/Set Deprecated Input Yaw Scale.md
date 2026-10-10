@@ -1,4 +1,3 @@
----
 ## Set Deprecated Input Yaw Scale
 **Category:** PlayerController
 **Search:** "Set Deprecated Input Yaw Scale"

@@ -1,4 +1,3 @@
----
 ## Get Life Span
 **Category:** Actor
 **Search:** "Get Life Span"

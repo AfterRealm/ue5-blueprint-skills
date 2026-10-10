@@ -1,4 +1,3 @@
----
 ## Draw Debug Triangle
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Triangle"

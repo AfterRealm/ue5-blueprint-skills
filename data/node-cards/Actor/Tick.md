@@ -1,4 +1,3 @@
----
 ## Tick
 **Category:** Actor
 **Search:** "Tick"

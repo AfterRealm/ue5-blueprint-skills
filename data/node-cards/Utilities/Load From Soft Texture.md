@@ -1,4 +1,3 @@
----
 ## Load From Soft Texture
 **Category:** Utilities
 **Search:** "Load From Soft Texture"

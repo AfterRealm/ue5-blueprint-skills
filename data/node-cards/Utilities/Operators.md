@@ -1,4 +1,3 @@
----
 ## Operators
 **Category:** Utilities
 **Search:** "Operators"

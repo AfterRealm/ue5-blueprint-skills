@@ -1,4 +1,3 @@
----
 ## Remove Constrained Bodies
 **Category:** Physics
 **Search:** "Remove Constrained Bodies"

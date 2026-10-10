@@ -1,4 +1,3 @@
----
 ## Is Component Being Destroyed
 **Category:** Components
 **Search:** "Is Component Being Destroyed"

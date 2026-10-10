@@ -1,4 +1,3 @@
----
 ## Get All Actors with Interface
 **Category:** Actor
 **Search:** "Get All Actors with Interface"

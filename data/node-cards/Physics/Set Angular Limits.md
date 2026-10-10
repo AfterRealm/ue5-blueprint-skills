@@ -1,4 +1,3 @@
----
 ## Set Angular Limits
 **Category:** Physics
 **Search:** "Set Angular Limits"

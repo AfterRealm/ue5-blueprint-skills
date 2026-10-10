@@ -1,4 +1,3 @@
----
 ## Set Mesh Exents Material
 **Category:** Default
 **Search:** "Set Mesh Exents Material"

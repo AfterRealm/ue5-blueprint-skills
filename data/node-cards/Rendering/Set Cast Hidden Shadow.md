@@ -1,4 +1,3 @@
----
 ## Set Cast Hidden Shadow
 **Category:** Rendering
 **Search:** "Set Cast Hidden Shadow"

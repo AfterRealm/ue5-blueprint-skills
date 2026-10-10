@@ -1,4 +1,3 @@
----
 ## Set Reflection View Sample Count Scale
 **Category:** Rendering
 **Search:** "Set Reflection View Sample Count Scale"

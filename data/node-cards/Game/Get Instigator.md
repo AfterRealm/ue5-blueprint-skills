@@ -1,4 +1,3 @@
----
 ## Get Instigator
 **Category:** Game
 **Search:** "Get Instigator"

@@ -1,4 +1,3 @@
----
 ## Set Texture Parameter MID (Brush)
 **Category:** Widget
 **Search:** "Set Texture Parameter MID (Brush)"

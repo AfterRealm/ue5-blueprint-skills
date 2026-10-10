@@ -1,4 +1,3 @@
----
 ## Get Actor Scale 3D
 **Category:** Transformation
 **Search:** "Get Actor Scale 3D"

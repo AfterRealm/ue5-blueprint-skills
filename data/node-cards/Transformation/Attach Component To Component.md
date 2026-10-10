@@ -1,4 +1,3 @@
----
 ## Attach Component To Component
 **Category:** Transformation
 **Search:** "Attach Component To Component"

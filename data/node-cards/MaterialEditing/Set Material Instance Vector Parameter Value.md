@@ -1,4 +1,3 @@
----
 ## Set Material Instance Vector Parameter Value
 **Category:** MaterialEditing
 **Search:** "Set Material Instance Vector Parameter Value"

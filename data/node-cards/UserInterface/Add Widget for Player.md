@@ -1,4 +1,3 @@
----
 ## Add Widget for Player
 **Category:** UserInterface
 **Search:** "Add Widget for Player"

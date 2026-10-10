@@ -1,4 +1,3 @@
----
 ## GetText (Text Box)
 **Category:** Widget
 **Search:** "GetText (Text Box)"

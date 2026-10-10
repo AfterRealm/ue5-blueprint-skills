@@ -1,4 +1,3 @@
----
 ## On Target Perception Forgotten
 **Category:** EventDispatchers
 **Search:** "On Target Perception Forgotten"

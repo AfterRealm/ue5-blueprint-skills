@@ -1,4 +1,3 @@
----
 ## Get Desired Size
 **Category:** Widget
 **Search:** "Get Desired Size"

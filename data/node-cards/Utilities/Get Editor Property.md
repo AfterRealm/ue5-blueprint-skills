@@ -1,4 +1,3 @@
----
 ## Get Editor Property
 **Category:** Utilities
 **Search:** "Get Editor Property"

@@ -1,4 +1,3 @@
----
 ## Visual Logger
 **Category:** Debug
 **Search:** "Visual Logger"

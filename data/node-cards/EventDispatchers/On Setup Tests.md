@@ -1,4 +1,3 @@
----
 ## On Setup Tests
 **Category:** EventDispatchers
 **Search:** "On Setup Tests"

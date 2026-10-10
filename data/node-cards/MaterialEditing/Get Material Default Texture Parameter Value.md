@@ -1,4 +1,3 @@
----
 ## Get Material Default Texture Parameter Value
 **Category:** MaterialEditing
 **Search:** "Get Material Default Texture Parameter Value"

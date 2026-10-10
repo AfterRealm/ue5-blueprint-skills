@@ -1,4 +1,3 @@
----
 ## Get Frame Count
 **Category:** Utilities
 **Search:** "Get Frame Count"

@@ -1,4 +1,3 @@
----
 ## Get Squared Horizontal Distance To
 **Category:** Transformation
 **Search:** "Get Squared Horizontal Distance To"

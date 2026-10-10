@@ -1,4 +1,3 @@
----
 ## Animation
 **Category:** Components
 **Search:** "Animation"

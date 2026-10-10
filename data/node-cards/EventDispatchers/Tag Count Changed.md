@@ -1,4 +1,3 @@
----
 ## Tag Count Changed
 **Category:** EventDispatchers
 **Search:** "Tag Count Changed"

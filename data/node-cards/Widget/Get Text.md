@@ -1,4 +1,3 @@
----
 ## Get Text
 **Category:** Widget
 **Search:** "Get Text"

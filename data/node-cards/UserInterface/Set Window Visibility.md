@@ -1,4 +1,3 @@
----
 ## Set Window Visibility
 **Category:** UserInterface
 **Search:** "Set Window Visibility"

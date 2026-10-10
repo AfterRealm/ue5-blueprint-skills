@@ -1,4 +1,3 @@
----
 ## Get Number Materials
 **Category:** StaticMeshUtilities
 **Search:** "Get Number Materials"

@@ -1,4 +1,3 @@
----
 ## Set Input Mode
 **Category:** Input
 **Search:** "Set Input Mode"

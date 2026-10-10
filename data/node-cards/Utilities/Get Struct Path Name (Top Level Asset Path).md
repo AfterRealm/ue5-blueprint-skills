@@ -1,4 +1,3 @@
----
 ## Get Struct Path Name (Top Level Asset Path)
 **Category:** Utilities
 **Search:** "Get Struct Path Name (Top Level Asset Path)"

@@ -1,4 +1,3 @@
----
 ## Draw Debug Point Style Color
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Point Style Color"

@@ -1,4 +1,3 @@
----
 ## Set Material Instance Static Switch Parameter Value
 **Category:** MaterialEditing
 **Search:** "Set Material Instance Static Switch Parameter Value"

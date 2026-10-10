@@ -1,4 +1,3 @@
----
 ## On Interrupted
 **Category:** EventDispatchers
 **Search:** "On Interrupted"

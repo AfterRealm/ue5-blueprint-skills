@@ -1,4 +1,3 @@
----
 ## SetText (Multi-Line Editable Text)
 **Category:** Widget
 **Search:** "SetText (Multi-Line Editable Text)"

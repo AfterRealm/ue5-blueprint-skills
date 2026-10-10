@@ -1,4 +1,3 @@
----
 ## Set Tick Mode
 **Category:** UserInterface
 **Search:** "Set Tick Mode"

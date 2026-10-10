@@ -1,4 +1,3 @@
----
 ## Get Soft Object Path
 **Category:** Utilities
 **Search:** "Get Soft Object Path"

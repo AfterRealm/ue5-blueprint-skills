@@ -1,4 +1,3 @@
----
 ## Get Min YResolution for 3DView
 **Category:** Rendering
 **Search:** "Get Min YResolution for 3DView"

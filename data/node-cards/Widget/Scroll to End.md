@@ -1,4 +1,3 @@
----
 ## Scroll to End
 **Category:** Widget
 **Search:** "Scroll to End"

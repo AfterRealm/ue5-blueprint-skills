@@ -1,4 +1,3 @@
----
 ## Get Closest Point on Collision
 **Category:** Collision
 **Search:** "Get Closest Point on Collision"

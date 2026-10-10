@@ -1,4 +1,3 @@
----
 ## Set Clipping
 **Category:** Widget
 **Search:** "Set Clipping"

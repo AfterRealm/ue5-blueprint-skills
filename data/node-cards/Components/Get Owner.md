@@ -1,4 +1,3 @@
----
 ## Get Owner
 **Category:** Components
 **Search:** "Get Owner"

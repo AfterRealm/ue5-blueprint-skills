@@ -1,4 +1,3 @@
----
 ## Is Valid Class
 **Category:** Utilities
 **Search:** "Is Valid Class"

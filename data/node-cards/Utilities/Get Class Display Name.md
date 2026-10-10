@@ -1,4 +1,3 @@
----
 ## Get Class Display Name
 **Category:** Utilities
 **Search:** "Get Class Display Name"

@@ -1,4 +1,3 @@
----
 ## Get Nanite Settings
 **Category:** StaticMeshUtilities
 **Search:** "Get Nanite Settings"

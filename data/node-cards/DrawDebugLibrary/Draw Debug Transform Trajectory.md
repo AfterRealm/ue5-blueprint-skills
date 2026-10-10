@@ -1,4 +1,3 @@
----
 ## Draw Debug Transform Trajectory
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Transform Trajectory"

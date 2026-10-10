@@ -1,4 +1,3 @@
----
 ## Head Mounted Display
 **Category:** Input
 **Search:** "Head Mounted Display"

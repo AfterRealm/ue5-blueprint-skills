@@ -1,4 +1,3 @@
----
 ## Launch Landmass Editor
 **Category:** Default
 **Search:** "Launch Landmass Editor"

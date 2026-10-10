@@ -1,4 +1,3 @@
----
 ## Arrow
 **Category:** Components
 **Search:** "Arrow"

@@ -1,4 +1,3 @@
----
 ## Components
 **Category:** Physics
 **Search:** "Components"

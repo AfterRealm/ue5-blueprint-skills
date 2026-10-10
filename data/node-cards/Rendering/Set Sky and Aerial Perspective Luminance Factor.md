@@ -1,4 +1,3 @@
----
 ## Set Sky and Aerial Perspective Luminance Factor
 **Category:** Rendering
 **Search:** "Set Sky and Aerial Perspective Luminance Factor"

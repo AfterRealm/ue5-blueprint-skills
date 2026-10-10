@@ -1,4 +1,3 @@
----
 ## Lighting
 **Category:** Rendering
 **Search:** "Lighting"

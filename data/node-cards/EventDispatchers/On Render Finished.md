@@ -1,4 +1,3 @@
----
 ## On Render Finished
 **Category:** EventDispatchers
 **Search:** "On Render Finished"

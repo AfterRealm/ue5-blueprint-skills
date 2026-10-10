@@ -1,4 +1,3 @@
----
 ## Generate Box UVChannel
 **Category:** StaticMeshUtilities
 **Search:** "Generate Box UVChannel"

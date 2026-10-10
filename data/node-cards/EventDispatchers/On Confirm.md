@@ -1,4 +1,3 @@
----
 ## On Confirm
 **Category:** EventDispatchers
 **Search:** "On Confirm"

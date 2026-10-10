@@ -1,4 +1,3 @@
----
 ## SetHintText (Multi-Line Text Box)
 **Category:** Widget
 **Search:** "SetHintText (Multi-Line Text Box)"

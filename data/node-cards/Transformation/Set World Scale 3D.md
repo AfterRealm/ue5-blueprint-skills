@@ -1,4 +1,3 @@
----
 ## Set World Scale 3D
 **Category:** Transformation
 **Search:** "Set World Scale 3D"

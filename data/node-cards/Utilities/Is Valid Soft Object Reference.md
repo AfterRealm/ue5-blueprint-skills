@@ -1,4 +1,3 @@
----
 ## Is Valid Soft Object Reference
 **Category:** Utilities
 **Search:** "Is Valid Soft Object Reference"

@@ -1,4 +1,3 @@
----
 ## Get Collision Components
 **Category:** Collision
 **Search:** "Get Collision Components"

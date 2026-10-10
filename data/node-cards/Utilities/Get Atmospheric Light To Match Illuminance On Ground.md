@@ -1,4 +1,3 @@
----
 ## Get Atmospheric Light To Match Illuminance On Ground
 **Category:** Utilities
 **Search:** "Get Atmospheric Light To Match Illuminance On Ground"

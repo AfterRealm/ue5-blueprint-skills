@@ -1,4 +1,3 @@
----
 ## Get Owner Player
 **Category:** UserInterface
 **Search:** "Get Owner Player"

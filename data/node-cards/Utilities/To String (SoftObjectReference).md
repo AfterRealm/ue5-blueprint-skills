@@ -1,4 +1,3 @@
----
 ## To String (SoftObjectReference)
 **Category:** Utilities
 **Search:** "To String (SoftObjectReference)"

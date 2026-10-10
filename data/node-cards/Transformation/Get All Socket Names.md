@@ -1,4 +1,3 @@
----
 ## Get All Socket Names
 **Category:** Transformation
 **Search:** "Get All Socket Names"

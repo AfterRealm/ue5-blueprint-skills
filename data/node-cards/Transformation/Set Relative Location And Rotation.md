@@ -1,4 +1,3 @@
----
 ## Set Relative Location And Rotation
 **Category:** Transformation
 **Search:** "Set Relative Location And Rotation"

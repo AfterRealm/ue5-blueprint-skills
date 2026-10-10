@@ -1,4 +1,3 @@
----
 ## Get Scalar Parameter Names
 **Category:** MaterialEditing
 **Search:** "Get Scalar Parameter Names"

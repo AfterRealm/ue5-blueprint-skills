@@ -1,4 +1,3 @@
----
 ## Destroy Actor
 **Category:** Actor
 **Search:** "Destroy Actor"

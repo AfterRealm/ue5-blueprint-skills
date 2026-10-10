@@ -1,4 +1,3 @@
----
 ## Set Constraint Mode
 **Category:** Physics
 **Search:** "Set Constraint Mode"

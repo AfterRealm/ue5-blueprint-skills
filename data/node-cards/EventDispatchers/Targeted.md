@@ -1,4 +1,3 @@
----
 ## Targeted
 **Category:** EventDispatchers
 **Search:** "Targeted"

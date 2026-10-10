@@ -1,4 +1,3 @@
----
 ## On Release
 **Category:** EventDispatchers
 **Search:** "On Release"

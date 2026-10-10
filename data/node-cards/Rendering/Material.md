@@ -1,4 +1,3 @@
----
 ## Material
 **Category:** Rendering
 **Search:** "Material"

@@ -1,4 +1,3 @@
----
 ## Set Scattering Distribution
 **Category:** Rendering
 **Search:** "Set Scattering Distribution"

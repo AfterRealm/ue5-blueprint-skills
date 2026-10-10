@@ -1,4 +1,3 @@
----
 ## Application Has Reactivated Delegate
 **Category:** EventDispatchers
 **Search:** "Application Has Reactivated Delegate"

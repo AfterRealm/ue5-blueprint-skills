@@ -1,4 +1,3 @@
----
 ## Get Soft Class Path
 **Category:** Utilities
 **Search:** "Get Soft Class Path"

@@ -1,4 +1,3 @@
----
 ## Remove Blendable
 **Category:** Rendering
 **Search:** "Remove Blendable"

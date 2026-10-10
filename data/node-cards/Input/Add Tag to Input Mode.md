@@ -1,4 +1,3 @@
----
 ## Add Tag to Input Mode
 **Category:** Input
 **Search:** "Add Tag to Input Mode"

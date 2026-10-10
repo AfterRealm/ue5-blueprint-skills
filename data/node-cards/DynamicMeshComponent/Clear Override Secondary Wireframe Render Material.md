@@ -1,4 +1,3 @@
----
 ## Clear Override Secondary Wireframe Render Material
 **Category:** DynamicMeshComponent
 **Search:** "Clear Override Secondary Wireframe Render Material"

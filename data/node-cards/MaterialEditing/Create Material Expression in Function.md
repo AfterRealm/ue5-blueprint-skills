@@ -1,4 +1,3 @@
----
 ## Create Material Expression in Function
 **Category:** MaterialEditing
 **Search:** "Create Material Expression in Function"

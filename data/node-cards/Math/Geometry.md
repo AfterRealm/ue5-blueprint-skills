@@ -1,4 +1,3 @@
----
 ## Geometry
 **Category:** Math
 **Search:** "Geometry"

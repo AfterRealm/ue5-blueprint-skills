@@ -1,4 +1,3 @@
----
 ## Internationalization
 **Category:** Utilities
 **Search:** "Internationalization"

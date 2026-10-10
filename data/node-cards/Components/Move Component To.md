@@ -1,4 +1,3 @@
----
 ## Move Component To
 **Category:** Components
 **Search:** "Move Component To"

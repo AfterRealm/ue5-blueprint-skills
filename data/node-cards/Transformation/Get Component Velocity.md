@@ -1,4 +1,3 @@
----
 ## Get Component Velocity
 **Category:** Transformation
 **Search:** "Get Component Velocity"

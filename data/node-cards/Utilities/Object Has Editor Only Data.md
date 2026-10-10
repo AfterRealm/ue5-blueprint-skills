@@ -1,4 +1,3 @@
----
 ## Object Has Editor Only Data
 **Category:** Utilities
 **Search:** "Object Has Editor Only Data"

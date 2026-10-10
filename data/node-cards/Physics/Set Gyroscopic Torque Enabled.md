@@ -1,4 +1,3 @@
----
 ## Set Gyroscopic Torque Enabled
 **Category:** Physics
 **Search:** "Set Gyroscopic Torque Enabled"

@@ -1,4 +1,3 @@
----
 ## Get Player Controller
 **Category:** Game
 **Search:** "Get Player Controller"

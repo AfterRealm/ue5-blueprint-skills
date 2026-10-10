@@ -1,4 +1,3 @@
----
 ## Get Overlapping Components
 **Category:** Collision
 **Search:** "Get Overlapping Components"

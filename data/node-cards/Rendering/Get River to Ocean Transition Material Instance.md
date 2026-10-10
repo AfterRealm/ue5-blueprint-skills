@@ -1,4 +1,3 @@
----
 ## Get River to Ocean Transition Material Instance
 **Category:** Rendering
 **Search:** "Get River to Ocean Transition Material Instance"

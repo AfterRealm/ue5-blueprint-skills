@@ -1,4 +1,3 @@
----
 ## End Draw Canvas to Render Target
 **Category:** Rendering
 **Search:** "End Draw Canvas to Render Target"

@@ -1,4 +1,3 @@
----
 ## Get Physics Linear Velocity at Point
 **Category:** Physics
 **Search:** "Get Physics Linear Velocity at Point"

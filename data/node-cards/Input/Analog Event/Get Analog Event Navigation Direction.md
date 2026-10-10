@@ -1,4 +1,3 @@
----
 ## Get Analog Event Navigation Direction
 **Category:** Input > Analog Event
 **Search:** "Get Analog Event Navigation Direction"

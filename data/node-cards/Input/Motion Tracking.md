@@ -1,4 +1,3 @@
----
 ## Motion Tracking
 **Category:** Input
 **Search:** "Motion Tracking"

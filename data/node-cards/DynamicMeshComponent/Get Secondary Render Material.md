@@ -1,4 +1,3 @@
----
 ## Get Secondary Render Material
 **Category:** DynamicMeshComponent
 **Search:** "Get Secondary Render Material"

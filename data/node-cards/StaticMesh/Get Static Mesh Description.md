@@ -1,4 +1,3 @@
----
 ## Get Static Mesh Description
 **Category:** StaticMesh
 **Search:** "Get Static Mesh Description"

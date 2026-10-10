@@ -1,4 +1,3 @@
----
 ## Get Cached Geometry
 **Category:** Widget
 **Search:** "Get Cached Geometry"

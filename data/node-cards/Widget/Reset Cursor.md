@@ -1,4 +1,3 @@
----
 ## Reset Cursor
 **Category:** Widget
 **Search:** "Reset Cursor"

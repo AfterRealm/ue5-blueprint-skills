@@ -1,4 +1,3 @@
----
 ## Float
 **Category:** Math
 **Search:** "Float"

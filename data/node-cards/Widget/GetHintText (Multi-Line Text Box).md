@@ -1,4 +1,3 @@
----
 ## GetHintText (Multi-Line Text Box)
 **Category:** Widget
 **Search:** "GetHintText (Multi-Line Text Box)"

@@ -1,4 +1,3 @@
----
 ## On State Ended
 **Category:** EventDispatchers
 **Search:** "On State Ended"

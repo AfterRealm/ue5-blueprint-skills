@@ -1,4 +1,3 @@
----
 ## Set Visibility
 **Category:** Widget
 **Search:** "Set Visibility"

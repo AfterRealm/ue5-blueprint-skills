@@ -1,4 +1,3 @@
----
 ## Break Soft Object Path
 **Category:** Utilities
 **Search:** "Break Soft Object Path"

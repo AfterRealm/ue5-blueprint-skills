@@ -1,4 +1,3 @@
----
 ## On Unvirtualized
 **Category:** EventDispatchers
 **Search:** "On Unvirtualized"

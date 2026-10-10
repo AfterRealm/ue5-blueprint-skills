@@ -1,4 +1,3 @@
----
 ## Get Surface Type
 **Category:** Collision
 **Search:** "Get Surface Type"

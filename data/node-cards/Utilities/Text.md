@@ -1,4 +1,3 @@
----
 ## Text
 **Category:** Utilities
 **Search:** "Text"

@@ -1,4 +1,3 @@
----
 ## Set Cast Inset Shadow for All Attachments
 **Category:** Rendering
 **Search:** "Set Cast Inset Shadow for All Attachments"

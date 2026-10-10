@@ -1,4 +1,3 @@
----
 ## Set Collision Object Type
 **Category:** Collision
 **Search:** "Set Collision Object Type"

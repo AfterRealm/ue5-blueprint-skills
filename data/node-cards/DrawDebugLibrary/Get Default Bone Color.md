@@ -1,4 +1,3 @@
----
 ## Get Default Bone Color
 **Category:** DrawDebugLibrary
 **Search:** "Get Default Bone Color"

@@ -1,4 +1,3 @@
----
 ## OnControlMappingsRebuilt
 **Category:** Input
 **Search:** "OnControlMappingsRebuilt"

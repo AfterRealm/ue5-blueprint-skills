@@ -1,4 +1,3 @@
----
 ## Get Draw at Desired Size
 **Category:** UserInterface
 **Search:** "Get Draw at Desired Size"

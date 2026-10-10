@@ -1,4 +1,3 @@
----
 ## Read Render Target Raw Pixel Area
 **Category:** Rendering
 **Search:** "Read Render Target Raw Pixel Area"

@@ -1,4 +1,3 @@
----
 ## Is Any Rigid Body Awake
 **Category:** Physics
 **Search:** "Is Any Rigid Body Awake"

@@ -1,4 +1,3 @@
----
 ## On Destroyed
 **Category:** Game
 **Search:** "On Destroyed"

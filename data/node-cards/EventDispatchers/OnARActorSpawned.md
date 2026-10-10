@@ -1,4 +1,3 @@
----
 ## OnARActorSpawned
 **Category:** EventDispatchers
 **Search:** "OnARActorSpawned"

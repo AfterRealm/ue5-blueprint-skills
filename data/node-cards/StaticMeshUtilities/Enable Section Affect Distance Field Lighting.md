@@ -1,4 +1,3 @@
----
 ## Enable Section Affect Distance Field Lighting
 **Category:** StaticMeshUtilities
 **Search:** "Enable Section Affect Distance Field Lighting"

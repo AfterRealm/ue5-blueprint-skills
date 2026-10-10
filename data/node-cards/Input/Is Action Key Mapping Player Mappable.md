@@ -1,4 +1,3 @@
----
 ## Is Action Key Mapping Player Mappable
 **Category:** Input
 **Search:** "Is Action Key Mapping Player Mappable"

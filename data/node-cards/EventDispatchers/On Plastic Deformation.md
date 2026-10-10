@@ -1,4 +1,3 @@
----
 ## On Plastic Deformation
 **Category:** EventDispatchers
 **Search:** "On Plastic Deformation"

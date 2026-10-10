@@ -1,4 +1,3 @@
----
 ## Get Triangle Count
 **Category:** DynamicMesh
 **Search:** "Get Triangle Count"

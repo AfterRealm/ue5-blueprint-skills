@@ -1,4 +1,3 @@
----
 ## Async Capture Scene
 **Category:** Class
 **Search:** "Async Capture Scene"

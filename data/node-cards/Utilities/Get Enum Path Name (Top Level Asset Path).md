@@ -1,4 +1,3 @@
----
 ## Get Enum Path Name (Top Level Asset Path)
 **Category:** Utilities
 **Search:** "Get Enum Path Name (Top Level Asset Path)"

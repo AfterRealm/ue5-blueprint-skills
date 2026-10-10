@@ -1,4 +1,3 @@
----
 ## Struct
 **Category:** Utilities
 **Search:** "Struct"

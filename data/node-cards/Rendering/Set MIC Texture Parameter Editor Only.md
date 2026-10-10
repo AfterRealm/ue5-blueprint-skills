@@ -1,4 +1,3 @@
----
 ## Set MIC Texture Parameter Editor Only
 **Category:** Rendering
 **Search:** "Set MIC Texture Parameter Editor Only"

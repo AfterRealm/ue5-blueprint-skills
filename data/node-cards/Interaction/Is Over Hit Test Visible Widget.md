@@ -1,4 +1,3 @@
----
 ## Is Over Hit Test Visible Widget
 **Category:** Interaction
 **Search:** "Is Over Hit Test Visible Widget"

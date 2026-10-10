@@ -1,4 +1,3 @@
----
 ## Reset Ignore Move Input
 **Category:** Input
 **Search:** "Reset Ignore Move Input"

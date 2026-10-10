@@ -1,4 +1,3 @@
----
 ## Get Constraints from Body
 **Category:** Physics
 **Search:** "Get Constraints from Body"

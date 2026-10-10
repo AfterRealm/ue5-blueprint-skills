@@ -1,4 +1,3 @@
----
 ## Get Count
 **Category:** Spawning
 **Search:** "Get Count"

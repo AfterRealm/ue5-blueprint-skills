@@ -1,4 +1,3 @@
----
 ## PCGProcedural ISMC
 **Category:** Components
 **Search:** "PCGProcedural ISMC"

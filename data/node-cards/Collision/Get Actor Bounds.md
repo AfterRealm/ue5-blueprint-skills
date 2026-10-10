@@ -1,4 +1,3 @@
----
 ## Get Actor Bounds
 **Category:** Collision
 **Search:** "Get Actor Bounds"

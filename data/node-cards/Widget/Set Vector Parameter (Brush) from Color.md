@@ -1,4 +1,3 @@
----
 ## Set Vector Parameter (Brush) from Color
 **Category:** Widget
 **Search:** "Set Vector Parameter (Brush) from Color"

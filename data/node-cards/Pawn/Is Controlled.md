@@ -1,4 +1,3 @@
----
 ## Is Controlled
 **Category:** Pawn
 **Search:** "Is Controlled"

@@ -1,4 +1,3 @@
----
 ## Force Update Texture
 **Category:** Rendering
 **Search:** "Force Update Texture"

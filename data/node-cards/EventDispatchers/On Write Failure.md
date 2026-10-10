@@ -1,4 +1,3 @@
----
 ## On Write Failure
 **Category:** EventDispatchers
 **Search:** "On Write Failure"

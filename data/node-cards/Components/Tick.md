@@ -1,4 +1,3 @@
----
 ## Tick
 **Category:** Components
 **Search:** "Tick"

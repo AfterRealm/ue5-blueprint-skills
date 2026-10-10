@@ -1,4 +1,3 @@
----
 ## On Actor Hit
 **Category:** Collision
 **Search:** "On Actor Hit"

@@ -1,4 +1,3 @@
----
 ## Get Object Path String
 **Category:** Utilities
 **Search:** "Get Object Path String"

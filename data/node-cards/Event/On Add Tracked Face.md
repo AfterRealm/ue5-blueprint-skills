@@ -1,4 +1,3 @@
----
 ## On Add Tracked Face
 **Category:** Event
 **Search:** "On Add Tracked Face"

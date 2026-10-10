@@ -1,4 +1,3 @@
----
 ## Draw Debug Box
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Box"

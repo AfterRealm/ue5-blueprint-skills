@@ -1,4 +1,3 @@
----
 ## Get Parent Actor
 **Category:** Actor
 **Search:** "Get Parent Actor"

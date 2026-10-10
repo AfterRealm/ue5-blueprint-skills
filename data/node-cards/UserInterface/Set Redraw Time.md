@@ -1,4 +1,3 @@
----
 ## Set Redraw Time
 **Category:** UserInterface
 **Search:** "Set Redraw Time"

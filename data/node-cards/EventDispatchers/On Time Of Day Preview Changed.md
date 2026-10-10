@@ -1,4 +1,3 @@
----
 ## On Time Of Day Preview Changed
 **Category:** EventDispatchers
 **Search:** "On Time Of Day Preview Changed"

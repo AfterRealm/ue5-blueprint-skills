@@ -1,4 +1,3 @@
----
 ## Player Can Restart
 **Category:** Game
 **Search:** "Player Can Restart"

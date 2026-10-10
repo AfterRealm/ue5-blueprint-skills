@@ -1,4 +1,3 @@
----
 ## Rotator
 **Category:** Math
 **Search:** "Rotator"

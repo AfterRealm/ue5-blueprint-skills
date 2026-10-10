@@ -1,4 +1,3 @@
----
 ## Decal
 **Category:** Rendering
 **Search:** "Decal"

@@ -1,4 +1,3 @@
----
 ## Get Scene Asset
 **Category:** Default
 **Search:** "Get Scene Asset"

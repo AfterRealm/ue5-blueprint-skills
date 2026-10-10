@@ -1,4 +1,3 @@
----
 ## Get Num Player Controllers
 **Category:** Game
 **Search:** "Get Num Player Controllers"

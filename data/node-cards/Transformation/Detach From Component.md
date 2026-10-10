@@ -1,4 +1,3 @@
----
 ## Detach From Component
 **Category:** Transformation
 **Search:** "Detach From Component"

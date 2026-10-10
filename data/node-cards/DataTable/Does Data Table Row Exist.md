@@ -1,4 +1,3 @@
----
 ## Does Data Table Row Exist
 **Category:** DataTable
 **Search:** "Does Data Table Row Exist"

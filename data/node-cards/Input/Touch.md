@@ -1,4 +1,3 @@
----
 ## Touch
 **Category:** Input
 **Search:** "Touch"

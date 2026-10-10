@@ -1,4 +1,3 @@
----
 ## Set Material Instance Sparse Volume Texture Parameter Value
 **Category:** MaterialEditing
 **Search:** "Set Material Instance Sparse Volume Texture Parameter Value"

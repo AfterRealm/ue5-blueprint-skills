@@ -1,4 +1,3 @@
----
 ## Set Notify Global Collision
 **Category:** Physics
 **Search:** "Set Notify Global Collision"

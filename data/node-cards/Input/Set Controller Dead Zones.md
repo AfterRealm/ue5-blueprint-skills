@@ -1,4 +1,3 @@
----
 ## Set Controller Dead Zones
 **Category:** Input
 **Search:** "Set Controller Dead Zones"

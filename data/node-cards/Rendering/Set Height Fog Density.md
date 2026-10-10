@@ -1,4 +1,3 @@
----
 ## Set Height Fog Density
 **Category:** Rendering
 **Search:** "Set Height Fog Density"

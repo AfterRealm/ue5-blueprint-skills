@@ -1,4 +1,3 @@
----
 ## Set Tangents Type
 **Category:** DynamicMeshComponent
 **Search:** "Set Tangents Type"

@@ -1,4 +1,3 @@
----
 ## Generic USBController Events
 **Category:** Input
 **Search:** "Generic USBController Events"

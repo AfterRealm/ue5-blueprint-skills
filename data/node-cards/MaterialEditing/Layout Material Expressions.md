@@ -1,4 +1,3 @@
----
 ## Layout Material Expressions
 **Category:** MaterialEditing
 **Search:** "Layout Material Expressions"

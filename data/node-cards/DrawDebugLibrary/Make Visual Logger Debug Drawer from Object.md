@@ -1,4 +1,3 @@
----
 ## Make Visual Logger Debug Drawer from Object
 **Category:** DrawDebugLibrary
 **Search:** "Make Visual Logger Debug Drawer from Object"

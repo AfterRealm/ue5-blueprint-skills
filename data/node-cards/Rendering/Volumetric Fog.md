@@ -1,4 +1,3 @@
----
 ## Volumetric Fog
 **Category:** Rendering
 **Search:** "Volumetric Fog"

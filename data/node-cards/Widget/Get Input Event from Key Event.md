@@ -1,4 +1,3 @@
----
 ## Get Input Event from Key Event
 **Category:** Widget
 **Search:** "Get Input Event from Key Event"

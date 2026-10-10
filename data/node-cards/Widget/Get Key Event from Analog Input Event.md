@@ -1,4 +1,3 @@
----
 ## Get Key Event from Analog Input Event
 **Category:** Widget
 **Search:** "Get Key Event from Analog Input Event"

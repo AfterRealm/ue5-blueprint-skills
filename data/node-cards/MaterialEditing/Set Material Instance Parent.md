@@ -1,4 +1,3 @@
----
 ## Set Material Instance Parent
 **Category:** MaterialEditing
 **Search:** "Set Material Instance Parent"

@@ -1,4 +1,3 @@
----
 ## Mouse Events
 **Category:** Input
 **Search:** "Mouse Events"

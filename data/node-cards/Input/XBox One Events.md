@@ -1,4 +1,3 @@
----
 ## XBox One Events
 **Category:** Input
 **Search:** "XBox One Events"

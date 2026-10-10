@@ -1,4 +1,3 @@
----
 ## Set Arrow Color (Linear Color)
 **Category:** Components > Arrow
 **Search:** "Set Arrow Color (Linear Color)"

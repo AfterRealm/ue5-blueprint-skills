@@ -1,4 +1,3 @@
----
 ## Set Radial Fog Density
 **Category:** Rendering
 **Search:** "Set Radial Fog Density"

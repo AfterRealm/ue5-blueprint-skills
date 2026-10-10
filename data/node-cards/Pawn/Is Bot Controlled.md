@@ -1,4 +1,3 @@
----
 ## Is Bot Controlled
 **Category:** Pawn
 **Search:** "Is Bot Controlled"

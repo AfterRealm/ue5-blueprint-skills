@@ -1,4 +1,3 @@
----
 ## Get Is Enabled
 **Category:** Widget
 **Search:** "Get Is Enabled"

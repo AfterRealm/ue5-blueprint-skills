@@ -1,4 +1,3 @@
----
 ## Create Dynamic Value Input
 **Category:** Input
 **Search:** "Create Dynamic Value Input"

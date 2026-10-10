@@ -1,4 +1,3 @@
----
 ## Draw Debug Bone Link
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Bone Link"

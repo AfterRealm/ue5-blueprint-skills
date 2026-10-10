@@ -1,4 +1,3 @@
----
 ## Get Simple Collision Count
 **Category:** StaticMeshUtilities
 **Search:** "Get Simple Collision Count"

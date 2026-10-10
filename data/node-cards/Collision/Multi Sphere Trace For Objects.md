@@ -1,4 +1,3 @@
----
 ## Multi Sphere Trace For Objects
 **Category:** Collision
 **Search:** "Multi Sphere Trace For Objects"

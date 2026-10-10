@@ -1,4 +1,3 @@
----
 ## Broadcast on Condition Value Changed
 **Category:** General
 **Search:** "Broadcast on Condition Value Changed"

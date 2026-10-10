@@ -1,4 +1,3 @@
----
 ## Get Tangents Type
 **Category:** DynamicMeshComponent
 **Search:** "Get Tangents Type"

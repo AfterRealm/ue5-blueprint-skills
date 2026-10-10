@@ -1,4 +1,3 @@
----
 ## Set Material Usage
 **Category:** MaterialEditing
 **Search:** "Set Material Usage"

@@ -1,4 +1,3 @@
----
 ## Add Impulse at Location
 **Category:** Physics
 **Search:** "Add Impulse at Location"

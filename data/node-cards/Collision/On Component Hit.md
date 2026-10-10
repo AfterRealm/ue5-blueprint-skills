@@ -1,4 +1,3 @@
----
 ## On Component Hit
 **Category:** Collision
 **Search:** "On Component Hit"

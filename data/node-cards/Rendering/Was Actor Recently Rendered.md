@@ -1,4 +1,3 @@
----
 ## Was Actor Recently Rendered
 **Category:** Rendering
 **Search:** "Was Actor Recently Rendered"

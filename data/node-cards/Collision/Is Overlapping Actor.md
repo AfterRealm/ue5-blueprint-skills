@@ -1,4 +1,3 @@
----
 ## Is Overlapping Actor
 **Category:** Collision
 **Search:** "Is Overlapping Actor"

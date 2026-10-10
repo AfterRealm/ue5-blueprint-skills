@@ -1,4 +1,3 @@
----
 ## On Interp Toggle
 **Category:** Rendering
 **Search:** "On Interp Toggle"

@@ -1,4 +1,3 @@
----
 ## Image Plate
 **Category:** Game
 **Search:** "Image Plate"

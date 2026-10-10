@@ -1,4 +1,3 @@
----
 ## Set Text
 **Category:** Widget
 **Search:** "Set Text"

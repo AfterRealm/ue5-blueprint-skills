@@ -1,4 +1,3 @@
----
 ## Get a reference to self
 **Category:** Variables
 **Search:** "Get a reference to self"

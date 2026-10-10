@@ -1,4 +1,3 @@
----
 ## Set Static when Not Moveable
 **Category:** Physics
 **Search:** "Set Static when Not Moveable"

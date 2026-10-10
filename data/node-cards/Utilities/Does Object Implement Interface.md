@@ -1,4 +1,3 @@
----
 ## Does Object Implement Interface
 **Category:** Utilities
 **Search:** "Does Object Implement Interface"

@@ -1,4 +1,3 @@
----
 ## Set Lod Screen Sizes
 **Category:** StaticMeshUtilities
 **Search:** "Set Lod Screen Sizes"

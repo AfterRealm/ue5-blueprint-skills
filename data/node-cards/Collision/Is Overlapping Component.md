@@ -1,4 +1,3 @@
----
 ## Is Overlapping Component
 **Category:** Collision
 **Search:** "Is Overlapping Component"

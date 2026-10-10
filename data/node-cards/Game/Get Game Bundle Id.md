@@ -1,4 +1,3 @@
----
 ## Get Game Bundle Id
 **Category:** Game
 **Search:** "Get Game Bundle Id"

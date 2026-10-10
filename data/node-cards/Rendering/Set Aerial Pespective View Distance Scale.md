@@ -1,4 +1,3 @@
----
 ## Set Aerial Pespective View Distance Scale
 **Category:** Rendering
 **Search:** "Set Aerial Pespective View Distance Scale"

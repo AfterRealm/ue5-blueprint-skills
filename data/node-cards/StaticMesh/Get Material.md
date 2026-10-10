@@ -1,4 +1,3 @@
----
 ## Get Material
 **Category:** StaticMesh
 **Search:** "Get Material"

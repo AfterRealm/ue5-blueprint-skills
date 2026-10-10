@@ -1,4 +1,3 @@
----
 ## Set Rayleigh Scattering
 **Category:** Rendering
 **Search:** "Set Rayleigh Scattering"

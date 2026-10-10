@@ -1,4 +1,3 @@
----
 ## Draw Debug Line Style from Point Style
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Line Style from Point Style"

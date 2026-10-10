@@ -1,4 +1,3 @@
----
 ## GetHintText (Multi-Line Editable Text)
 **Category:** Widget
 **Search:** "GetHintText (Multi-Line Editable Text)"

@@ -1,4 +1,3 @@
----
 ## Set Keyboard Focus
 **Category:** Widget
 **Search:** "Set Keyboard Focus"

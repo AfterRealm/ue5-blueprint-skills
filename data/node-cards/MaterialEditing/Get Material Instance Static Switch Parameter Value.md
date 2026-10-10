@@ -1,4 +1,3 @@
----
 ## Get Material Instance Static Switch Parameter Value
 **Category:** MaterialEditing
 **Search:** "Get Material Instance Static Switch Parameter Value"

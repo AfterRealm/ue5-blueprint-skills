@@ -1,4 +1,3 @@
----
 ## Get All Spatial Inputs
 **Category:** Data
 **Search:** "Get All Spatial Inputs"

@@ -1,4 +1,3 @@
----
 ## Set Mass Scale
 **Category:** Physics
 **Search:** "Set Mass Scale"

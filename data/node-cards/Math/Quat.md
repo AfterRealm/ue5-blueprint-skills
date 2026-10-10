@@ -1,4 +1,3 @@
----
 ## Quat
 **Category:** Math
 **Search:** "Quat"

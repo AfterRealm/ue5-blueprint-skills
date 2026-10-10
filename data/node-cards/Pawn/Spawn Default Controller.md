@@ -1,4 +1,3 @@
----
 ## Spawn Default Controller
 **Category:** Pawn
 **Search:** "Spawn Default Controller"

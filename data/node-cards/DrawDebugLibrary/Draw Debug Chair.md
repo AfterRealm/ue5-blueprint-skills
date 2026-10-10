@@ -1,4 +1,3 @@
----
 ## Draw Debug Chair
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Chair"

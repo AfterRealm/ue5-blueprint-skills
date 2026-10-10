@@ -1,4 +1,3 @@
----
 ## Is Valid
 **Category:** Utilities
 **Search:** "Is Valid"

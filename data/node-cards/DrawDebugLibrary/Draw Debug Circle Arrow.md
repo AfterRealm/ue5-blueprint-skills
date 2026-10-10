@@ -1,4 +1,3 @@
----
 ## Draw Debug Circle Arrow
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Circle Arrow"

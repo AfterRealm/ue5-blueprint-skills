@@ -1,4 +1,3 @@
----
 ## Get Material Default Scalar Parameter Value
 **Category:** MaterialEditing
 **Search:** "Get Material Default Scalar Parameter Value"

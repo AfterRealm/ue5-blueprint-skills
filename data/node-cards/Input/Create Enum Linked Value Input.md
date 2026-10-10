@@ -1,4 +1,3 @@
----
 ## Create Enum Linked Value Input
 **Category:** Input
 **Search:** "Create Enum Linked Value Input"

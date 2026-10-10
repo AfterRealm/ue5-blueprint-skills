@@ -1,4 +1,3 @@
----
 ## Draw Debug String
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug String"

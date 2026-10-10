@@ -1,4 +1,3 @@
----
 ## On Particle Burst
 **Category:** EventDispatchers
 **Search:** "On Particle Burst"

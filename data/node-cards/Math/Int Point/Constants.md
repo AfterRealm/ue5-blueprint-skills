@@ -1,4 +1,3 @@
----
 ## Constants
 **Category:** Math > Int Point
 **Search:** "Constants"

@@ -1,4 +1,3 @@
----
 ## Reset All Bodies Simulate Physics
 **Category:** Physics
 **Search:** "Reset All Bodies Simulate Physics"

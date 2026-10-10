@@ -1,4 +1,3 @@
----
 ## Reset
 **Category:** DynamicMesh
 **Search:** "Reset"

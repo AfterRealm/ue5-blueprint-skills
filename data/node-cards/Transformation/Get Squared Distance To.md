@@ -1,4 +1,3 @@
----
 ## Get Squared Distance To
 **Category:** Transformation
 **Search:** "Get Squared Distance To"

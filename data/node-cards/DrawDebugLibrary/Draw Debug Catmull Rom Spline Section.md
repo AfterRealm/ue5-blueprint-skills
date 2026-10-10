@@ -1,4 +1,3 @@
----
 ## Draw Debug Catmull Rom Spline Section
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Catmull Rom Spline Section"

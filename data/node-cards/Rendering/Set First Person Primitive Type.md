@@ -1,4 +1,3 @@
----
 ## Set First Person Primitive Type
 **Category:** Rendering
 **Search:** "Set First Person Primitive Type"

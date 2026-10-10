@@ -1,4 +1,3 @@
----
 ## Make Plane from Point and Normal
 **Category:** Math > Plane
 **Search:** "Make Plane from Point and Normal"

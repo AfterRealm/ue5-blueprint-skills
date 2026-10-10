@@ -1,4 +1,3 @@
----
 ## Get Input Event from Pointer Event
 **Category:** Widget
 **Search:** "Get Input Event from Pointer Event"

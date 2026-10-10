@@ -1,4 +1,3 @@
----
 ## Load From Soft Input Action
 **Category:** Utilities
 **Search:** "Load From Soft Input Action"

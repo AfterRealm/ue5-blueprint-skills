@@ -1,4 +1,3 @@
----
 ## Set Editor Tick Enabled
 **Category:** Default
 **Search:** "Set Editor Tick Enabled"

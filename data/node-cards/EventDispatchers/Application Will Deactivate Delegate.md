@@ -1,4 +1,3 @@
----
 ## Application Will Deactivate Delegate
 **Category:** EventDispatchers
 **Search:** "Application Will Deactivate Delegate"

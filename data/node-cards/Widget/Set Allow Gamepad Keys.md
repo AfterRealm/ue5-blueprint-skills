@@ -1,4 +1,3 @@
----
 ## Set Allow Gamepad Keys
 **Category:** Widget
 **Search:** "Set Allow Gamepad Keys"

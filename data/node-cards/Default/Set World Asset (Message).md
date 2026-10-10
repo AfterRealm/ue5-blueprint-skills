@@ -1,4 +1,3 @@
----
 ## Set World Asset (Message)
 **Category:** Default
 **Search:** "Set World Asset (Message)"

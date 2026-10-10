@@ -1,4 +1,3 @@
----
 ## Get World Transform
 **Category:** Transformation
 **Search:** "Get World Transform"

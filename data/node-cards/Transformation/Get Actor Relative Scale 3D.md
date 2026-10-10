@@ -1,4 +1,3 @@
----
 ## Get Actor Relative Scale 3D
 **Category:** Transformation
 **Search:** "Get Actor Relative Scale 3D"

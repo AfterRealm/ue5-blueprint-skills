@@ -1,4 +1,3 @@
----
 ## Get Skeletal Center Of Mass
 **Category:** Physics
 **Search:** "Get Skeletal Center Of Mass"

@@ -1,4 +1,3 @@
----
 ## On Perception Updated
 **Category:** EventDispatchers
 **Search:** "On Perception Updated"

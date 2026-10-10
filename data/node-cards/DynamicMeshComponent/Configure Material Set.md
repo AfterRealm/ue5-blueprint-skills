@@ -1,4 +1,3 @@
----
 ## Configure Material Set
 **Category:** DynamicMeshComponent
 **Search:** "Configure Material Set"

@@ -1,4 +1,3 @@
----
 ## Get Actor Time Dilation
 **Category:** Actor
 **Search:** "Get Actor Time Dilation"

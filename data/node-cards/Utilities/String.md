@@ -1,4 +1,3 @@
----
 ## String
 **Category:** Utilities
 **Search:** "String"

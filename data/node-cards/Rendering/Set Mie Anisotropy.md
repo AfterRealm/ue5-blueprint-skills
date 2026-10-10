@@ -1,4 +1,3 @@
----
 ## Set Mie Anisotropy
 **Category:** Rendering
 **Search:** "Set Mie Anisotropy"

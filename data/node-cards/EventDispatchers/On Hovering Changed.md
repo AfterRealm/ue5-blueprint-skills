@@ -1,4 +1,3 @@
----
 ## On Hovering Changed
 **Category:** EventDispatchers
 **Search:** "On Hovering Changed"

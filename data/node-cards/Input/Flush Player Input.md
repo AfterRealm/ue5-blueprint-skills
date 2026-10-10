@@ -1,4 +1,3 @@
----
 ## Flush Player Input
 **Category:** Input
 **Search:** "Flush Player Input"

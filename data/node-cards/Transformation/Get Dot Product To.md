@@ -1,4 +1,3 @@
----
 ## Get Dot Product To
 **Category:** Transformation
 **Search:** "Get Dot Product To"

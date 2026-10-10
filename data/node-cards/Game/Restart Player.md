@@ -1,4 +1,3 @@
----
 ## Restart Player
 **Category:** Game
 **Search:** "Restart Player"

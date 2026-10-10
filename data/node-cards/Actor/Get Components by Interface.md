@@ -1,4 +1,3 @@
----
 ## Get Components by Interface
 **Category:** Actor
 **Search:** "Get Components by Interface"

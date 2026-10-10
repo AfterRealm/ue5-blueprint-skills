@@ -1,4 +1,3 @@
----
 ## Get Data Layer Manager
 **Category:** Utilities > World Partition
 **Search:** "Get Data Layer Manager"

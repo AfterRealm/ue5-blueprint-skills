@@ -1,4 +1,3 @@
----
 ## Get Spring Current End Point
 **Category:** Physics
 **Search:** "Get Spring Current End Point"

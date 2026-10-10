@@ -1,4 +1,3 @@
----
 ## Set All Bodies Below Physics Disabled
 **Category:** Physics
 **Search:** "Set All Bodies Below Physics Disabled"

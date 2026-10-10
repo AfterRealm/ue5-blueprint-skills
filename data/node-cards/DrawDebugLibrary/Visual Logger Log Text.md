@@ -1,4 +1,3 @@
----
 ## Visual Logger Log Text
 **Category:** DrawDebugLibrary
 **Search:** "Visual Logger Log Text"

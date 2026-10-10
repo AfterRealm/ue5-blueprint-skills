@@ -1,4 +1,3 @@
----
 ## Set Allow Modifier Keys
 **Category:** Widget
 **Search:** "Set Allow Modifier Keys"

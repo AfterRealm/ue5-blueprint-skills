@@ -1,4 +1,3 @@
----
 ## Make Skin Weight Info
 **Category:** Rendering
 **Search:** "Make Skin Weight Info"

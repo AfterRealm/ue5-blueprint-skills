@@ -1,4 +1,3 @@
----
 ## Add Child to Overlay
 **Category:** Widget
 **Search:** "Add Child to Overlay"

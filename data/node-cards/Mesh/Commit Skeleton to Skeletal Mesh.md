@@ -1,4 +1,3 @@
----
 ## Commit Skeleton to Skeletal Mesh
 **Category:** Mesh
 **Search:** "Commit Skeleton to Skeletal Mesh"

@@ -1,4 +1,3 @@
----
 ## Make Object Debug Drawer
 **Category:** DrawDebugLibrary
 **Search:** "Make Object Debug Drawer"

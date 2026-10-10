@@ -1,4 +1,3 @@
----
 ## Copy
 **Category:** Utilities
 **Search:** "Copy"

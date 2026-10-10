@@ -1,4 +1,3 @@
----
 ## Set Is Password
 **Category:** Widget
 **Search:** "Set Is Password"

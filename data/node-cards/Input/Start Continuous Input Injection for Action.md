@@ -1,4 +1,3 @@
----
 ## Start Continuous Input Injection for Action
 **Category:** Input
 **Search:** "Start Continuous Input Injection for Action"

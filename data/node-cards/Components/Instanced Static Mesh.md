@@ -1,4 +1,3 @@
----
 ## Instanced Static Mesh
 **Category:** Components
 **Search:** "Instanced Static Mesh"

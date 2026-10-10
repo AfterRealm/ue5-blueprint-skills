@@ -1,4 +1,3 @@
----
 ## Draw Debug Name Dimensions
 **Category:** DrawDebugLibrary
 **Search:** "Draw Debug Name Dimensions"

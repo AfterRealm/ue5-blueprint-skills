@@ -1,4 +1,3 @@
----
 ## On Component Physics State Changed
 **Category:** Physics
 **Search:** "On Component Physics State Changed"

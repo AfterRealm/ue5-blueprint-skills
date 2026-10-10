@@ -1,4 +1,3 @@
----
 ## Panel
 **Category:** Widget
 **Search:** "Panel"

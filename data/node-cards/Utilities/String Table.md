@@ -1,4 +1,3 @@
----
 ## String Table
 **Category:** Utilities
 **Search:** "String Table"

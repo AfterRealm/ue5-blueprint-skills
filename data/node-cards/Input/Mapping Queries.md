@@ -1,4 +1,3 @@
----
 ## Mapping Queries
 **Category:** Input
 **Search:** "Mapping Queries"

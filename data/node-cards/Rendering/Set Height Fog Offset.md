@@ -1,4 +1,3 @@
----
 ## Set Height Fog Offset
 **Category:** Rendering
 **Search:** "Set Height Fog Offset"

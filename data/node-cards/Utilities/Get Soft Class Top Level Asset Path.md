@@ -1,4 +1,3 @@
----
 ## Get Soft Class Top Level Asset Path
 **Category:** Utilities
 **Search:** "Get Soft Class Top Level Asset Path"

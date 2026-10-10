@@ -1,4 +1,3 @@
----
 ## Virtual Events
 **Category:** Input
 **Search:** "Virtual Events"

@@ -1,4 +1,3 @@
----
 ## On Montage Blending Out
 **Category:** EventDispatchers
 **Search:** "On Montage Blending Out"

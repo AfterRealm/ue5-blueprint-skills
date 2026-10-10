@@ -1,4 +1,3 @@
----
 ## OnUserInputDevicePairingChange
 **Category:** EventDispatchers
 **Search:** "OnUserInputDevicePairingChange"

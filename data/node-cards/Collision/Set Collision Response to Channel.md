@@ -1,4 +1,3 @@
----
 ## Set Collision Response to Channel
 **Category:** Collision
 **Search:** "Set Collision Response to Channel"

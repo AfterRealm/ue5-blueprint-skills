@@ -1,4 +1,3 @@
----
 ## Get Actor Rotation
 **Category:** Transformation
 **Search:** "Get Actor Rotation"

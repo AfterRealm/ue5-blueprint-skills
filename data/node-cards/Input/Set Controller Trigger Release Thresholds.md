@@ -1,4 +1,3 @@
----
 ## Set Controller Trigger Release Thresholds
 **Category:** Input
 **Search:** "Set Controller Trigger Release Thresholds"

@@ -1,4 +1,3 @@
----
 ## OnConnectionsReinitialized
 **Category:** EventDispatchers
 **Search:** "OnConnectionsReinitialized"

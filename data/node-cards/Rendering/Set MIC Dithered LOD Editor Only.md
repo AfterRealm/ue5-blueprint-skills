@@ -1,4 +1,3 @@
----
 ## Set MIC Dithered LOD Editor Only
 **Category:** Rendering
 **Search:** "Set MIC Dithered LOD Editor Only"

@@ -1,4 +1,3 @@
----
 ## Vector
 **Category:** Math
 **Search:** "Vector"

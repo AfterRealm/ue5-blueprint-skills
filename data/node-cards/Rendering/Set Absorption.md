@@ -1,4 +1,3 @@
----
 ## Set Absorption
 **Category:** Rendering
 **Search:** "Set Absorption"
